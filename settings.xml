@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Fields xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EnableChangeConf>false</EnableChangeConf>
+  <EnableShowTips>true</EnableShowTips>
+  <PWDBLang>5</PWDBLang>
+  <EnableBackups>true</EnableBackups>
+  <EnableToClipboard>true</EnableToClipboard>
+  <Language>0</Language>
+  <EnableShowDigits>true</EnableShowDigits>
+  <EnableShowPercents>true</EnableShowPercents>
+  <EnableAutoLoadTasks>false</EnableAutoLoadTasks>
+  <EnableAutoLoadElements>false</EnableAutoLoadElements>
+  <EnableShowInfo>true</EnableShowInfo>
+  <EnableSetNewID>true</EnableSetNewID>
+  <EnableAutoDetectNewID>true</EnableAutoDetectNewID>
+  <EnableShowMarks>true</EnableShowMarks>
+  <EnableShowGreeting>true</EnableShowGreeting>
+  <IgnoreColorCod>false</IgnoreColorCod>
+  <UseUdE>true</UseUdE>
+  <PWDBWindow_Size>
+    <Width>0</Width>
+    <Height>0</Height>
+  </PWDBWindow_Size>
+  <SelectIdWindow_Size>
+    <Width>0</Width>
+    <Height>0</Height>
+  </SelectIdWindow_Size>
+  <SelectItemIdWindow_Size>
+    <Width>0</Width>
+    <Height>0</Height>
+  </SelectItemIdWindow_Size>
+  <SelectBuffIdWindow_Size>
+    <Width>0</Width>
+    <Height>0</Height>
+  </SelectBuffIdWindow_Size>
+  <SelectWorldIdWindow_Size>
+    <Width>0</Width>
+    <Height>0</Height>
+  </SelectWorldIdWindow_Size>
+  <SelectSkillIdWindow_Size>
+    <Width>0</Width>
+    <Height>0</Height>
+  </SelectSkillIdWindow_Size>
+  <SelectTaskDescriptionIdWindow_Size>
+    <Width>0</Width>
+    <Height>0</Height>
+  </SelectTaskDescriptionIdWindow_Size>
+  <SelectRelayStationIdWindow_Size>
+    <Width>0</Width>
+    <Height>0</Height>
+  </SelectRelayStationIdWindow_Size>
+  <SelectTransformedFormIdWindow_Size>
+    <Width>0</Width>
+    <Height>0</Height>
+  </SelectTransformedFormIdWindow_Size>
+  <SelectGrowthTargetWindow_Size>
+    <Width>0</Width>
+    <Height>0</Height>
+  </SelectGrowthTargetWindow_Size>
+  <FilesPath>
+    <ElementPath />
+    <ElementsPath />
+    <TasksPath>C:\PW Summer 1.8.0\element\data\tasks.data</TasksPath>
+    <ConfigsPath />
+    <InterfacesPath />
+    <SurfacesPath />
+    <WorldTargetsPath />
+  </FilesPath>
+</Fields>
