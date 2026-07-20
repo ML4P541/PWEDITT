@@ -1,0 +1,10 @@
+#NPC_ESSENCE
+id_to_discover;world_targets_file
+
+#TARGET_ITEM_ESSENCE
+use_in_combat;ft_bool
+use_in_sanctuary_only;ft_bool
+combined_switch;target_item_combined_switch_pw
+~area_id_$;instance_file
+~target_id_for_pop_$;mob_npc_mine
+

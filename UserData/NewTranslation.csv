@@ -1,0 +1,251 @@
+﻿#WEAPON_ESSENCE
+id_major_type;Type
+id_sub_type;Subtype [id_sub_type]
+Name;Name
+require_projectile;Required Projectile [require_projectile]
+file_model_right;File Model Right
+file_model_left;File Model Left
+file_matter;File Matter
+file_icon;Icon
+require_strength;Requisite Strength [require_strength]
+require_agility;Requisite Dexterity [require_agility]
+require_energy;Requisite Magic [require_energy]
+require_tili;Requisite Vitality [require_tili]
+character_combo_id;Required Class [character_combo_id]
+require_level;Require Level
+require_reputation;Requisite Reputation [require_reputation]
+level;Level
+fixed_props;Fixed Props
+probability_hide;Hidden Addon Prob [probability_hide]
+damage_low;Damage (min) [damage_low]
+damage_high_min;Damage High (min)
+damage_high_max;Damage High (max)
+magic_damage_low;Magic Damage (min) [magic_damage_low]
+magic_damage_high_min;Magic Damage High (min) [magic_damage_high_min]
+magic_damage_high_max;Magic Damage High (max) [magic_damage_high_max]
+attack_range;Attack Range
+short_range_mode;Short Range Mode
+durability_min;Durability (min)
+durability_max;Durability (max)
+levelup_addon;Refine Method [levelup_addon]
+material_need;Refine Mirage Stone Num [material_need]
+price;Price
+shop_price;Shop Price
+repairfee;Repair Fee [repairfee]
+drop_probability_socket0;Drop Probability Socket 0
+drop_probability_socket1;Drop Probability Socket 1
+drop_probability_socket2;Drop Probability Socket 2
+make_probability_socket0;Make Probability Socket 0
+make_probability_socket1;Make Probability Socket 1
+make_probability_socket2;Make Probability Socket 2
+probability_addon_num0;Probability Addon Num 0
+probability_addon_num1;Probability Addon Num 1
+probability_addon_num2;Probability Addon Num 2
+probability_addon_num3;Probability Addon Num 3
+probability_addon_num4;Probability Addon Num 4
+probability_addon_num5;Probability Addon Num 5
+probability_addon_num6;Probability Addon Num 6
+probability_unique;Probability Unique
+addons_1_id_addon;Addons 1 ID Addon
+addons_1_probability_addon;Addons 1 Probability Addon
+addons_2_id_addon;Addons 2 ID Addon
+addons_2_probability_addon;Addons 2 Probability Addon
+addons_3_id_addon;Addons 3 ID Addon
+addons_3_probability_addon;Addons 3 Probability Addon
+addons_4_id_addon;Addons 4 ID Addon
+addons_4_probability_addon;Addons 4 Probability Addon
+addons_5_id_addon;Addons 5 ID Addon
+addons_5_probability_addon;Addons 5 Probability Addon
+addons_6_id_addon;Addons 6 ID Addon
+addons_6_probability_addon;Addons 6 Probability Addon
+addons_7_id_addon;Addons 7 ID Addon
+addons_7_probability_addon;Addons 7 Probability Addon
+addons_8_id_addon;Addons 8 ID Addon
+addons_8_probability_addon;Addons 8 Probability Addon
+addons_9_id_addon;Addons 9 ID Addon
+addons_9_probability_addon;Addons 9 Probability Addon
+addons_10_id_addon;Addons 10 ID Addon
+addons_10_probability_addon;Addons 10 Probability Addon
+addons_11_id_addon;Addons 11 ID Addon
+addons_11_probability_addon;Addons 11 Probability Addon
+addons_12_id_addon;Addons 12 ID Addon
+addons_12_probability_addon;Addons 12 Probability Addon
+addons_13_id_addon;Addons 13 ID Addon
+addons_13_probability_addon;Addons 13 Probability Addon
+addons_14_id_addon;Addons 14 ID Addon
+addons_14_probability_addon;Addons 14 Probability Addon
+addons_15_id_addon;Addons 15 ID Addon
+addons_15_probability_addon;Addons 15 Probability Addon
+addons_16_id_addon;Addons 16 ID Addon
+addons_16_probability_addon;Addons 16 Probability Addon
+addons_17_id_addon;Addons 17 ID Addon
+addons_17_probability_addon;Addons 17 Probability Addon
+addons_18_id_addon;Addons 18 ID Addon
+addons_18_probability_addon;Addons 18 Probability Addon
+addons_19_id_addon;Addons 19 ID Addon
+addons_19_probability_addon;Addons 19 Probability Addon
+addons_20_id_addon;Addons 20 ID Addon
+addons_20_probability_addon;Addons 20 Probability Addon
+addons_21_id_addon;Addons 21 ID Addon
+addons_21_probability_addon;Addons 21 Probability Addon
+addons_22_id_addon;Addons 22 ID Addon
+addons_22_probability_addon;Addons 22 Probability Addon
+addons_23_id_addon;Addons 23 ID Addon
+addons_23_probability_addon;Addons 23 Probability Addon
+addons_24_id_addon;Addons 24 ID Addon
+addons_24_probability_addon;Addons 24 Probability Addon
+addons_25_id_addon;Addons 25 ID Addon
+addons_25_probability_addon;Addons 25 Probability Addon
+addons_26_id_addon;Addons 26 ID Addon
+addons_26_probability_addon;Addons 26 Probability Addon
+addons_27_id_addon;Addons 27 ID Addon
+addons_27_probability_addon;Addons 27 Probability Addon
+addons_28_id_addon;Addons 28 ID Addon
+addons_28_probability_addon;Addons 28 Probability Addon
+addons_29_id_addon;Addons 29 ID Addon
+addons_29_probability_addon;Addons 29 Probability Addon
+addons_30_id_addon;Addons 30 ID Addon
+addons_30_probability_addon;Addons 30 Probability Addon
+addons_31_id_addon;Addons 31 ID Addon
+addons_31_probability_addon;Addons 31 Probability Addon
+addons_32_id_addon;Addons 32 ID Addon
+addons_32_probability_addon;Addons 32 Probability Addon
+rands_1_id_rand;Rands 1 ID Rand
+rands_1_probability_rand;Rands 1 Probability Rand
+rands_2_id_rand;Rands 2 ID Rand
+rands_2_probability_rand;Rands 2 Probability Rand
+rands_3_id_rand;Rands 3 ID Rand
+rands_3_probability_rand;Rands 3 Probability Rand
+rands_4_id_rand;Rands 4 ID Rand
+rands_4_probability_rand;Rands 4 Probability Rand
+rands_5_id_rand;Rands 5 ID Rand
+rands_5_probability_rand;Rands 5 Probability Rand
+rands_6_id_rand;Rands 6 ID Rand
+rands_6_probability_rand;Rands 6 Probability Rand
+rands_7_id_rand;Rands 7 ID Rand
+rands_7_probability_rand;Rands 7 Probability Rand
+rands_8_id_rand;Rands 8 ID Rand
+rands_8_probability_rand;Rands 8 Probability Rand
+rands_9_id_rand;Rands 9 ID Rand
+rands_9_probability_rand;Rands 9 Probability Rand
+rands_10_id_rand;Rands 10 ID Rand
+rands_10_probability_rand;Rands 10 Probability Rand
+rands_11_id_rand;Rands 11 ID Rand
+rands_11_probability_rand;Rands 11 Probability Rand
+rands_12_id_rand;Rands 12 ID Rand
+rands_12_probability_rand;Rands 12 Probability Rand
+rands_13_id_rand;Rands 13 ID Rand
+rands_13_probability_rand;Rands 13 Probability Rand
+rands_14_id_rand;Rands 14 ID Rand
+rands_14_probability_rand;Rands 14 Probability Rand
+rands_15_id_rand;Rands 15 ID Rand
+rands_15_probability_rand;Rands 15 Probability Rand
+rands_16_id_rand;Rands 16 ID Rand
+rands_16_probability_rand;Rands 16 Probability Rand
+rands_17_id_rand;Rands 17 ID Rand
+rands_17_probability_rand;Rands 17 Probability Rand
+rands_18_id_rand;Rands 18 ID Rand
+rands_18_probability_rand;Rands 18 Probability Rand
+rands_19_id_rand;Rands 19 ID Rand
+rands_19_probability_rand;Rands 19 Probability Rand
+rands_20_id_rand;Rands 20 ID Rand
+rands_20_probability_rand;Rands 20 Probability Rand
+rands_21_id_rand;Rands 21 ID Rand
+rands_21_probability_rand;Rands 21 Probability Rand
+rands_22_id_rand;Rands 22 ID Rand
+rands_22_probability_rand;Rands 22 Probability Rand
+rands_23_id_rand;Rands 23 ID Rand
+rands_23_probability_rand;Rands 23 Probability Rand
+rands_24_id_rand;Rands 24 ID Rand
+rands_24_probability_rand;Rands 24 Probability Rand
+rands_25_id_rand;Rands 25 ID Rand
+rands_25_probability_rand;Rands 25 Probability Rand
+rands_26_id_rand;Rands 26 ID Rand
+rands_26_probability_rand;Rands 26 Probability Rand
+rands_27_id_rand;Rands 27 ID Rand
+rands_27_probability_rand;Rands 27 Probability Rand
+rands_28_id_rand;Rands 28 ID Rand
+rands_28_probability_rand;Rands 28 Probability Rand
+rands_29_id_rand;Rands 29 ID Rand
+rands_29_probability_rand;Rands 29 Probability Rand
+rands_30_id_rand;Rands 30 ID Rand
+rands_30_probability_rand;Rands 30 Probability Rand
+rands_31_id_rand;Rands 31 ID Rand
+rands_31_probability_rand;Rands 31 Probability Rand
+rands_32_id_rand;Rands 32 ID Rand
+rands_32_probability_rand;Rands 32 Probability Rand
+uniques_1_id_unique;Uniques 1 ID Unique
+uniques_1_probability_unique;Uniques 1 Probability Unique
+uniques_2_id_unique;Uniques 2 ID Unique
+uniques_2_probability_unique;Uniques 2 Probability Unique
+uniques_3_id_unique;Uniques 3 ID Unique
+uniques_3_probability_unique;Uniques 3 Probability Unique
+uniques_4_id_unique;Uniques 4 ID Unique
+uniques_4_probability_unique;Uniques 4 Probability Unique
+uniques_5_id_unique;Uniques 5 ID Unique
+uniques_5_probability_unique;Uniques 5 Probability Unique
+uniques_6_id_unique;Uniques 6 ID Unique
+uniques_6_probability_unique;Uniques 6 Probability Unique
+uniques_7_id_unique;Uniques 7 ID Unique
+uniques_7_probability_unique;Uniques 7 Probability Unique
+uniques_8_id_unique;Uniques 8 ID Unique
+uniques_8_probability_unique;Uniques 8 Probability Unique
+uniques_9_id_unique;Uniques 9 ID Unique
+uniques_9_probability_unique;Uniques 9 Probability Unique
+uniques_10_id_unique;Uniques 10 ID Unique
+uniques_10_probability_unique;Uniques 10 Probability Unique
+uniques_11_id_unique;Uniques 11 ID Unique
+uniques_11_probability_unique;Uniques 11 Probability Unique
+uniques_12_id_unique;Uniques 12 ID Unique
+uniques_12_probability_unique;Uniques 12 Probability Unique
+uniques_13_id_unique;Uniques 13 ID Unique
+uniques_13_probability_unique;Uniques 13 Probability Unique
+uniques_14_id_unique;Uniques 14 ID Unique
+uniques_14_probability_unique;Uniques 14 Probability Unique
+uniques_15_id_unique;Uniques 15 ID Unique
+uniques_15_probability_unique;Uniques 15 Probability Unique
+uniques_16_id_unique;Uniques 16 ID Unique
+uniques_16_probability_unique;Uniques 16 Probability Unique
+hides_1_id_hide;Hides 1 ID Hide
+hides_1_probability_hide;Hides 1 Probability Hide
+hides_2_id_hide;Hides 2 ID Hide
+hides_2_probability_hide;Hides 2 Probability Hide
+hides_3_id_hide;Hides 3 ID Hide
+hides_3_probability_hide;Hides 3 Probability Hide
+hides_4_id_hide;Hides 4 ID Hide
+hides_4_probability_hide;Hides 4 Probability Hide
+hides_5_id_hide;Hides 5 ID Hide
+hides_5_probability_hide;Hides 5 Probability Hide
+hides_6_id_hide;Hides 6 ID Hide
+hides_6_probability_hide;Hides 6 Probability Hide
+hides_7_id_hide;Hides 7 ID Hide
+hides_7_probability_hide;Hides 7 Probability Hide
+hides_8_id_hide;Hides 8 ID Hide
+hides_8_probability_hide;Hides 8 Probability Hide
+hides_9_id_hide;Hides 9 ID Hide
+hides_9_probability_hide;Hides 9 Probability Hide
+hides_10_id_hide;Hides 10 ID Hide
+hides_10_probability_hide;Hides 10 Probability Hide
+hides_11_id_hide;Hides 11 ID Hide
+hides_11_probability_hide;Hides 11 Probability Hide
+hides_12_id_hide;Hides 12 ID Hide
+hides_12_probability_hide;Hides 12 Probability Hide
+hides_13_id_hide;Hides 13 ID Hide
+hides_13_probability_hide;Hides 13 Probability Hide
+hides_14_id_hide;Hides 14 ID Hide
+hides_14_probability_hide;Hides 14 Probability Hide
+hides_15_id_hide;Hides 15 ID Hide
+hides_15_probability_hide;Hides 15 Probability Hide
+hides_16_id_hide;Hides 16 ID Hide
+hides_16_probability_hide;Hides 16 Probability Hide
+durability_drop_min;Durability Drop (min)
+durability_drop_max;Durability Drop (max)
+decompose_price;Decompose Price
+decompose_time;Decompose Time
+element_id;Element ID
+element_num;Element Num
+id_drop_after_damaged;ID Drop After Damaged
+num_drop_after_damaged;Num Drop After Damaged
+pile_num_max;Stack Amount [pile_num_max]
+has_guid;Has Guid
+proc_type;Protection [proc_type]
