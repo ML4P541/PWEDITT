@@ -1,0 +1,1566 @@
+2
+368
+384
+1174
+
+@EQUIPMENT_ADDON;Lista de Addons
+@WEAPON_MAJOR_TYPE;Tipo de Armas
+@WEAPON_SUB_TYPE;Subtipo de Armas
+@WEAPON_ESSENCE;Armas
+@ARMOR_MAJOR_TYPE;Tipo de Armaduras
+@ARMOR_SUB_TYPE;Subtipo de Armaduras
+@ARMOR_ESSENCE;Armaduras
+@DECORATION_MAJOR_TYPE;Tipo de Acessórios
+@DECORATION_SUB_TYPE;Subtipo de Acessórios
+@DECORATION_ESSENCE;Acessórios
+@MEDICINE_MAJOR_TYPE;Tipo de Medicamentos
+@MEDICINE_SUB_TYPE;Subtipo de Medicamentos
+@MEDICINE_ESSENCE;Medicamentos
+@MATERIAL_MAJOR_TYPE;Tipo de Materiais
+@MATERIAL_SUB_TYPE;Subtipo de Materiais
+@MATERIAL_ESSENCE;Materiais
+@DAMAGERUNE_SUB_TYPE;Tipo de Poder de Ataque
+@DAMAGERUNE_ESSENCE;Poder de Ataque
+@ARMORRUNE_SUB_TYPE;Tipo de Poder de Defesa
+@ARMORRUNE_ESSENCE;Poder de Defesa
+@SKILLTOME_SUB_TYPE;Tipo de Livros de Habilidades
+@SKILLTOME_ESSENCE;Livros de Habilidades
+@FLYSWORD_ESSENCE;Asas
+@WINGMANWING_ESSENCE;Missão de Asas
+@TOWNSCROLL_ESSENCE;Portal da Cidade
+@UNIONSCROLL_ESSENCE;Tipo de União
+@REVIVESCROLL_ESSENCE;Pá/Pergaminho de Renascimento
+@ELEMENT_ESSENCE;Elementos
+@TASKMATTER_ESSENCE;Material de Missões
+@TOSSMATTER_ESSENCE;Lançar Matéria
+@PROJECTILE_TYPE;Tipo de Projétil
+@PROJECTILE_ESSENCE;Projétil
+@QUIVER_SUB_TYPE;Tipo de Balas
+@QUIVER_ESSENCE;Balas
+@STONE_SUB_TYPE;Tipo de Pedras
+@STONE_ESSENCE;Pedras
+@MONSTER_ADDON;Adicional de Monstros
+@MONSTER_TYPE;Tipo de Monstros
+@MONSTER_ESSENCE;Monstros
+@NPC_TALK_SERVICE;Conversas de NPC
+@NPC_SELL_SERVICE;Compras de NPC
+@NPC_BUY_SERVICE;Vendas de NPC
+@NPC_REPAIR_SERVICE;Serviço de Reparo (NPC)
+@NPC_INSTALL_SERVICE;Serviço de Fundir Pedras (NPC)
+@NPC_UNINSTALL_SERVICE;Serviço de Purificação (NPC)
+@NPC_TASK_IN_SERVICE;NPC Serviço de Missões
+@NPC_TASK_OUT_SERVICE;NPC Serviço de Tarefas
+@NPC_TASK_MATTER_SERVICE;NPC Serviço de material de missões
+@NPC_SKILL_SERVICE;Serviço de Habilidades (NPC)
+@NPC_HEAL_SERVICE;Serviço de Cura (NPC)
+@NPC_TRANSMIT_SERVICE;Serviço de Teletransporte (NPC)
+@NPC_TRANSPORT_SERVICE;NPC Serviço de Teletransporte
+@NPC_PROXY_SERVICE;Serviço de Consignação (NPC)
+@NPC_STORAGE_SERVICE;Serviço de Armazenamento
+@NPC_MAKE_SERVICE;NPC Serviço de criar
+@NPC_DECOMPOSE_SERVICE;Serviço de Desmontar (NPC)
+@NPC_TYPE;Tipo de NPC
+@NPC_ESSENCE;NPCs
+@FACE_TEXTURE_ESSENCE;Textura Facial
+@FACE_SHAPE_ESSENCE;Forma Facial
+@FACE_EMOTION_TYPE;Tipo de emoção Facial
+@FACE_EXPRESSION_ESSENCE;Expressões Facial
+@FACE_HAIR_ESSENCE;Cabelo Facial
+@FACE_MOUSTACHE_ESSENCE;Bigode Facial
+@COLORPICKER_ESSENCE;Cor de Personagem
+@CUSTOMIZEDATA_ESSENCE;Modelos de Personagem - Incial
+@RECIPE_MAJOR_TYPE;Tipo de Fórmula
+@RECIPE_SUB_TYPE;Subtipo de Fórmula
+@RECIPE_ESSENCE;Fórmula de Itens
+@ENEMY_FACTION_CONFIG;Config. de Clã Inimigos
+@CHARRACTER_CLASS_CONFIG;Config. de Classes
+@PARAM_ADJUST_CONFIG;Config. de Ajuste Parametros
+@PLAYER_ACTION_INFO_CONFIG;Config. de Ajuste Visual de Jogador
+@TASKDICE_ESSENCE;Pacote/Baus de Itens
+@TASKNORMALMATTER_ESSENCE;Dados de Material da Tarefa
+@FACE_FALING_ESSENCE;Dados Facial
+@PLAYER_LEVELEXP_CONFIG;EXP de Personagens e Mascotes
+@MINE_TYPE;Tipo de Mineral
+@MINE_ESSENCE;Mineral
+@NPC_IDENTIFY_SERVICE;Identificar Item (NPC)
+@FASHION_MAJOR_TYPE;Tipo de Roupas
+@FASHION_SUB_TYPE;Subtipo de Roupas
+@FASHION_ESSENCE;Roupas
+@FACETICKET_MAJOR_TYPE;Tipo de Rolo de Disfarce
+@FACETICKET_SUB_TYPE;Subtipo de Rolo de Disfarce
+@FACETICKET_ESSENCE;Rolo de Disfarce
+@FACEPILL_MAJOR_TYPE;Pílula da Cabeça Grande
+@FACEPILL_SUB_TYPE;Sub Pílula da Cabeça Grande
+@FACEPILL_ESSENCE;Pílula da Cabeça Grande
+@SUITE_ESSENCE;Combo de Equipamentos
+@GM_GENERATOR_TYPE;Tipo de Gerador de GM
+@GM_GENERATOR_ESSENCE;Gerador do GM
+@PET_TYPE;Tipo de Pets ou Montarias
+@PET_ESSENCE;Pets e Montarias
+@PET_EGG_ESSENCE;Ovos de Pets ou Montarias
+@PET_FOOD_ESSENCE;Comida para Pets ou Montarias
+@PET_FACETICKET_ESSENCE;Serviço de Pet facial
+@FIREWORKS_ESSENCE;Fogos de Artifício
+@WAR_TANKCALLIN_ESSENCE;Veiculo de TW - Carroça
+@NPC_WAR_TOWERBUILD_SERVICE;Serviço de Torres e Guardas da TW
+@PLAYER_SECONDLEVEL_CONFIG;Config. de Perda de Exp por Nível
+@NPC_RESETPROP_SERVICE;Serviço de Restauração
+@NPC_PETNAME_SERVICE;Renomear Mascote
+@NPC_PETLEARNSKILL_SERVICE;Aprender Habilidades da Mascote
+@NPC_PETFORGETSKILL_SERVICE;Remover Habilidades de Pets
+@SKILLMATTER_ESSENCE;Material de Boticários
+@REFINE_TICKET_ESSENCE;Refinos e Pérolas
+@DESTROYING_ESSENCE;Destruindo
+@NPC_EQUIPBIND_SERVICE;NPC Serviço de Prender Equipamento
+@NPC_EQUIPDESTROY_SERVICE;NPC Serviço de destruir Item
+@NPC_EQUIPUNDESTROY_SERVICE;Serviço de Cancelar Destruição de Item
+@BIBLE_ESSENCE;Livros
+@SPEAKER_ESSENCE;Emoticons
+@AUTOHP_ESSENCE;Config. de Amuleto
+@AUTOMP_ESSENCE;Config. de Hierograma
+@DOUBLE_EXP_ESSENCE;Livros de Exp
+@TRANSMITSCROLL_ESSENCE;Pedras de Teleporte
+@DYE_TICKET_ESSENCE;Tintas de Roupas e Equipamentos
+@GOBLIN_ESSENCE;Daimons
+@GOBLIN_EQUIP_TYPE;Tipo Equip. de Daimons
+@GOBLIN_EQUIP_ESSENCE;Equipamento de Daimons
+@GOBLIN_EXPPILL_ESSENCE;Pedras e Livros EXP de Daimons
+@SELL_CERTIFICATE_ESSENCE;Lojinhas
+@TARGET_ITEM_ESSENCE;Itens de alvos
+@LOOK_INFO_ESSENCE;Olhar Informações de Jogadores
+@UPGRADE_PRODUCTION_CONFIG;Atualizar Lista de preços
+@ACC_STORAGE_BLACKLIST_CONFIG;Lista Negra de Punidos na Conta
+@FACE_HAIR_TEXTURE_MAP;Textura de Cabelos Iniciais
+@MULTI_EXP_CONFIG;Configurar o Meridiano
+@INC_SKILL_ABILITY_ESSENCE;Nível de Forja
+@GOD_EVIL_CONVERT_CONFIG;Converter configurações GOD e Evil
+@WEDDING_CONFIG;Config. de Casamento e Horário
+@WEDDING_BOOKCARD_ESSENCE;Cartão de Casamento
+@WEDDING_INVITECARD_ESSENCE;Convites de Casamento
+@SHARPENER_ESSENCE;Runas de Equipamentos
+@FACE_THIRDEYE_ESSENCE;Terceiro Olho - Guardião
+@FACTION_FORTRESS_CONFIG;Config. de Clã e Fortaleza
+@FACTION_BUILDING_SUB_TYPE;Sub Configuração de Clã de construção
+@FACTION_BUILDING_ESSENCE;Construção de Clã
+@FACTION_MATERIAL_ESSENCE;Material de construção
+@CONGREGATE_ESSENCE;Contato Imediato
+@ENGRAVE_MAJOR_TYPE;Tipo de Gravura
+@ENGRAVE_SUB_TYPE;Subtipo de Gravura
+@ENGRAVE_ESSENCE;Gravura
+@NPC_ENGRAVE_SERVICE;Serviço de Gravura
+@NPC_RANDPROP_SERVICE;Serviço Reforja R8/Morai
+@RANDPROP_TYPE;Tipo de Serviço R8/Morai
+@RANDPROP_ESSENCE;R8/Morai
+@WIKI_TABOO_CONFIG;Itens/Missões/Formulas Bloqueadas
+@FORCE_CONFIG;Configuração de Ordem
+@FORCE_TOKEN_ESSENCE;Config. de Ordens de Morai
+@NPC_FORCE_SERVICE;Serviço da Ordem de Morai
+@PLAYER_DEATH_DROP_CONFIG;Config. Drop de Itens ao Morrer em PVP
+@DYNSKILLEQUIP_ESSENCE;Selo do lacre
+@CONSUME_POINTS_CONFIG;Config. de Consumo de Pontos
+@ONLINE_AWARDS_CONFIG;Config. de Prêmios Online
+@COUNTRY_CONFIG;Config. da Dinastia
+@GM_ACTIVITY_CONFIG;Config. de Eventos de GM
+@FASHION_WEAPON_CONFIG;Config. de Roupas visual
+@PET_EVOLVE_CONFIG;Config. de Devoluir Pets
+@PET_EVOLVED_SKILL_CONFIG;Config. de Habilidade de Pets
+@MONEY_CONVERTIBLE_ESSENCE;Moeda Convertida
+@STONE_CHANGE_RECIPE_TYPE;Tipo de Alterações de Pedras
+@STONE_CHANGE_RECIPE;Alterações de Pedras
+@MERIDIAN_CONFIG;Configurações de Meridiano
+@PET_EVOLVED_SKILL_RAND_CONFIG;Config. de Pets e Habilidades
+@AUTOTASK_DISPLAY_CONFIG;Config. de Prêmio do Calendário
+@TOUCH_SHOP_CONFIG;Config. da Loja GT - Chinesa
+@TITLE_CONFIG;Configurações de Títulos
+@COMPLEX_TITLE_CONFIG;Config. de Título Avançado
+@MONSTER_SPIRIT_ESSENCE;Tabela de Nuema
+@PLAYER_SPIRIT_CONFIG;Config. de Nuemas de Personagem
+@PLAYER_REINCARNATION_CONFIG;Config. de Despertar
+@HISTORY_STAGE_CONFIG;Configurações de Etapas
+@HISTORY_ADVANCE_CONFIG;Config. Avanço de História
+@AUTOTEAM_CONFIG;Configuração de Grupo em Jogo
+@PLAYER_REALM_CONFIG;Config. de Pontos de Céu - I > X
+@CHARIOT_CONFIG;Config. de Guerra de Tanques
+@CHARIOT_WAR_CONFIG;Config. de Interservidor
+@POKER_LEVELEXP_CONFIG;Configuração de Nivelamento
+@POKER_SUITE_ESSENCE;Combo de Cartas
+@POKER_DICE_ESSENCE;Pacote de Avatar
+@POKER_SUB_TYPE;Tipo de Cartas
+@POKER_ESSENCE;Cartas
+@TOKEN_SHOP_CONFIG;Config. de Tesouro Secreto
+@SHOP_TOKEN_ESSENCE;Tesouro Secreto
+@GT_CONFIG;Configuração de GT - Função Chinesa
+@RAND_SHOP_CONFIG;Config. de Carta Aleatória
+@PROFIT_TIME_CONFIG;Config. de Tempo
+@FACTION_PVP_CONFIG;Config. de PVP Tanques
+@UNIVERSAL_TOKEN_ESSENCE;Ordem do Imperador
+@TASK_LIST_CONFIG;Lista de missões Diárias
+@TASK_DICE_BY_WEIGHT_CONFIG;Config. de Missões diárias
+@FASHION_SUITE_ESSENCE;Combo de Roupas
+@FASHION_BEST_COLOR_CONFIG;Config. de Roupas e Cores
+@SIGN_AWARD_CONFIG;Config. de Calendário
+@ASTROLABE_ESSENCE;Astrolábio
+@ASTROLABE_RANDOM_ADDON_ESSENCE;Esfera Nebulosa
+@ASTROLABE_INC_INNER_POINT_VALUE_ESSENCE;Pérola Astral
+@ASTROLABE_INC_EXP_ESSENCE;Pérola do Astrolábio
+@ITEM_PACKAGE_BY_PROFESSION_ESSENCE;Pacote de Itens Automático
+@ASTROLABE_LEVELEXP_CONFIG;Config. EXP de Astrolábio
+@ASTROLABE_ADDON_RANDOM_CONFIG;Config. da Estrela de Astrolábio
+@ASTROLABE_APPEARANCE_CONFIG;Config. Visual do Astrolábio
+@EQUIP_MAKE_HOLE_CONFIG;Config. Pedra de Liberação
+@SOLO_TOWER_CHALLENGE_LEVEL_CONFIG;Config. de Torre e Nível
+@SOLO_TOWER_CHALLENGE_AWARD_PAGE_CONFIG;Recompensa da Torre
+@SOLO_TOWER_CHALLENGE_AWARD_LIST_CONFIG;Lista de Recompensa da Torre
+@SOLO_TOWER_CHALLENGE_SCORE_COST_CONFIG;Config. de tempo da Torre
+@MNFACTION_WAR_CONFIG;Config. da Guerra de Dragão
+@NPC_CROSS_SERVER_SERVICE;NPC Serviço de Servidor Cross
+@FIREWORKS2_ESSENCE;Fogo de Artifício 2
+@FIX_POSITION_TRANSMIT_ESSENCE;Ordem do Céu
+@HOME_CONFIG;Config. de Moradia
+@HOME_PRODUCTS_CONFIG;Moradia Products Conf.
+@HOME_RESOURCE_PRODUCE_CONFIG;Moradia Resource Produce Conf.
+@HOME_FORMULAS_PRODUCE_RECIPE;Moradia Formulas Produce Recipe
+@HOME_FORMULAS_ITEM_ESSENCE;Moradia Formulas Item
+@HOME_PRODUCE_SERVICE_CONFIG;Config. de Produção da Moradia
+@HOME_FACTORY_CONFIG;Moradia Factory Conf.
+@HOME_ITEM_MAJOR_TYPE;Tipo de Item Moradia
+@HOME_ITEM_SUB_TYPE;Subtipo de Item Moradia
+@HOME_ITEM_ENTITY;Moradia Item Entity
+@HOME_FORMULAS_PRODUCE_MAJOR_TYPE;Tipo de Produção de Fórmulas de Moradia
+@HOME_FORMULAS_PRODUCE_SUB_TYPE;Subtipo de Produção de Fórmulas de Moradia
+@HOME_FORMULAS_ITEM_MAJOR_TYPE;Tipo de Item de Fórmulas de Moradia
+@HOME_FORMULAS_ITEM_SUB_TYPE;Subtipo de Item de Fórmulas de Moradia
+@HOME_STORAGE_TASK_CONFIG;Moradia Storage Task Conf.
+@WISH_TRIBUTE_ESSENCE;Desejo Homenagem
+@RED_PACKET_PAPER_ESSENCE;Pacote Vermelho
+@LOTTORY_TICKET_STORAGE_CONFIG;Config. Sistema de Chaves
+@LOTTORY_TICKET_COST_CONFIG;Custo do Sistema de Chaves
+@LOTTORY_TICKET_OTHER_AWARD_CONFIG;Prêmio Extra do Sistema de Chaves
+@HOME_TEXTURE_ENTITY;Textura de Moradia Individual
+@HOME_GRASS_ENTITY;Grama de Mordia Individual
+@HOME_UNLOCK_PAPER_ESSENCE;Home Unlock Paper
+@GUARDIAN_BEAST_EGG_ESSENCE;Ovo de Fera Elisiana
+@GUARDIAN_BEAST_ENTITY;Entidade de Fera Elisiana
+@GUARDIAN_BEAST_RACE_CONFIG;Guardian Beast Race Config
+@GUARDIAN_BEAST_UPGRADE_CONFIG;Config. de Fera Elisiana
+@GUARDIAN_BEAST_REWARD_CONFIG;Config. de Fera - Recompensa
+@HOME_SKIN_ENTITY;Bioma de Moradia
+@WORLD_SPEAK_COST_CONFIG;Config. de Custo de Global - Flood
+@EASY_PRODUCE_ITEM_ESSENCE;Easy Produce Item
+@ARENA_CONFIG;Config. de Arena
+@ARENA_SCENE_CONFIG;Config. de Cenário da Arena
+@ARENA_POINT_CONFIG;Config. Pontos de Arena
+@ARENA_ENTITY_CONFIG;Config. de Arena Entidade
+@NPC_ARENA_SELL_SERVICE;Vendas no NPC da Arena
+@UNLOCK_RUNE_SLOT_ITEM_ESSENCE;Pedra Rúnica
+@RUNE_ITEM_ESSENCE;Runas de Habilidade
+@RUNE_SKILL_CONFIG;Config. de Runa de Habilidade
+@RUNE_UPGRADE_CONFIG;Config. de Evolução de Runa
+@ARENA_MAP_CONFIG;Config. Mapa da Arena
+@NPC_STATUE_CREATE_SERVICE;NPC Statue Create Service
+@ARENA_FORBID_ITEM_CONFIG;Arena Forbid Item Config
+@ARENA_FORBID_SKILL_CONFIG;Arena Forbid Skill Config
+@CARRIER_CONFIG;Carrier Config
+@CHANGE_PROPERTY_CONFIG;Change Property Config
+@PROFESSION_PROPERTY_CONFIG;Profession Property Config
+@FIX_MONSTER_ITEM_ESSENCE;Fix Monster Item
+@NPC_LIB_PRODUCE_SERVICE;Serviço de Transmutação - Lista
+@LIB_PRODUCE_RECIPE;Formula de Transmutação
+@VOTE_CONFIG;Vote Config
+@SIMULATOR_ITEM_LIST_CONFIG;Simulator Item List Config
+@EQUIPMENT_PRODUCE_METHOD_CONFIG;Equipment Produce Method Config
+@PRODUCTION_LINE_CONFIG;Production Line Config
+@SOURCE_OF_MATERIAL_CONFIG;Source Of Material Config
+@FACTION_TALENT_SINGLE_CONFIG;Clã Talent Single Config
+@FACTION_TALENT_TREE_CONFIG;Clã Talent Tree Config
+@FACTION_TARGET_CONFIG;Clã Target Config
+@INSTANCE_STAGE_CONFIG;Instance Stage Config
+@FACTION_PET_FEED_CONFIG;Clã Pet Feed Config
+@FACTION_TILLAGE_CONFIG;Clã Tillage Config
+@FACTION_PET_CONFIG;Clã Pet Config
+@FACTION_PET_BLESS_CONFIG;Clã Pet Bless Config
+@ITEM_USED_FOR_AREA_ESSENCE;Item Used For Area
+@CAPTURE_ITEM_ESSENCE;Capture Item
+@DRIFT_BOTTLE_DROP_CONFIG;Drift Bottle Drop Config
+@NPC_FACTION_SELL_SERVICE;NPC Clã Sell Service
+@FACTION_INSTANCE_DROP_CONFIG;Clã Instance Drop Config
+@NPC_PARK_ENTER_SERVICE;NPC Park Enter Service
+@FACTION_STORAGE_WHITELIST_CONFIG;Clã Storage Whitelist Config
+@NPC_BOSSRUSH_AWARD_SERVICE;NPC Bossrush Award Service
+@PROFESSION_STATE_CONFIG;Profession State Config
+@MENTAL_PARAM_ADJUST_CONFIG;Mental Param Adjust Config
+@BIBLE_REFINE_CONFIG;Config. de Refino do Livro
+@BIBLE_REFINE_TICKET_ESSENCE;Item de Refino do Livro
+@TITLE_PROGRESS_CONFIG;Config. de Progresso de Título
+@NPC_MYSTERIOUS_SHOP_SERVICE;Loja Misteriosa
+@OFFLINEBATTLE_CONFIG;Offlinebattle Config
+@NPC_PRIDICTABLE_ENGRAVE_SERVICE;Gravura Avançada
+@NEW_ARMOR_MAJOR_TYPE;Tipo de Armadura G17
+@NEW_ARMOR_SUB_TYPE;Subtipo de Armadura G17
+@NEW_ARMOR_ESSENCE;Armadura G17
+@QIHUN_ESSENCE;Espírito G17
+@QILING_ESSENCE;Cristal do Luar
+@STORY_BOOK_MAJOR_TYPE;Tipo de Anedota
+@STORY_BOOK_CONFIG;Config. de Anedota
+@MENTOR_LEVEL_CONFIG;Mentor Level Config
+@STUDENT_AWARD_CONFIG;Student Award Config
+@QIHUN_COVER_ESSENCE;Pacote Espírito G17
+@GROWTH_TARGET_CONFIG;Growth Target Config
+@QUESTION_TIP_CONFIG;Question Tip Config
+@QUESTION_AWARD_CONFIG;Question Award Config
+@SLIDE_SKILL_ESSENCE;Slide Skill
+@CONSUME_MONEY_CONFIG;Consumo de Gold/Moedas dos Espírito
+@USE_FOR_SELF_ITEM_ESSENCE;Use For Self Item
+@HIGH_POLY_FACE_TEXTURE_ESSENCE;High Poly Face Texture
+@HIGH_POLY_FACE_TEMPL_CONFIG;High Poly Face Templ Config
+@NEW_LOTTERY_CONFIG;Config. da Paleta da Fortuna
+@CURRENCY_ITEM_WHITELIST_CONFIG;Config. Moeda de Ouro
+@HIGH_POLY_CUSTOMIZEDATA_ESSENCE;High Poly Customizedata
+@HIGH_POLY_RACE_FEATURE;High Poly Race Feature
+@BLACK_WHITE_LIST_MAJOR_TYPE;Black White List Type
+@BLACK_WHITE_LIST_CONFIG;Black White List Config
+@LOANS_PRODUCE_MAJOR_TYPE;Tipo Parcelamento G17
+@LOANS_PRODUCE_SUB_TYPE;Subtipo Parcelamento G17
+@LOANS_PRODUCE_RECIPE;Parcelamento G17 Formula
+@RED_BOOK_CONFIG;Config. de Memória Celestial
+@RED_BOOK_UPGRADE_ITEM;Memória Celestial Item
+@RED_BOOK_LOTTERY_CONFIG;Memória Celestial Pergaminho Config.
+@ARENA_TICKET_CONFIG;Config de Arena
+@CAMP_LEVEL_CONFIG;Camp Level Config
+@CAMP_TOKEN_CONFIG;Camp Token Config
+@CAMP_TOKEN_TREE_CONFIG;Camp Token Tree Config
+@CAMP_TOKEN_ESSENCE;Camp Token
+@CAMP_TOKEN_UPGRADE_ESSENCE;Camp Token Upgrade
+@CAMP_TOKEN_ROLLBACK_ESSENCE;Camp Token Rollback
+@CAMP_TOKEN_PROB_ADJUST_ESSENCE;Camp Token Prob Adjust
+@CAMP_BATTLE_TECH_TREE_CONFIG;Camp Battle Tech Tree Config
+@SPECIAL_ACTIVITY_RESPAWN_CONFIG;Special Activity Respawn Config
+@MAP_EVENT_CONFIG;Map Event Config
+@SPECIAL_CAMP_REGION_MAJOR_TYPE;Special Camp Region Type
+@SPECIAL_CAMP_REGION_CONFIG;Special Camp Region Config
+@PET_SKIN_CONFIG;Pet Skin Config
+@PET_MULTIRIDE_CONFIG;Pet Multiride Config
+@FASHION_NEW_MAJOR_TYPE;Fashion New Type
+@FASHION_NEW_SUB_TYPE;Fashion New Sub Type
+@FASHION_NEW_ESSENCE;Fashion New
+@WAR_AREA_CONFIG;War Area Config
+@ILLUSTRATED_FASHION_SERIES_CONFIG;Illustrated Fashion Series Config
+@ILLUSTRATED_FASHION_ESSENCE;Illustrated Fashion
+@ILLUSTRATED_WING_EGG_ESSENCE;Illustrated Wing Egg
+@ILLUSTRATED_WING_SERIES_CONFIG;Illustrated Wing Series Config
+@ILLUSTRATED_PET_EGG_ESSENCE;Illustrated Pet Egg
+@ILLUSTRATED_PET_SERIES_CONFIG;Illustrated Pet Series Config
+@ACROSS_SERVER_MATCH_CONFIG;Across Server Match Config
+@NPC_ASAL_CONFIG;NPC Asal Config
+@WILDERNESS_SURVIVAL_CONFIG;Wilderness Survival Config
+@ILLUSTRATED_REWARD_CONFIG;Illustrated Reward Config
+@FAST_PRODUCE_ITEM_TYPE;Fast Produce Item Type
+@FAST_PRODUCE_ITEM_ESSENCE;Fast Produce Item
+@KID_SYSTEM_CONFIG;Kid System Config
+@COURSE_ESSENCE;Course
+@COURSE_SUITE_ESSENCE;Course Suite
+@KID_PROPERTY_CONFIG;Kid Property Config
+@KID_QUALITY_CONFIG;Kid Quality Config
+@KID_EXP_CONFIG;Kid Exp Config
+@KID_UPGRADE_STAR_CONFIG;Kid Upgrade Star Config
+@KID_LEVEL_REWARD_CONFIG;Kid Level Reward Config
+@KID_LEVEL_MAX_CONFIG;Kid Level Max Config
+@KID_DEBRIS_ESSENCE;Kid Debris
+@KID_SKILL_CONFIG;Kid Skill Config
+@KID_DEBRIS_GENERATOR_ESSENCE;Kid Debris Generator
+@KID_PROFESSION_CONFIG;Kid Profession Config
+@BIS_SOI_USE_LIMIT_CONFIG;Bis Soi Use Limit Config
+@REWARD_INTERFACE_CONFIG;Reward Interface Config
+@HISTORY_VARIABLE_PROGRESS_CONFIG;History Variable Progress Config
+@ANNIVERSARY_EVENT_INTERFACE_CONFIG;Anniversary Event Interface Config
+@NEW_HAND_EVENT_EXPUP;New Hand Event Expup
+@NEW_HAND_EVENT_CHALLENGE;New Hand Event Challenge
+@NEW_HAND_EVENT_CONSUMPTION;New Hand Event Consumption
+@NEW_HAND_EVENT_SHOP;New Hand Event Shop
+@REWARD_SHOW_CONFIG;Reward Show Config
+@EXTR_PROP_SKILL_CONFIG;Extr Prop Skill Config
+@MATERIAL_REFINE_ESSENCE;Material Refine
+@MATERIAL_REFINE_TICKET_ESSENCE;Material Refine Ticket
+@REMOVE_TASK_RESULT_CONFIG;Remove Task Result Config
+@LDBATTLE_TRANSFER_POINT_CONFIG;Ldbattle Transfer Point Config
+@HUAZHAO_ACTIVITY_CONFIG;Huazhao Activity Config
+@HERO_BOOK_CONFIG;Hero Book Config
+@CROSS_SERVICE_ROOM_CONFIG;Cross Service Room Config
+@FLYING_CHESS_CONFIG;Flying Chess Config
+
+#ALL
+ID;ID
+Name;Nome
+num_params;Quantidade de valores
+file_hitgfx;GFX impacto
+file_hitsfx;SFX (som) impacto
+probability_fastest;A chance de o mais rápido
+probability_fast;A chance de velocidade
+probability_normal;A chance de normas
+probability_slow;A chance de desaceleração
+probability_slowest;A chance de uma desaceleração máxima
+attack_speed;Intervalo de ataque
+attack_short_range;A distância de fragilidade
+action_type;Tipo de ação
+id_major_type;Tipo
+id_sub_type;Subtipo
+require_projectile;Tipo de munição
+file_model_right;Modelo da direita (*.ecm)
+file_model_left;Modelo da esquerda (*.ecm)
+file_matter;Modelo (*.ecm)
+file_icon;Ícone
+require_strength;Força Necessária
+require_agility;Destreza Necessária
+require_energy;Inteligência Necessária
+require_tili;Constituição Necessária:
+character_combo_id;Classe Necessária
+require_level;Nível necessário
+require_reputation;Reputação (Fama)
+level;Nível
+fixed_props;Cor addons fixos
+probability_hide;A chance de oculto. bônus
+damage_low;Ataque físico (min)
+damage_high_min;Max. Ataque Físico (min)
+damage_high_max;Max. Ataque Físico (max)
+magic_damage_low;Ataque mágico (Min)
+magic_damage_high_min;Max. Ataque Mágico (min)
+magic_damage_high_max;Max. Ataque Mágico (max)
+attack_range;Alcance
+short_range_mode;Tipo de Ataque da Arma
+durability_min;Força (min)
+durability_max;Força (máximo)
+levelup_addon;Bônus de refino
+material_need;Pedra Imortal
+price;Preço do Item
+shop_price;Preço de Compra
+repairfee;Custo reparo
+probability_unique;Uma chance única de bônus
+durability_drop_min;Durabilidade (min)
+durability_drop_max;Durabilidade (max)
+decompose_price;Custo decomposição
+decompose_time;Tempo decomposição
+element_id;Decompõe em
+element_num;Quantidade
+id_drop_after_damaged;Quebra em
+num_drop_after_damaged;Quantidade
+pile_num_max;Stack
+has_guid;Has Guid:
+proc_type;Proctype
+equip_mask;Máscara
+realname;Modelo (pasta)
+equip_location;Posição
+defence_low;Defesa (min)
+defence_high;Defesa (max)
+mp_enhance_low;Melhoria MP (min)
+mp_enhance_high;Melhoria MP (max)
+hp_enhance_low;Melhoria HP (min)
+hp_enhance_high;Melhoria HP (max)
+armor_enhance_low;Melhoria armadura (min)
+armor_enhance_high;Melhoria armadura (max)
+id_hair;ID Cabelo
+id_hair_texture;Textura Cabelo
+force_all_magic_defences;Forçar todas as defesas mágicas
+file_model;Modelo
+damage_high;Ataque físico (max)
+magic_damage_high;Ataque mágico (máximo)
+cool_time;Tempo (ms)
+hp_add_total;Recuperação de HP
+hp_add_time;Tempo de recuperação HP
+mp_add_total;Recuperação de MP
+mp_add_time;Tempo de recuperação MP
+damage_type;Dano
+require_weapon_level_min;Nível necessário arma (min)
+require_weapon_level_max;Nível necessário arma (max)
+damage_increased;Dano aumentado
+file_gfx;GFX
+file_sfx;SFX
+require_player_level_min;Nível necessário
+require_player_level_max;Nível máximo
+damage_reduce_percent;Dano absorvido (%)
+damage_reduce_time;Tempo de redução
+speed_increase_min;Voo simples (m/s)
+speed_increase_max;Voo simples (m/s)
+speed_rush_increase_min;Voo acelerado (m/seg.)
+speed_rush_increase_max;Voo acelerado (m/seg.)
+time_max_min;Tempo ativo (min)
+time_max_max;Tempo ativo (max)
+time_increase_per_element;O aumento de energia no elemento
+fly_mode;Modo de voo
+max_improve_level;Nível máximo de melhoria
+speed_increase;Velocidade
+mp_launch;Mínima maná para исп.
+mp_per_second;O consumo de mana
+use_time;Tempo de utilização
+file_firegfx;GFX disparo
+type;Tipo
+damage_enhance;Nat ataque +
+damage_scale_enhance;Mais ao ataque por nível
+id_projectile;ID Projétil
+num_min;Quantidade mínima
+num_max;Quantidade máxima
+color;Cor
+install_price;Preço adicionar
+uninstall_price;Preço remoção
+id_addon_damage;Bônus arma
+id_addon_defence;Bônus armadura
+weapon_desc;Descrição arma
+armor_desc;Descrição armadura
+combined_switch;Ações combinadas
+id_addon_decoration;Bônus do enfeite
+decoration_desc;Descrição do enfeite
+id_type;Tipo
+prop;Propriedades elementais
+edesc;?Descrição do elemento
+desc;Descrição
+faction;Facção
+monster_faction;Facção
+file_gfx_short;GFX 1
+file_gfx_short_hit;GFX 2
+size;Tamanho
+damage_delay;Delay ataque
+id_strategy;Tipo de ataque
+role_in_war;Papel na batalha
+show_level;Nível do monstro
+id_pet_egg_captured;Ovo
+life;HP
+defence;Defesa física
+immune_type;Tipo de Imunidade
+exp;Experiência
+skillpoint;Alma
+money_average;Moeda
+money_var;Moedas
+sight_range;Campo de visão
+attack;Acerto
+armor;Esquiva
+damage_min;Ataque mínimo
+damage_max;Ataque máximo
+magic_damage_min;Ataque mágico (min)
+magic_damage_max;Ataque mágico (máximo)
+id_skill;Skill ID
+skill_level;Nível habilidade
+hp_regenerate;Recuperação de HP
+aggressive_mode;Agressão
+monster_faction_ask_help;Pede ajuda (máscara)
+monster_faction_can_help;Ajuda o grupo (máscara)
+aggro_range;Área de agressividade
+aggro_time;Tempo de agressividade
+inhabit_type;Posição
+patroll_mode;Modo de patrulha
+stand_mode;Modo
+walk_speed;Velocidade de caminhada
+run_speed;Velocidade de corrida
+fly_speed;Velocidade de voo
+swim_speed;Velocidade de nado
+attack_degree;A taxa de ataque
+defend_degree;Índice de protecção
+common_strategy;AIPolicy ID (estratégia)
+after_death;Após a morte
+drop_times;Quantidade de drops
+drop_protected;Drop livre
+highest_frequency;Frequência
+no_accept_player_buff;Não aceitar buffs do jogador
+invisible_lvl;Nível de invisibilidade
+uninvisible_lvl;Nível de visibilidade
+no_auto_fight;Não ataque automaticamente
+fixed_direction;Direção fixa
+id_building;Construção
+hp_adjust_common_value;Ajuste de HP
+defence_adjust_common_value;Ajuste de defesa
+attack_adjust_common_value;Ajuste de ataque
+max_move_range;Máxima distância de perseguição
+drop_for_no_profit_time;Drop não afeta o tempo residual
+drop_mine_condition_flag;Condição de dropar mina
+drop_mine_probability;Probabilidade mina
+label;Pagamento. descrição
+domain_related;Relacionado a domain
+carrier_id;ID Configurações de transporte
+max_received_damage_per_hit;Dano Máximo por Ataque
+monster_father_id;ID pai do monstro
+monster_father_part;A parte principal do monstro
+faction_instance_drop_config_id;ID drop guild dungeons
+id_dialog;NPC talk ID
+storage_id;Contrato Divino
+storage_open_item;Item abertura do contrato
+storage_refresh_item;Item para atualização do contrato
+storage_refresh_per_day;Máxima de atualizações de contrato em dia
+storage_refresh_count_min;Número de missões no contrato (min)
+storage_refresh_count_max;Número de missões no contrato (máximo)
+storage_deliver_per_day;Máxima esco. missões de armazenamento em dia
+storage_refresh_on_crossserver;Atualizar a missão no cross-server
+num_targets;Pontos de teleporte
+id_make_skill;Habilidade de forja
+produce_type;Tipo de Forja
+id_decompose_skill;Habilidade de forja necessária
+refresh_time;Tempo de atualização
+attack_rule;Guardião
+tax_rate;O montante do imposto
+id_src_monster;Vinculado mob
+hello_msg;Saudação
+id_to_discover;Ativada ponto de TP
+id_talk_service;Serviço de dialogo
+id_sell_service;Serviço de venda
+id_buy_service;Serviço de compra
+id_repair_service;Serviço de reparo
+id_install_service;Serviço de fundir pedras
+id_uninstall_service;Serviço de purificar pedras
+id_task_out_service;Serviços de missões (pegar)
+id_task_in_service;Serviço de missões (entregar)
+id_task_matter_service;O serviço de Emissão de кв. rizóbio.
+id_skill_service;Serviço de aprender habilidades
+id_heal_service;Serviço de Cura
+id_transmit_service;Serviço de teleporte
+id_transport_service;Serviço de transporte
+id_proxy_service;Serviço de proxy
+id_storage_service;Serviço de armazenamento
+id_make_service;Serviço de forja
+id_decompose_service;Serviço de destruir
+id_identify_service;Serviço de identificação de itens
+id_war_towerbuild_service;Serviço de construir torres (TW)
+id_resetprop_service;Serviço de resetar atributos
+id_petname_service;Serviço de nome do mascote (Pets)
+id_petlearnskill_service;Serviço de habilidades (Pets)
+id_petforgetskill_service;Serviço de remoção de habildades (Pet)
+id_equipbind_service;Serviço de prender equipamentos
+id_equipdestroy_service;Serviço de destruir itens
+id_equipundestroy_service;Serviço de cancelamento de destruição
+id_goblin_skill_service;O serviço de Pesquisa de habilidades gênio
+id_cross_server_service;Serviços (Cross Servidor)
+combined_services;Serviços combinados
+id_mine;Mina
+no_collision;Sem colisão
+id_engrave_service;Serviço de gravura
+id_randprop_service;Serviço de addons aleatórios
+id_force_service;Serviço de facções (Morai)
+id_arena_sell_service;O serviço de Venda da arena
+id_statue_create_service;Serviço de Criação de estátuas
+id_lib_produce_service;O Serviço De Jbeil. produção
+id_faction_sell_service;O serviço de Venda de guilda
+faction_combined_services;Uma combinação de serviços de guilda
+id_park_enter_service;O serviço de Logon de passeio no parque de diversões
+file_base_tex;A textura
+file_high_tex;Subcut. a textura
+tex_part_id;O ID é a parte da textura
+gender_id;Gênero
+visualize_id;ID visualização
+user_data;Dados do usuário
+facepill_only;Só para pílulas
+fashion_head_only;Só para chapelaria
+file_shape;A textura
+shape_part_id;ID do rosto
+file_expression;A textura
+emotion_id;ID Emoções
+file_hair_skin;Modelo
+file_hair_model;?O modelo do cabelo
+file_moustache_skin;A textura
+file_colorpicker;Arquivo da cor
+color_part_id;ID da cor
+file_data;Arquivo de configuração
+recipe_level;Nível do recipe
+bind_type;Tipo de vinculação
+fail_probability;Probabilidade de falha
+num_to_make;Quantidade de items
+duration;Tempo de Forja (Em Segundos)
+id_upgrade_equip;Upgrade
+upgrade_rate;Taxa de upgrade
+engrave_upgrade_rate;Taxa Upgrade Gravura
+addon_inherit_fee_rate;Taxa Upgrade Transf. Addons
+arena_personal_point;Necessários pontos de arena
+poker_recipe;Cartões de receita
+character_class_id;Classe de personagem
+enemy_faction;Dão de frente com um grupo de
+hp_gen;Regen de HP
+mp_gen;Regen de MP
+crit_rate;Chance de acerto crítico
+vit_hp;A HP para pc. resistência
+eng_mp;MP por pc. inteligência
+agi_attack;Mira quando +agilidade
+agi_armor;Esquivando-se quando +agilidade
+lvlup_hp;+De HP com o aumento do nível de
+lvlup_mp;+MP ao aumento do nível
+lvlup_dmg;+De elaboração de um ataque ao aumento do nível
+lvlup_magic;+Mago ataque ao aumento do nível
+lvlup_defense;+De elaboração de deformaç ao aumento do nível
+lvlup_magicdefence;+Mag def ao aumento do nível
+angro_increase;+ a agra
+dmg_adj_to_spec_atk_speed;Multiplicador de dano de especificação. velocidade de ataque
+atk_rate_adj_to_spec_atk_speed;O multiplicador de ataque da especificação. velocidade de ataque
+action_name;Nome da ação
+action_prefix;O prefixo passos
+hide_weapon;Esconder armas
+use_on_pick;Usar ao pegar
+no_use_in_combat;Não pode ser usado em combate
+file_faling_skin;A textura
+level_required;Nível necessário
+id_equipment_required;Item necessário
+eliminate_tool;Unknow
+time_min;Tempo mínimo
+time_max;Tempo máximo
+task_in;Obtém missão
+task_out;Finaliza missão
+uninterruptable;Não pode ser interrompido
+npcgen_times;O número de chamadas de mobs
+permenent;Não desaparece
+max_gatherer;Quantidade máxima
+mine_type;Tipo
+gather_dist;Distância
+material_gain_ratio;Chance de obter
+gather_start_action_config;Animação de coleta (Origem)
+gather_loop_action_config;Animação de coleta (Ciclo)
+caster_word;Descrição
+cursor;O cursor
+fee;Preço
+equip_fashion_mask;A máscara de uma célula
+require_dye_count;Quantidade de tinta
+gender;Gênero
+wear_action;Ação
+h_min;Hue (min)
+h_max;Hue (máximo)
+s_min;Saturação (min)
+s_max;Saturação (max)
+v_min;Brilho (min)
+v_max;Brilho (máx)
+bound_file;Dados
+unsymmetrical;0 - Normal | 1 -  Avançado 
+camera_scale;O zoom da câmera
+max_equips;Quantidade de equipamentos
+id_object;Monstro
+level_max;Nível máximo
+level_require;Nível necessário
+pet_snd_type;Tipo de som dos passos
+hp_a;HP a
+hp_b;HP b
+hp_c;HP c
+hp_gen_a;Melhoria de HP a
+hp_gen_b;Melhoria de HP b
+hp_gen_c;Melhoria de HP c
+damage_a;Melhoria de dano A
+damage_b;Melhoria de dano B
+damage_c;Melhoria de dano C
+damage_d;Melhoria de dano D
+speed_a;Velocidade a
+speed_b;Velocidade b
+attack_a;Ataque A
+attack_b;Ataque B
+attack_c;Ataque C
+armor_a;Defesa A
+armor_b;Defesa B
+armor_c;Defesa C
+physic_defence_a;Defesa física A
+physic_defence_b;Defesa física B
+physic_defence_c;Defesa física C
+physic_defence_d;Defesa física D
+magic_defence_a;Defesa mágica A
+magic_defence_b;Defesa mágica B
+magic_defence_c;Defesa mágica C
+magic_defence_d;Defesa mágica D
+mp_a;MP a
+mp_gen_a;Melhoria MP a
+attack_degree_a;Taxa de ataque
+defence_degree_a;Índice de protecção
+food_mask;Tipo de alimento
+plant_group;Planta
+group_limit;Limite
+player_gain_skill;Player Gain Skill
+id_pet_egg_evolved;Id Pet Evoluído
+cost_index;Custo
+hp_inherit_max_rate;Legacy. HP máximo
+attack_inherit_max_rate;Legacy. max ataque
+defence_inherit_max_rate;Legacy. max proteção
+attack_level_inherit_max_rate;Legacy. max taxa de ataque
+defence_level_inherit_max_rate;Legacy. max índice de protecção
+specific_skill;Especificação. nível de aptidão
+id_evolved_skill_rand;Habilidade evolução
+id_pet;Mascote
+money_hatched;Preço de incubação
+money_restored;Preço recuperação
+honor_point;Humor
+skill_point;Alma
+hornor;Dedicação
+food_type;Tipo de alimento
+file_fw;Animação
+time_to_fire;Tempo 
+id_object_need;Item necessário
+level_skill;Nível habilidade
+ext_reserved_prob;Probabilidade de Falha
+ext_succeed_prob;Probabilidade de Sucesso
+fail_reserve_level;Tipo
+binding_only;Apenas equipamentos presos
+require_level_max;Nível Necessário (max)
+id_icon_set;ID conjunto
+total_hp;Quantidade de HP
+trigger_amount;MP menor que (%)
+total_mp;Quantidade MP
+double_exp_time;Duração
+cross_world_transmit;Teleport entre os locais
+usage;Tipo de tinta
+exp_factor;Multiplicador de EXP
+init_strength;Força
+init_agility;Agilidade
+init_energy;Inteligência
+init_tili;Vitalidade
+max_refine_lvl;Refino máximo (NÃO FUNCIONA)
+equip_type;0 - Jade :: 1 - Amuleto :: 2 - Espelho :: 3 - Jóia
+req_goblin_level;Nível daimon necessário
+strength;Força +
+agility;Agilidade +
+energy;Pontos Ativos VIP
+tili;Resistência +
+show_model;Modelo
+num_sell_item;Máximo de items à venda
+num_buy_item;Máximo de itens compra
+max_name_length;Caracteres nome 
+name_image;Quadro de títulos
+num_use_pertime;Número de uso
+num_area;Área
+use_in_combat;Pode ser utilizado em batalha
+use_in_sanctuary_only;Apenas em zonas seguras
+target_faction;Alvo
+inc_ratio;Aumento de experiência até
+year;Ano
+month;Mês
+day;Dia
+addon_time;O tempo de ação
+gfx_index;Índice de efeito
+money;Custo
+base_time;Tempo Base
+delta_time;Aceleração
+congregate_type;Tipo de Recall
+require_level_min;Nível Necessário (min)
+reputation_max;Prestígio máximo
+contribution_max;Contribuição máxima
+join_money_cost;Custo de moedas
+join_item_cost;Custo de item
+quit_repution_cost;Multa de prestigio ao sair
+quit_contribution_cost;Multa de contribuição ao sair
+require_force;Exigida a fração
+reputation_add;Prestígio
+reputation_increase_ratio;Ratio de bônus
+force_id;ID Facção
+max_time;Limite
+flag_mine_id;Mina Bandeira (ID)
+attack_flag_goal_radius;O raio da área (Ataque)
+defence_flag_goal_radius;O raio da área (Proteção)
+disabled;Desativado
+id_old_stone;Pedra antiga
+id_new_stone;Pedra nova
+condition;Condição
+after_name;Posição
+phy_damage;Ataque físico
+magic_damage;Ataque mágico
+phy_defence;Defesa Física
+magic_defence;Defesa Mágica
+broadcast;Broadcast
+event;Evento
+position_in_suite;Posição completo
+enabled;Habilitado
+dynamic_color;Dinâmico
+switch_color_interval;O intervalo de mudança de cor
+power;Energia
+hp;HP
+damage;Ataque físico
+vigour;Espirito
+progress_value_id;Progresso (ID)
+progress_value_goal;Valor necessário
+require_gender;Sexo
+require_soul_power;Trebes. o poder do espírito
+worldtag;ID locais(worldtag)
+time_type;Periodicidade
+week;Semana
+shape;A forma (aparência)
+hp_inc_ratio;O multiplicador de saúde
+speed;Velocidade de movimento
+pre_chariot;ID catapulta anterior ur.
+upgrade_cost;O custo de melhorias
+promote_ratio;Bônus
+swallow_exp;Experiência
+file_img;Avatar
+rank;Categoria
+max_level;Nível Máximo
+inc_hp;HP +
+inc_damage;Ataque físico +
+inc_magic_damage;Ataque mágico +
+inc_defence;Defesa
+inc_vigour;O espírito de luta +
+show_order;Posição
+id_token_shop;ID configurações
+inc_attack_degree;A taxa de ataque
+inc_defend_degree;Índice de protecção
+first_buy_price;Preço inicial
+first_buy_range;O número inicial de
+point;Pontos para a compra
+upper_limit;Tempo residual
+max_weight;Máximo de pontos
+other_task_list_config_id;Uma lista especial de missões
+min_inner_point_value;O poder de uma estrela do destino (min)
+max_inner_point_value;O poder de uma estrela do destino (máximo)
+max_init_inner_point_value;Máxima de poder inicial estrelas do destino
+init_all_inner_point_value;A força total da estrela do destino (min)
+max_all_inner_point_value;A força total da estrela do destino (máximo)
+id_rand_when_fail;Bônus ao falhar
+base_swallow_exp;A experiência com a ingestão de
+has_guid_rand;Gerar um GUID
+addon_random_exp_gained;Experiência obtida
+increase_base;Aumento 
+require_min_all_inner_point_value;Nível mínimo necessário
+require_max_all_inner_point_value;Nível máximo necessário
+item_expire_timelength;O tempo de ação
+sign_up_money_cost;O custo do registo
+resource_point;O número inicial de recursos
+resource_tower_destroy_reduce_point;A redução de recursos para a destruição da torre
+attacker_boss_tid;ID do chefe (Ataque)
+defender_boss_tid;ID do chefe (Proteção)
+attacker_small_boss_tid;ID encarnação chefe (Ataque)
+defender_small_boss_tid;ID encarnação chefe (Proteção)
+small_boss_death_reduce_point;A redução de recursos para a destruição da encarnação chefe
+attacker_small_boss_controller_id;ID do controlador da encarnação chefe (Ataque)
+defender_small_boss_controller_id;ID do controlador da encarnação chefe (Proteção)
+small_boss_appear_time;O tempo de aparecimento da encarnação chefe
+debuff_appear_time;O tempo do advento дебаффа
+debuff_init_ratio;Poder inicial дебаффа
+debuff_enhance_ratio_per_minute;O aumento do poder de дебаффа em um minuto
+domain_resurrect_pos_range;Refeições a ressurreição de Raio
+domain_resource_point_range;Fonte de recursos Raio
+domain_degree_total;Domain degree total
+domain_degree_per_person_second;Domain degree per second person
+domain_gain_resource_point_per_second;A obtenção de recursos de origem para o intervalo de
+domain_gain_resource_point_interval;O intervalo de obter recursos da fonte
+domain_reduce_resource_point_on_death;A redução de recursos para a destruição do jogador
+activity_type;Tipo
+player_count_limit;Quantidade máxima de jogadores
+time_out;Tempo gasto no interservidor
+need_item_tid;Item Requerido
+need_item_count;Quantidade
+cost_item;Quantidade de itens (asd)
+history_max_level_require;Nível máximo requerido
+taoist_rank_require;Cultivo
+realm_level_require;Nível de céu
+male_mine_id;Mina (homens)
+female_mine_id;Mina (mulher)
+cast_action;Ação
+receiver_word;Descrição 2
+is_have_surface_display;Item exibido
+time;Tempo de Produção
+building_level_min;Trebes. o nível do edifício (min)
+building_level_max;Trebes. o nível do edifício (máximo)
+file_matter_primary;Modelo (Inicial)
+file_matter_grow_up;Modelo (Completo)
+file_matter_ripe;O Modelo (Que Cresceu)
+output;O número de recursos recebidos
+produce_item_times;O número de ciclos de produção de itens
+cost_grain_count;Trebes. alimento
+cost_item_id;ID trebes. assunto
+cost_item_count;O número de opc. assunto
+sub_type;Sob o tipo de
+prosperous_effect_ratio;Multiplicador de bônus de prosperidade
+service_type;Tipo de produção
+is_base_formulas;Fórmula básica
+level_need;Trebes. o nível de
+home_item_id;ID do objeto para o lar
+success_probility;A chance de criar
+count;Quantidade do objeto
+time_use;Tempo de produção
+energy_consume;Energia Nerce.
+home_exp_gain;Experiência em casa pela criação de
+produce_consume_stone_num;Trebes. pedra
+produce_consume_wood_num;Trebes. madeira
+produce_consume_iron_num;Trebes. ferro
+produce_consume_cloth_num;Trebes. tecido
+produce_consume_money;Moedas Necessárias
+formulas_id;ID receita
+produce_times;Número de utilizações da prescrição
+factory_type;Tipo de especialização
+min_general_prosperous;Normal prosperidade (min)
+max_general_prosperous;Normal prosperidade (máximo)
+min_fine_prosperous;Raro prosperidade (min)
+max_fine_prosperous;Raro prosperidade (máximo)
+fine_rand_probability;Chance rara de prosperidade
+clean;Limpeza
+max_placed_num;Máxima de colocações
+is_permit_outside;Você pode posicionar na terra
+hang_type;Localização
+is_display;Exibir
+factory_config;Especialização
+resource_config;Produção
+show_priority;Prioridade de exibição
+forbid_equip;Não é possível equipar o
+refresh_task_count_min;Número de missões (min)
+refresh_task_count_max;Número de missões (máximo)
+refresh_times;As atualizações de um dia
+refresh_cost_grain;Trebes. alimento para a atualização
+deliver_task_max;O número de missões recebidas por dia
+unique_id;ID histórica da variável
+value_add;Adicionar o valor do ist. mover.
+skill_id;ID aptidão
+item_id;ID do objeto
+item_count;Quantidade do objeto
+time_limit;O limite de tempo
+money_min;Moedas (min)
+money_max;Moedas (máximo)
+cash_min;Gold (min)
+cash_max;Gold (máximo)
+deliver_count_min;Número de envelopes (min)
+deliver_count_max;Número de envelopes (máximo).
+special_item_id;ID item especial
+require_item_id;ID trebes. assunto
+require_item_count;Quantidade
+award_point;Pontos para a pesquisa
+require_point;Trebes. pontos
+controller_id;ID do controlador
+file_tex;A textura
+texture_id;ID texturas de casa
+grass_id;ID plantas em casa
+id_home_item;ID do objeto para o lar
+id_guardian_beast;ID do animal de estimação da casa
+swallow_energy;Energia e na absorção de
+guardian_beast_id;ID do animal de estimação da casa
+race;Raça
+max_enemy;Máximo de inimigos
+id_cost_config;ID Definições de valor
+id_guardian_beast_egg;ID do ovo animal de estimação da casa
+base_reward;Prêmio Principal
+skin_id;ID locais da casa
+area_id;ID locais
+max_cost;O valor máximo de
+enable_produce_ui;Exibir a janela de produção
+team_create_cost;O custo de criação de um comando
+battle_match_cost;O custo de seleção de batalha
+teammate_max_count;Máximo tamanho de grupo
+slot;Slot de Runa
+next_level_item_id;ID rizóbio. a trilha. ur.
+previous_level_item_id;ID rizóbio. diante. ur.
+id_src_npc;ID associado Nipa
+timelength;Tempo da Estátua
+wait_time;O tempo de espera
+monster_id;ID do monstro
+skil_id;ID habilidades
+produce_consume_point;Trebes. pontos para a criação de
+choice_count;A quantidade de opções
+award_times;A quantidade de emissão de prêmios
+equipment_id;ID do objeto
+material_id;ID do objeto
+material_desc;Descrição
+source_recipe_desc;Fonte de receita Descrição
+source_qshop;Origem Shop
+source_offline_shop;Fonte loja de comissionamento
+source_box;Fonte Loteria/Baú
+require_complete_times;Trebes. executar vez
+faction_score;Pontos de guilda
+faction_money;Ouro guilda
+auto_active;Auto ativação
+common_value_id;ID globe. variável
+common_value;O valor da globe. variável
+faction_target_config_id;ID objetivo da guilda
+task_id;ID da busca
+task_probability;A probabilidade de busca
+cast_start_action;Animação (Início)
+cast_loop_action;Animação (Ciclo)
+cast_end_action;Animação (Final)
+file_pos_img;A imagem do estado progresso
+progress_speed;A velocidade do progresso
+require_player_count;Trebes. o número de jogadores
+pos_max_x;Coord. max X
+pos_max_z;Coord. max Z
+pos_min_x;Coord. min X
+pos_min_z;Coord. min Z
+magic_defences_1_low;Defesa metal (min)
+magic_defences_2_low;Defesa madeira (min)
+magic_defences_1_high;Defesa metal (max)
+magic_defences_2_high;Defesa madeira (max)
+magic_defences_3_low;Defesa água (min)
+magic_defences_3_high;Defesa água (max)
+magic_defences_4_low;Defesa fogo (min)
+magic_defences_4_high;Defesa fogo (max)
+magic_defences_5_low;Defesa terra (min)
+magic_defences_5_high;Defesa terra (max)
+build_info_1_id_in_build;Monstro $
+area_id_1;ID Área $
+magic_defences_1;Defesa metal
+magic_defences_2;Defesa madeira
+magic_defences_3;Defesa água
+magic_defences_4;Defesa fogo
+magic_defences_5;Defesa terra
+drop_mines_1_life;Tempo de vida
+prof_list_2_gender_list_1_item_id;Mago
+prof_list_2_gender_list_2_item_id;Mago
+prof_list_3_gender_list_1_item_id;Espiritualista
+prof_list_3_gender_list_2_item_id;Espiritualista
+prof_list_4_gender_list_1_item_id;Feiticeira
+prof_list_4_gender_list_2_item_id;Feiticeira
+prof_list_5_gender_list_1_item_id;Bárbaro
+prof_list_5_gender_list_2_item_id;Bárbaro
+prof_list_6_gender_list_1_item_id;Mercenário
+prof_list_6_gender_list_2_item_id;Mercenário 
+prof_list_7_gender_list_1_item_id;Arqueiro
+prof_list_7_gender_list_2_item_id;Arqueiro
+prof_list_8_gender_list_1_item_id;Sacerdote
+prof_list_8_gender_list_2_item_id;Sacerdote
+prof_list_9_gender_list_1_item_id;Arcano
+prof_list_9_gender_list_2_item_id;Arcano
+prof_list_10_gender_list_1_item_id;Místico
+prof_list_10_gender_list_2_item_id;Místico
+prof_list_11_gender_list_1_item_id;Retalhador
+prof_list_11_gender_list_2_item_id;Retlhador
+prof_list_12_gender_list_1_item_id;Tormentador
+prof_list_12_gender_list_2_item_id;Tormentador
+level_1_award_page_config_id;Recompensa Andar $
+storage_refresh_money;Quantidade de moedas - atualizar
+model_scale;Escala do Modelo
+require_reincarnation_times;Requer Despertar (Vezes)
+dialog;Diálogo
+
+~build_info_$_id_in_build;Monstro 1
+~area_id_$;ID locais $1
+~param$;Valor $1
+~drop_probability_socket$;Drop :: Probabilidade $1 slots
+~make_probability_socket$;Forja :: Probabilidade $1 slots
+~probability_addon_num$;Probabilidade de Ter $1 Addons
+~addons_$_id_addon;Addon $1
+~addons_$_probability_addon;Probabilidade $1
+~rands_$_id_rand;Addon $1
+~rands_$_probability_rand;Probabilidade $1
+~uniques_$_id_unique;Addon único $1
+~uniques_$_probability_unique;Probabilidade addon único $1
+~hides_$_id_hide;Hides $1 ID Hide
+~hides_$_probability_hide;Hides $1 Probability Hide
+~file_model$;O modelo de $1 (sombra)
+~improve_config_$_require_item_num;Custo melhoria $1
+~improve_config_$_speed_increase;Aumento da velocidade (min) $1
+~improve_config_$_speed_rush_increase;Aumento da velocidade (max) $1
+~id_addon$;Bônus $1
+~aggro_strategy_$_id;Estratégia ID $1
+~aggro_strategy_$_probability;Probabilidade
+~skill_hp$_$_id_skill;[$1% HP] Aptidão $2
+~skill_hp$_$_level;O nível de $1
+~skill_hp$_$_probability;A chance de $1
+~skills_$_id_skill;Habilidade $1
+~skills_$_level;Nível habilidade
+~probability_drop_num$;Probabilidade de dropar $1 itens
+~drop_matters_$_id;Item $1
+~drop_matters_$_probability;Probabilidade $1
+~drop_mines_$_id;Mina $1
+~drop_mines_$_probability;Probabilidade minas
+~drop_mines_$_life;Tempo de vida
+~local_var_$;Váriavel local $1
+~pages_$_page_title;Aba $1
+~pages_$_require_contrib;Contribuição (Morai) necessária
+~pages_$_require_force;Facção (Ordem) necessária
+~pages_$_require_force_reputation;Prestigio necessário
+~pages_$_goods_$_id;Item $1-$2
+~pages_$_goods_$_contrib_cost;Custo contribuição
+~pages_$_goods_$_force_contribution_cost;Custo Influência
+~pages_$_goods_$_solo_tower_challenge_score_cost;Custo Pontos Torre do Martirio
+~id_goods_$;Mercadorias $1
+~id_tasks_$;Missão
+~tasks_$_id_task;Missão $1
+~tasks_$_taks_matters_$_id_matter;Item $1
+~tasks_$_taks_matters_$_num_matter;Quantidade $1
+~id_skills_$;Habilidade ID: 
+~targets_$_idTarget;ID do Teleporte
+~targets_$_fee;Custo
+~targets_$_required_level;Mínima de nível
+~routes_$_id;rotas $1
+~routes_$_fee;rotas $1 taxa de
+~pages_$_id_goods_$;Item $1-$2
+~combined_services$;Uma combinação de serviços $1
+~targets_$_id_to_make;Item $1
+~targets_$_probability;Probabilidade $1
+~materials_$_id;Material $1
+~materials_$_num;Quantidade $1
+~enemy_factions_$;Desconhecido
+~spirit_adjust_$;Bônus de células Destruição $1
+~poker_adjust_$;Bônus de cartão de Destruição $1
+~level_diff_adjust_$_level_diff;A diferença nos níveis de $1 a Diferença nos níveis de
+~level_diff_adjust_$_adjust_exp;A diferença nos níveis $1 Multiplicador de experiência
+~level_diff_adjust_$_adjust_sp;A diferença nos níveis $1 Multiplicador do espírito santo
+~level_diff_adjust_$_adjust_money;A diferença nos níveis $1 Multiplicador de moedas
+~level_diff_adjust_$_adjust_matter;A diferença nos níveis $1 Multiplicador de itens
+~level_diff_adjust_$_adjust_attack;A diferença nos níveis $1 Multiplicador de ataque
+~team_adjust_$_adjust_exp;O número de membros do grupo $1 Multiplicador de experiência
+~team_adjust_$_adjust_sp;O número de membros do grupo $1 Multiplicador do espírito santo
+~team_profession_adjust_$_adjust_exp;O número de classes em grupo $1 Multiplicador de experiência
+~team_profession_adjust_$_adjust_sp;O número de classes em grupo $1 Multiplicador do espírito santo
+~use_monster_spirit_adjust_$;O multiplicador de energia quando o nivelamento de células para cartas $1
+~action_weapon_suffix_$_suffix;ação arma sufixo $1 sufixo
+~task_lists_$_id;Missão $1
+~task_lists_$_probability;Probabilidade
+~exp_$;Nível $1
+~materials_$_probability;Probabilidade de obter
+~materials_$_life;Duração
+~num$;A quantidade de itens
+~probability$;A chance de cair
+~npcgen_$_id_monster;ID do Monstro
+~npcgen_$_num;Número de monstros
+~npcgen_$_radius;Radius
+~npcgen_$_life_time;Tempo de vida
+~npcgen_$_probability;A probabilidade de
+~aggros_$_monster_faction;Um grupo de mobs
+~aggros_$_radius;O raio de
+~aggros_$_num;O número de
+~pllfiles_$_file;O modelo da cabeça do Guerreiro (M)
+~equipments_$_id;Equipamento $1
+~addons_$_id;Bónus $1
+~build_info_$_id_in_build;Monstro 1
+~build_info_$_id_buildup;Monstro $1
+~build_info_$_id_object_need;Objeto necessário
+~build_info_$_time_use;Tempo de construção
+~build_info_$_fee;Custo construção
+~exp_lost_$;Percentual perda de EXP $1
+~prop_entry_$_id_object_need;Item necessário
+~prop_entry_$_strength_delta;Força
+~prop_entry_$_agility_delta;Destreza
+~prop_entry_$_vital_delta;Inteligência
+~prop_entry_$_energy_delta;Vitalidade
+~fail_ext_succeed_prob_$;Refino $1
+~id_object_need_$;Item necessário
+~id_addons_$;Bônus
+~file_icon$;Icone Lv. $1
+~default_skill$;Habilidade padrão $1
+~rand_prop_$_rand_num;Pontos $1
+~rand_prop_$_rand_rate;Probabilidade
+~area_id_$;ID locais $1
+~target_id_for_pop_$;Objeto $1
+~num_refine_$;Reinfo $1
+~num_weapon_$_$;Arma $1-$2
+~num_armor_$_$;Armadura $1-$2
+~num_stone_$;Quantidade de pedras $1
+~num_engrave_$;O custo da gravura $1
+~num_addon_$;O valor do bônus $1
+~num_decoration_$_$;Custo acessório $1-$2
+~blacklist_$;Lista Negra $1
+~hair_texture_map_$_model_id;Mapa de textura do cabelo - ID de um Modelo de
+~hair_texture_map_$_texture_id;Mapa de textura do cabelo - ID Textura
+~choice_$_multi_time;Tempo de ação $1
+~choice_$_rate;Taxa de experiência $1
+~choice_$_item_count;Item necessário
+~choice_$_demulti_wait_time;Tempode espera $1
+~choice_$_demulti_time;Tempo de multa $1
+~skill_map_$_$;Habilidade $1-$2
+~wedding_session_$_start_hour;Ínicio Sessão de Casamento $1 (Hora)
+~wedding_session_$_start_min;Inicio Sessão de Casamento $1 (mín)
+~wedding_session_$_end_hour;Fim Sessão de Casamento $1 (hora)
+~wedding_session_$_end_min;Fim Sessão de Casamento $1 (mín)
+~reserved_day_$_year;Ano $1
+~reserved_day_$_month;Mês $1
+~reserved_day_$_day;Dia $1
+~wedding_scene_$_name;Festas de casamento $1 Nome
+~wedding_scene_$_pos_$;Festas de casamento $1 Coord. teletransporte $2
+~addon_$;Bônus
+~require_item_$_id;Item necessário $1
+~require_item_$_count;Quantidade de items $1
+~level_$_exp;Experiência Lv. $1
+~level_$_tech_point;O nível de $1 Óculos de tecnologia
+~tech_point_cost_$_$;O custo тех. ponto $1-$2
+~init_building_$;Iniciar construção $1
+~controller_id_$;ID do controlador $1
+~common_value_$_id;Valor total - $1 ID
+~common_value_$_value;Valor total - $1 o Valor
+~technology_$;Tecnologia $1
+~material_$;Material $1
+~controller_id$;ID Trigger $1
+~material_count_$;Quantidade de Material $1
+~area_$_id;Local $1 ID
+~area_$_require_level;Local $1 Nível Necessário de Quem Invoca
+~area_$_require_reply_level;Loca $1 Nível Necessário do Alvo
+~area_$_require_reply_level$;Local $1 Cultivo Necessário do Alvo
+~area_$_require_reply_reincarnation_times;Local $1 Renascimento Necessário do Alvo
+~area_$_require_reply_realm_level;Local $1 Céu Necessário do Alvo
+~probability_addon_num_$;A chance de $1 bônus
+~addons_$_probability;A chance de
+~id_engrave_$;Gravura $1
+~pages_$_id_recipe;Guia $1 Receita
+~equip_id_$;Equipamento
+~essence_$;Item $1
+~recipe_$;Receita $1
+~task_$;Quest $1
+~skill_$;Aptidão $1
+~itemlist_$;Item $1
+~id_skill_$;Habilidade $1
+~list_$_id;Item $1
+~list_$_point;Quantidade$1
+~choice_$_time;Tempo
+~choice_$_interval;Intervalo
+~choice_$_ids_$;Item $1-$2
+~choice_$_exp_$;Experiência $1-$2
+~country_$_name;Nome Dinastia $1
+~country_$_file_icon;Ícone Dinastia $1
+~country_$_color;Cor Dinastia $1
+~flag_controller_id_$;ID Controlador Bandeira $1
+~attack_flag_goal_$;Ataque - Objetivo (área)
+~defence_flag_goal_$;A área de entrega da bandeira (Proteção) $1
+~attack_tower_$_controller_id;Torre (Ataque) $1 ID do controlador
+~attack_tower_$_id;Torre (Ataque) $1 ID do monstro
+~attack_tower_$_group;Torre (Ataque) $1 Grupo
+~defence_tower_$_controller_id;Torre (Proteção) $1 ID do controlador
+~defence_tower_$_id;Torre (Proteção) $1 ID do monstro
+~defence_tower_$_group;Torre (Proteção) $1 Grupo
+~stronghold_$_state_$_controller_id;Cristal $1 Status $2 ID do controlador
+~stronghold_$_state_$_mine_id;Cristal $1 Status $2 ID da mina
+~stronghold_$_pos_$;Cristal $1 Coord. $2
+~stronghold_$_radius;Cristal $1 Raio
+~stronghold_$_mine_pos_$;Cristal $1 Coord. a mina $2
+~openlist_$;Abrir lista $1
+~closelist_$;Fechar lista $1
+~action_mask_$;Máscara de ação $1
+~cost_$_num_evolve_$_$;Custo: Evolução $1-$2
+~cost_$_num_inherit_$_$;Custo: Herança $1-$2
+~cost_$_num_rand_skill_$_$;Custo: Habilidades $1-$2
+~skills_$_id;Skill ID
+~prof_para_$_hp;Guerreiro Saúde
+~prof_para_$_phy_damage;Um guerreiro de um ataque Físico
+~prof_para_$_magic_damage;Um guerreiro de ataque Mágico
+~prof_para_$_phy_defence;Guerreiro de segurança Física
+~prof_para_$_magic_defence;Guerreiro Mágico de proteção
+~rand_skill_group_$_probability;Probabilidade do Grupo $1 
+~rand_skill_group_$_list_$;Conjuto de habilidades do grupo $1-$2
+~list_$_task_id;Quest $1 ID
+~list_$_file_icon;Quest $1 Ícone
+~list_$_file_gfx;Astrolábio $1 GFX
+~list_$_color;Cor item $1
+~page_$_title;Título $1
+~page_$_item_$_id;Assunto
+~page_$_item_$_num;Quantidade $1-$2
+~page_$_item_$_price;Preço
+~page_$_item_$_expire_timelength;Tempo de duração (segundos)
+~dynamic_colors_$;Cor $1
+~sub_titles_$;Trebes. título $1
+~list_$_require_level;Nível necessário $1
+~list_$_require_power;Poder necessário $1
+~list_$_gain_ratio;Melhoria $1
+~level_$_require_item;Item necessário do Despertar $1
+~level_$_exp_premote;Taxa de EXP do Despertar $1
+~history_stage_id_$;História $1
+~require_level_$;Nível necessário $1
+~require_maxlevel_$;Nível máximo $1
+~require_num_$;Número de jogadores $1
+~num_prof_$;Profissão $1
+~require_level$;Nível necessário $1
+~require_reincarnation_times_$;Trebes. o renascimento (min)
+~require_realm_level_$;Trebes. o nível do céu (min)
+~trans_pos_$;Coordenadas TP (X)
+~worldtag_from_$;A partir de que viver pode ser teleport. $1
+~day_$_$;A partir de que ano
+~daytime_$;Horário do Evento
+~award_$;Recompesa $1
+~list_$_level_$_require_exp;Céu $1 Nível $2 Pontos Arcanos Necessário
+~list_$_level_$_vigour;Céu $1 Nível $2 moral
+~mines_$_id;Mina $1 ID
+~mines_$_power;Mina $1 Energia
+~exp_adjust_$;O multiplicador de experiência $1
+~list_$;Item $1
+~list_$_probability;Probabilidade $1
+~require_control_point_$;Liderança necessária
+~item_$;Quest $1
+~list_$_domain_count;Lista $1 o Número de territórios
+~list_$_minebase_gen_count;Lista $1 o Número de repositórios
+~list_$_points_per_gen_minecar;Lista $1 o Número de recursos na charrete
+~list_$_base_points;Lista $1 Mínima quantidade de recursos
+~list_$_minecar_count_can_rob;Lista $1 o Número de roubos de veículos puxados
+~list_$_minebase_count_can_rob;Lista $1 o Número de roubos de armazenamento
+~config_id_$;ID > $1
+~uniform_weight_list_$_probability;Folha $1 Probabilidade De
+~uniform_weight_list_$_weight;Folha $1 Óculos
+~uniform_weight_list_$_task_list_config_id;Folha $1 Lista de missões
+~list_$_num;Quantidade $1
+~rands_$_max_appear_times_rand;Quantidade máxima
+~increase_probability_$;Probabilidade $1
+~prof_list_$_gender_list_$_item_id;Guerreiro
+~levelup_exp_$;Nível $1 Energial Astral
+~rand_probability_$_$;Nível $1 Probabilidade $2
+~list_$_name_color;Cor $1 do Astrolábio
+~level_list_$_hole_list_$_require_item_id;Nível $1 Item $2
+~level_list_$_hole_list_$_require_item_count;Quantidade
+~level_list_$_hole_list_$_price;Custo
+~room_$_trans_pos_$;Tela $1 Coord. TP $2
+~room_$_controller_id_to_activate_$;Torre $1 ID é ativado controlador $2
+~controller_id_to_deactivate_$;ID desabilitada controlador $1
+~steps_$_playing_method_controller_$;Fase $1 ID do controlador de teste $2
+~steps_$_playing_method_boss_controller;Fase $1 ID do controlador de teste Boss
+~list_$_count;Quantidade $1
+~level_$_award_page_config_id;Recompensa Andar $1
+~level_$_draw_award_times;Máximo
+~level_$_award_score;Quantidade $1
+~score_buff_list_$_score_cost;Lustre $1 Tarifa
+~score_buff_list_$_cooldown_id;Lustre $1 ID de recuperação
+~score_buff_list_$_cooldown_time;Lustre $1 o Tempo de recuperação
+~score_buff_list_$_param_$;Lustre $1 O Valor De $2
+~score_buff_list_$_param_comment;Lustre $1 Comentar. aos valores de
+~attacker_resource_tower_$_controller_id_$;Recurso da torre (Ataque) $1 ID de controlador $2
+~attacker_resource_tower_$_guard_controller_id;Recurso da torre (Ataque) $1 ID de controlador de atalaia
+~attacker_resource_tower_$_matter_id;Recurso torre (Ataque) $1 ID da mina
+~defender_resource_tower_$_controller_id_$;Ресурсная torre (Proteção) $1 ID de controlador $2
+~defender_resource_tower_$_guard_controller_id;Recurso torre (Proteção) $1 ID de controlador de atalaia
+~defender_resource_tower_$_matter_id;Ресурсная torre (Proteção) $1 ID da mina
+~neutral_tower_$_controller_id_$;Neutro torre $1 ID de controlador $2
+~neutral_tower_$_matter_id;Neutro torre $1 ID da mina
+~domain_attacker_incoming_pos_$;Coord. início de sessão (Ataque) $1
+~domain_defender_incoming_pos_$;Coord. início de sessão (Proteção) $1
+~domain_attacker_transmit_pos_$;Coord. TP (Ataque) $1
+~domain_defender_transmit_pos_$;Coord. TP (Protecção) $1
+~domain_resurrect_pos_$_resurrect_pos_$;A área da ressurreição $1 Coord. $2
+~domain_resourse_point_pos_$_resourse_point_pos_$;Fonte de recursos $1 Coord. $2
+~domain_transmit_pos_$_controller_id_$;Teleporte $1 ID de controlador $2
+~domain_transmit_pos_$_matter_id;Teleport $1 ID da mina
+~domain_transmit_pos_$_transmit_pos_$;Teleport $1 Coord. TP $2
+~upgrade_$_need_exp;Experiência: Moradia Nv. $1
+~upgrade_$_need_history_max_level;Nv. Necessário do Personagem $1
+~upgrade_$_need_reincarnation_times;Renascimento do Personagem $1
+~upgrade_$_need_realmlevel;Cultivo Primitivo: Moradia Nv. $1
+~level_$_energy;Energia Moradia Nv. $1
+~level_$_prosperous;Prosperidade Moradia Lv. $1
+~level_$_clean;Limpeza Moradia Nv. $1
+~level_$_max_grain_capacity;Alimento Moradia Nv. $1
+~level_$_max_resource_capacity;Capacidade de Recursos Moradia Nv. $1
+~map_unlock_$_home_level;Terreno Lv. $1
+~map_unlock_$_need_item_id;Item de Desbloqueio de Terreno da Moradia
+~map_unlock_$_need_item_count;Quantidade
+~produce_items_$_id;Fabricado pelo $1 ID
+~produce_items_$_probability;Probabilidade $1
+~produce_items_$_num;Quantidade $1
+~level_$_max_capacity;Nível $1 Máxima de recursos
+~level_$_max_add_energy_time;Nível $1 Tempo Máximo de Produção
+~level_$_produce_multiple;Nível $1 Multiplicador de Produção
+~level_$_upgrade_need_home_level;Nível $1 Trebes. o nível da casa
+~level_$_upgrade_consume_stone_num;Nível $1 Trebes. pedra
+~level_$_upgrade_consume_wood_num;Nível $1 Trebes. madeira
+~level_$_upgrade_consume_iron_num;Nível $1 Trebes. Ferro
+~level_$_upgrade_consume_cloth_num;Nível $1 Trebes. tecido
+~level_$_upgrade_consume_grain_num;Nível $1 Trebes. alimento
+~level_$_upgrade_consume_money;Nível $1 Necessidade de Moedas
+~material_$_home_item_id;Material $1 ID do objeto para o lar
+~material_$_normal_item_id;Material $1 ID normal assunto
+~material_$_item_count;Material $1 a Quantidade de itens
+~produce_list_$_formulas_id;Folha $1 ID receita
+~produce_list_$_level;Folha $1 Nível
+~data_start_$;Ano do lançamento
+~task_storage_$_task_out_service_id;Quests $1 ID da lista de missões
+~task_storage_$_flourish_min;Quests $1 Trebes. a prosperidade (min)
+~task_storage_$_flourish_max;Quests $1 Trebes. a prosperidade (máximo)
+~task_storage_$_random_weight;Quests $1 um número Aleatório
+~special_item_count_rand_$;Probabilidade $1
+~list_$_level;Item $1 Nível
+~cost_$;Custo $1
+~data_end_$;Ano do fim
+~award_$_id;A coisa $1 ID
+~award_$_probability;Item $1 Probabilidade
+~award_$_number;Item Número $1 comprador
+~enemy_$_race;O Inimigo $1 Raça
+~enemy_$_probability;O Inimigo $1 Chance
+~inc_resource_produce_$;Bônus de kamen. assist.
+~race_$;Raça $1
+~enemy_race_$;Raça inimigo $1
+~level_$_cost;Nível $1 Tarifa Fragmento de Miragem
+~level_$_inc;Nível $1 Multiplicador de força
+~reward_$_cost;Recompensa $1 Pontos Necessários
+~reward_$_id;Recompensa $1 ID
+~reward_$_count;Recompensa $1 Quantidade
+~targets_$_num_to_make;Quantidade $1
+~trans_pos_$_$;Coordenadas TP $1-$2
+~rank_$_unk$;Categoria $1 unk $2
+~rank_$_points_min;Categoria $1 Óculos (min)
+~rank_$_points_max;Categoria $1 Pontos (máximo)
+~pages_$_require_point;Guia $1 Trebes. pontos
+~pages_$_goods_$_point_cost;Trebes. pontos
+~list_$_skills_id_skill_base;Lista $1 ID habilidade de runa base
+~list_$_skills_id_skill_rune_$;Lista $1 ID habilidade de runa $2
+~level_$_probability_$;Runa Nv. $1 Probabilidade $2
+~list_$_area_id;Lista $1 ID de local
+~list_$_config_id;Lista $1 ID configurações
+~items_$;Item $1 ID
+~skills_$;Habilidade $1
+~parts_$_unk$;Parte $1 unk $2
+~parts_$_monster_id;Parte $1 ID do monstro
+~parts_$_skills_id_skill_$;Parte $1 ID Aptidão $2
+~parts_$_skills_level_skill_$;Parte $1 o Nível de aptidão $2
+~pos_$;Coord. $1
+~param_$;Parâmetro $1
+~materials_$_point;Material $1 Quantidade de Crédito
+~targets_$_id;ID do Crédito $1
+~targets_$_num;ID do Crédito $1 Quantidade
+~choice_$;A opção $1
+~award_$_item_id;Item $1 - ID
+~award_$_word;Item $1 Mensagem
+~award_$_item_count;Item $1 - Quantidade
+~award_$_unk$;Recompensa $1 unk $2
+~produce_method_$_line;O método de produção do $1 Maneira
+~produce_method_$_desc;O método de produção do $1 Descrição
+~recipe_id_$;Receita $1
+~source_task_$_id;Fonte quest $1 ID
+~source_task_$_desc;Fonte quest $1 Descrição
+~source_instance_$_id;Fonte данж $1 ID
+~source_instance_$_desc;Fonte данж $1 Descrição
+~source_event_$_id;Origem do evento $1 ID
+~source_event_$_desc;Origem do evento $1 Descrição
+~source_recipe_id_$;Fonte de receita ID $1
+~level_$_talent_id_$;Nível $1 ID talento $2
+~level_$_faction_money_cost;Nível $1 Custo de Ouro do Clã
+~targets_$_desc;Objetivos $1 Descrição
+~targets_$_target_monster;Objetivos $1 o Objetivo do monstro
+~targets_$_unk$;Objetivos $1 unk $2
+~targets_$_target_common_value_id$;Objetivos $1 o Objetivo ID globe. a variável $2
+~targets_$_target_common_value$;Objetivos $1 o Objetivo valor globe. a variável $2
+~target_id_$;ID objetivo da guilda $1
+~feed_config_id_$;ID definições de alimentação $1
+~bless_$_confidence;Presente Do $1 Trebes. conforto
+~bless_$_happy;Presente Do $1 Trebes. felicidade
+~bless_$_feed;Presente Do $1 Trebes. a saciedade
+~bless_$_bless_config_id;Presente do $1 ID do presente do animal de estimação
+~list_$_require_item_id;Folha $1 ID trebes. assunto
+~list_$_require_item_count;Folha $1 o Número de opc. assunto
+~list_$_desc;Folha $1 Descrição
+~list_$_time;Folha $1 Hora
+~list_$_controller_id;Folha $1 ID do controlador
+~list_$_unk$;Folha $1 unk $2
+~list_$_item_id;Folha $1 ID do objeto
+~list_$_item_count;Folha $1 a Quantidade do objeto
+~area_$_pos_min_$;Refeições $1 Coord. min $2
+~area_$_pos_max_$;Refeições $1 Coord. max $2
+~drop_$_goal_value;Drop $1 o Significado do sucesso
+~drop_$_bottle_drop_cunfig_id;Drop $1 ID configurações
+~file_fill_img_$;A imagem de preenchimento do progresso $1
+~drop_$_item_id;Drop $1 ID
+~drop_$_probability;A chance de
+~drop_$_item_count;O número de
+~pages_$_goods_$_faction_money_cost;Ouro guilda
+~pages_$_goods_$_expire;Temporário
+~faction_drop_matters_$_id;Uma gota de guild $1 ID
+~faction_drop_matters_$_count;Uma gota de guild $1 o Número de
+~whitelist_$;Tipo de folha $1
+~magic_defences_$;Defesa madeira
+~magic_defence_$;Defesa mágica $1
+~inc_magic_defence_$;Defesa Mágica $1
+~list_$_materials_$_id;Lista $1 Material $2 ID
+~list_$_materials_$_num;Lista $1 Material $2 Número
+~list_$_max_produce_times;Lista $1 Max Produce Times
+~list_$_require_cash;Lista $1 Require Cash
+~list_$_expire_timelength;Lista $1 Expire Timelength
+~list_$_upgrade_rate;Lista $1 Upgrade Rate
+~list_$_engrave_upgrade_rate;Lista $1 Engrave Upgrade Rate
+~list_$_addon_inherit_fee_rate;Lista $1 Addon Inherit Fee Rate
+~probability_level_$;Probabilidade Nível $1
+~award_$_require_point;Recompensa $1 Pontos Requiridos
+~items_$_$_probability;Item $1-$2 Probabilidade
+~items_$_$_count;Item $1-$2 Quantidade
+~items_$_$_id;Item $1-$2 ID
+~items_$_$_expire;Item $1-$2 Especial
+~file_tex$;Arquivo de Textura $1
+~list_$_consume;Lista $1 de Consumo
+~questions_$_question_tip;Questionário $1 Pergunta
+~questions_$_answer_tip_$;Questionário $1 Resposta da Pergunta $2
+~level_$_name;Nível $1 Nome
+~level_$_require_point;Nível $1 Pontos Requeridos
+~level_$_task_id_space;Nível $1 Espaço de ID na Missão
+~level_$_item_id;Nível $1 ID do Item
+~level_$_task_id;Nível $1 ID da Missão
+~require_exp_$;Exp Requerida $1
+~max_color_level_$;Nível Máximo de Cor $1
+~equipment_$_addon_$;Equipmento $1 Addon $2
+~pages_$_id_engraves_$;Página $1 Grávura ID $2
+~item_$_cash;Preço do Item $1 em Gold
+~item_$_file_icon;Ícone do Item $1
+~tasks_$_id_space;Missão $1 ID
+~tasks_$_id;Missão $1 ID
+~level_$_param$;Nível $1 Quantidade $2
+~level_$_trans_cost;Nível $1 Transferencia (Custa) Pedra Céu da Terra
+~level_$_success_probability;Nível $1 Probabilidade de Sucesso
+~level_$_levelup_addon_rate;Nível $1 Levelup Addon Rate
+~list_$_price;Lista $1 Preço

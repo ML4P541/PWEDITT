@@ -1,0 +1,490 @@
+0
+190
+269
+3000
+
+@EQUIPMENT_ADDON;Equipment Addon
+@WEAPON_MAJOR_TYPE;Weapon Type
+@WEAPON_SUB_TYPE;Weapon Sub Type
+@WEAPON_ESSENCE;Weapon
+@ARMOR_MAJOR_TYPE;Armor Type
+@ARMOR_SUB_TYPE;Armor Sub Type
+@ARMOR_ESSENCE;Armor
+@DECORATION_MAJOR_TYPE;Decoration Type
+@DECORATION_SUB_TYPE;Decoration Sub Type
+@DECORATION_ESSENCE;Decoration
+@MEDICINE_MAJOR_TYPE;Medicine Type
+@MEDICINE_SUB_TYPE;Medicine Sub Type
+@MEDICINE_ESSENCE;Medicine
+@MATERIAL_MAJOR_TYPE;Material Type
+@MATERIAL_SUB_TYPE;Material Sub Type
+@MATERIAL_ESSENCE;Material
+@DAMAGERUNE_SUB_TYPE;Damage Rune Sub Type
+@DAMAGERUNE_ESSENCE;Damage Rune
+@ARMORRUNE_SUB_TYPE;Armor Rune Sub Type
+@ARMORRUNE_ESSENCE;Armor Rune
+@SKILLTOME_SUB_TYPE;Skill Tome Sub Type
+@SKILLTOME_ESSENCE;Skill Tome
+@FLYSWORD_ESSENCE;Flysword
+@WINGMANWING_ESSENCE;Wingmanwing
+@TOWNSCROLL_ESSENCE;Town Scroll
+@UNIONSCROLL_ESSENCE;Union Scroll
+@REVIVESCROLL_ESSENCE;Revive Scroll
+@ELEMENT_ESSENCE;Element
+@TASKMATTER_ESSENCE;Task Matter
+@TOSSMATTER_ESSENCE;Toss Matter
+@PROJECTILE_TYPE;Projectile Type
+@PROJECTILE_ESSENCE;Projectile
+@QUIVER_SUB_TYPE;Quiver Sub Type
+@QUIVER_ESSENCE;Quiver
+@STONE_SUB_TYPE;Stone Sub Type
+@STONE_ESSENCE;Stone
+@MONSTER_ADDON;Monster Addon
+@MONSTER_TYPE;Monster Type
+@MONSTER_ESSENCE;Monster
+@NPC_TALK_SERVICE;NPC Talk Service
+@NPC_SELL_SERVICE;NPC Sell Service
+@NPC_BUY_SERVICE;NPC Buy Service
+@NPC_REPAIR_SERVICE;NPC Repair Service
+@NPC_INSTALL_SERVICE;NPC Install Service
+@NPC_UNINSTALL_SERVICE;NPC Uninstall Service
+@NPC_TASK_IN_SERVICE;NPC Task In Service
+@NPC_TASK_OUT_SERVICE;NPC Task Out Service
+@NPC_TASK_MATTER_SERVICE;NPC Task Matter Service
+@NPC_SKILL_SERVICE;NPC Skill Service
+@NPC_HEAL_SERVICE;NPC Heal Service
+@NPC_TRANSMIT_SERVICE;NPC Transmit Service
+@NPC_TRANSPORT_SERVICE;NPC Transport Service
+@NPC_PROXY_SERVICE;NPC Proxy Service
+@NPC_STORAGE_SERVICE;NPC Storage Service
+@NPC_MAKE_SERVICE;NPC Make Service
+@NPC_DECOMPOSE_SERVICE;NPC Decompose Service
+@NPC_TYPE;NPC Type
+@NPC_ESSENCE;NPC
+@FACE_TEXTURE_ESSENCE;Face Texture
+@FACE_SHAPE_ESSENCE;Face Shape
+@FACE_EMOTION_TYPE;Face Emotion Type
+@FACE_EXPRESSION_ESSENCE;Face Expression
+@FACE_HAIR_ESSENCE;Face Hair
+@FACE_MOUSTACHE_ESSENCE;Face Moustache
+@COLORPICKER_ESSENCE;Colorpicker
+@CUSTOMIZEDATA_ESSENCE;Customize Data
+@RECIPE_MAJOR_TYPE;Recipe Type
+@RECIPE_SUB_TYPE;Recipe Sub Type
+@RECIPE_ESSENCE;Recipe
+@ENEMY_FACTION_CONFIG;Enemy Faction Confing
+@CHARRACTER_CLASS_CONFIG;Character Class Confing
+@PARAM_ADJUST_CONFIG;Param Adjust Confing
+@PLAYER_ACTION_INFO_CONFIG;Player Action Info Confing
+@TASKDICE_ESSENCE;Task Dice
+@TASKNORMALMATTER_ESSENCE;Task Normal Matter
+@FACE_FALING_ESSENCE;Face Faling
+@PLAYER_LEVELEXP_CONFIG;Player Level-Exp Confing
+@MINE_TYPE;Mine Type
+@MINE_ESSENCE;Mine
+@NPC_IDENTIFY_SERVICE;NPC Identify Service
+@FASHION_MAJOR_TYPE;Fashion Type
+@FASHION_SUB_TYPE;Fashion Sub Type
+@FASHION_ESSENCE;Fashion
+@FACETICKET_MAJOR_TYPE;Face Ticket Type
+@FACETICKET_SUB_TYPE;Face Ticket Sub Type
+@FACETICKET_ESSENCE;Face Ticket
+@FACEPILL_MAJOR_TYPE;Face Pill Type
+@FACEPILL_SUB_TYPE;Face Pill Sub Type
+@FACEPILL_ESSENCE;Face Pill
+@SUITE_ESSENCE;Suite
+@GM_GENERATOR_TYPE;GM Generator Type
+@GM_GENERATOR_ESSENCE;GM Generator
+@PET_TYPE;Pet Type
+@PET_ESSENCE;Pet
+@PET_EGG_ESSENCE;Pet Egg
+@PET_FOOD_ESSENCE;Pet Food
+@PET_FACETICKET_ESSENCE;Pet Face Ticket
+@FIREWORKS_ESSENCE;Fireworks
+@WAR_TANKCALLIN_ESSENCE;War Tank Call-In
+@NPC_WAR_TOWERBUILD_SERVICE;NPC War Tower Build Service
+@PLAYER_SECONDLEVEL_CONFIG;Player Second-level Confing
+@NPC_RESETPROP_SERVICE;NPC Reset Prop Service
+@NPC_PETNAME_SERVICE;NPC Pet Name Service
+@NPC_PETLEARNSKILL_SERVICE;NPC Pet Learn Skill Service
+@NPC_PETFORGETSKILL_SERVICE;NPC Pet Forget Skill Service
+@SKILLMATTER_ESSENCE;Skill Matter
+@REFINE_TICKET_ESSENCE;Refine Ticket
+@DESTROYING_ESSENCE;Destroying
+@NPC_EQUIPBIND_SERVICE;NPC Equip Bind Service
+@NPC_EQUIPDESTROY_SERVICE;NPC Equip Destroy Service
+@NPC_EQUIPUNDESTROY_SERVICE;NPC Equip Restore Service
+@BIBLE_ESSENCE;Bible
+@SPEAKER_ESSENCE;Speaker
+@AUTOHP_ESSENCE;Auto HP
+@AUTOMP_ESSENCE;Auto MP
+@DOUBLE_EXP_ESSENCE;Double Exp
+@TRANSMITSCROLL_ESSENCE;Transmit Scroll
+@DYE_TICKET_ESSENCE;Dye Ticket (Fashion Paint)
+@GOBLIN_ESSENCE;Genie
+@GOBLIN_EQUIP_TYPE;Genie Equip Type
+@GOBLIN_EQUIP_ESSENCE;Genie Equip
+@GOBLIN_EXPPILL_ESSENCE;Genie Exp Pill
+@SELL_CERTIFICATE_ESSENCE;Sell Certificate
+@TARGET_ITEM_ESSENCE;Target Item
+@LOOK_INFO_ESSENCE;Look Info
+@UPGRADE_PRODUCTION_CONFIG;Upgrade Production Confing
+@ACC_STORAGE_BLACKLIST_CONFIG;Acc Storage Blacklist Confing
+@FACE_HAIR_TEXTURE_MAP;Face Hair Texture Map
+@MULTI_EXP_CONFIG;Multi Exp Confing
+@INC_SKILL_ABILITY_ESSENCE;Inc Skill Ability
+@GOD_EVIL_CONVERT_CONFIG;God Evil Convert Confing
+@WEDDING_CONFIG;Wedding Confing
+@WEDDING_BOOKCARD_ESSENCE;Wedding Book Card
+@WEDDING_INVITECARD_ESSENCE;Wedding Invite Card
+@SHARPENER_ESSENCE;Sharpener
+@FACE_THIRDEYE_ESSENCE;Face Third Eye
+@FACTION_FORTRESS_CONFIG;Faction Fortress Confing
+@FACTION_BUILDING_SUB_TYPE;Faction Building Sub Type
+@FACTION_BUILDING_ESSENCE;Faction Building
+@FACTION_MATERIAL_ESSENCE;Faction Material
+@CONGREGATE_ESSENCE;Congregate
+@ENGRAVE_MAJOR_TYPE;Engrave Type
+@ENGRAVE_SUB_TYPE;Engrave Sub Type
+@ENGRAVE_ESSENCE;Engrave
+@NPC_ENGRAVE_SERVICE;NPC Engrave Service
+@NPC_RANDPROP_SERVICE;NPC Rand Prop Service
+@RANDPROP_TYPE;Rand Prop Type
+@RANDPROP_ESSENCE;Rand Prop
+@WIKI_TABOO_CONFIG;Wiki Taboo Confing
+@FORCE_CONFIG;Force Confing
+@FORCE_TOKEN_ESSENCE;Force Token
+@NPC_FORCE_SERVICE;NPC Force Service
+@PLAYER_DEATH_DROP_CONFIG;Player Death Drop Confing
+@DYNSKILLEQUIP_ESSENCE;Dyn Skill Equip
+@CONSUME_POINTS_CONFIG;Consume Points Confing
+@ONLINE_AWARDS_CONFIG;Online Awards Confing
+@COUNTRY_CONFIG;Country Confing
+@GM_ACTIVITY_CONFIG;GM Activity Confing
+@FASHION_WEAPON_CONFIG;Fashion Weapon Confing
+@PET_EVOLVE_CONFIG;Pet Evolve Confing
+@PET_EVOLVED_SKILL_CONFIG;Pet Evolved Skill Confing
+@MONEY_CONVERTIBLE_ESSENCE;Money Convertible
+@STONE_CHANGE_RECIPE_TYPE;Stone Change Recipe Type
+@STONE_CHANGE_RECIPE;Stone Change Recipe
+@MERIDIAN_CONFIG;Meridian Confing
+@PET_EVOLVED_SKILL_RAND_CONFIG;Pet Evolved Skill Rand Confing
+@AUTOTASK_DISPLAY_CONFIG;Auto Task Display Confing
+@TOUCH_SHOP_CONFIG;Touch Shop Confing
+@TITLE_CONFIG;Title Confing
+@COMPLEX_TITLE_CONFIG;Complex Title Confing
+@MONSTER_SPIRIT_ESSENCE;Monster Spirit
+@PLAYER_SPIRIT_CONFIG;Player Spirit Confing
+@PLAYER_REINCARNATION_CONFIG;Player Reincarnation Confing
+@HISTORY_STAGE_CONFIG;History Stage Confing
+@HISTORY_ADVANCE_CONFIG;History Advance Confing
+@AUTOTEAM_CONFIG;Autoteam Confing
+@PLAYER_REALM_CONFIG;Player Realm Confing
+@CHARIOT_CONFIG;Chariot Confing
+@CHARIOT_WAR_CONFIG;Chariot War Confing
+@POKER_LEVELEXP_CONFIG;Poker Level Exp Confing
+@POKER_SUITE_ESSENCE;Poker Suite
+@POKER_DICE_ESSENCE;Poker Dice
+@POKER_SUB_TYPE;Poker Sub Type
+@POKER_ESSENCE;Poker
+@TOKEN_SHOP_CONFIG;Token Shop Confing
+@SHOP_TOKEN_ESSENCE;Shop Token
+@GT_CONFIG;GT Confing
+@RAND_SHOP_CONFIG;Rand Shop Confing
+@PROFIT_TIME_CONFIG;Profit Time Confing
+@FACTION_PVP_CONFIG;Faction PVP Confing
+@UNIVERSAL_TOKEN_ESSENCE;Universal Token
+@TASK_LIST_CONFIG;Task List Confing
+@TASK_DICE_BY_WEIGHT_CONFIG;Task Dice By Weight Confing
+@FASHION_SUITE_ESSENCE;Fashion Suite
+@FASHION_BEST_COLOR_CONFIG;Fashion Best Color Confing
+@SIGN_AWARD_CONFIG;Sign Award Confing
+@ASTROLABE_ESSENCE;Astrolabe
+@ASTROLABE_RANDOM_ADDON_ESSENCE;Astrolabe Random Addon
+@ASTROLABE_INC_INNER_POINT_VALUE_ESSENCE;Astrolabe Inc Inner Point Value
+@ASTROLABE_INC_EXP_ESSENCE;Astrolabe Inc Exp
+@ITEM_PACKAGE_BY_PROFESSION_ESSENCE;Item Package By Profession
+@ASTROLABE_LEVELEXP_CONFIG;Astrolabe Levelexp Confing
+@ASTROLABE_ADDON_RANDOM_CONFIG;Astrolabe Addon Random Confing
+@ASTROLABE_APPEARANCE_CONFIG;Astrolabe Appearance Confing
+@EQUIP_MAKE_HOLE_CONFIG;Equip Make Hole Confing
+@SOLO_TOWER_CHALLENGE_LEVEL_CONFIG;Solo Tower Challenge Level Confing
+@SOLO_TOWER_CHALLENGE_AWARD_PAGE_CONFIG;Solo Tower Challenge Award Page
+@SOLO_TOWER_CHALLENGE_AWARD_LIST_CONFIG;Solo Tower Challenge Award List
+@SOLO_TOWER_CHALLENGE_SCORE_COST_CONFIG;Solo Tower Challenge Score Cost
+@MNFACTION_WAR_CONFIG;Mnfaction War Confing
+@NPC_CROSS_SERVER_SERVICE;NPC Cross Server Service
+@FIREWORKS2_ESSENCE;Fireworks 2
+@FIX_POSITION_TRANSMIT_ESSENCE;Fix Position Transmit
+@HOME_CONFIG;Home Confing
+@HOME_PRODUCTS_CONFIG;Home Products Confing
+@HOME_RESOURCE_PRODUCE_CONFIG;Home Resource Produce Confing
+@HOME_FORMULAS_PRODUCE_RECIPE;Home Formulas Produce Recipe
+@HOME_FORMULAS_ITEM_ESSENCE;Home Formulas Item
+@HOME_PRODUCE_SERVICE_CONFIG;Home Produce Service Confing
+@HOME_FACTORY_CONFIG;Home Factory Confing
+@HOME_ITEM_MAJOR_TYPE;Home Item Type
+@HOME_ITEM_SUB_TYPE;Home Item Sub Type
+@HOME_ITEM_ENTITY;Home Item Entity
+@HOME_FORMULAS_PRODUCE_MAJOR_TYPE;Home Formulas Produce Type
+@HOME_FORMULAS_PRODUCE_SUB_TYPE;Home Formulas Produce Sub Type
+@HOME_FORMULAS_ITEM_MAJOR_TYPE;Home Formulas Item Type
+@HOME_FORMULAS_ITEM_SUB_TYPE;Home Formulas Item Sub Type
+@HOME_STORAGE_TASK_CONFIG;Home Storage Task Confing
+@WISH_TRIBUTE_ESSENCE;Wish Tribute
+@RED_PACKET_PAPER_ESSENCE;Red Packet Paper
+@LOTTORY_TICKET_STORAGE_CONFIG;Lottery Ticket Storage Confing
+@LOTTORY_TICKET_COST_CONFIG;Lottery Ticket Cost Confing
+@LOTTORY_TICKET_OTHER_AWARD_CONFIG;Lottery Ticket Other Award Confing
+@HOME_TEXTURE_ENTITY;Home Texture Entity
+@HOME_GRASS_ENTITY;Home Grass Entity
+@HOME_UNLOCK_PAPER_ESSENCE;Home Unlock Paper
+@GUARDIAN_BEAST_EGG_ESSENCE;Guardian Beast Egg
+@GUARDIAN_BEAST_ENTITY;Guardian Beast Entity
+@GUARDIAN_BEAST_RACE_CONFIG;Guardian Beast Race Confing
+@GUARDIAN_BEAST_UPGRADE_CONFIG;Guardian Beast Upgrade Confing
+@GUARDIAN_BEAST_REWARD_CONFIG;Guardian Beast Reward Confing
+@HOME_SKIN_ENTITY;Home Skin Entity
+@WORLD_SPEAK_COST_CONFIG;World Speak Cost Confing
+@EASY_PRODUCE_ITEM_ESSENCE;Easy Produce Item
+@ARENA_CONFIG;Arena Confing
+@ARENA_SCENE_CONFIG;Arena Scene Confing
+@ARENA_POINT_CONFIG;Arena Point Confing
+@ARENA_ENTITY_CONFIG;Arena Entity Confing
+@NPC_ARENA_SELL_SERVICE;NPC Arena Sell Service
+@UNLOCK_RUNE_SLOT_ITEM_ESSENCE;Unlock Rune Slot Item
+@RUNE_ITEM_ESSENCE;Rune Item
+@RUNE_SKILL_CONFIG;Rune Skill Confing
+@RUNE_UPGRADE_CONFIG;Rune Upgrade Confing
+@ARENA_MAP_CONFIG;Arena Map Confing
+@NPC_STATUE_CREATE_SERVICE;NPC Statue Create Service
+@ARENA_FORBID_ITEM_CONFIG;Arena Forbid Item Confing
+@ARENA_FORBID_SKILL_CONFIG;Arena Forbid Skill Confing
+@CARRIER_CONFIG;Carrier Confing
+@CHANGE_PROPERTY_CONFIG;Change Property Confing
+@PROFESSION_PROPERTY_CONFIG;Profession Property Confing
+@FIX_MONSTER_ITEM_ESSENCE;Fix Monster Item
+@NPC_LIB_PRODUCE_SERVICE;NPC Lib Produce Service
+@LIB_PRODUCE_RECIPE;Lib Produce Recipe
+@VOTE_CONFIG;Vote Confing
+@SIMULATOR_ITEM_LIST_CONFIG;Simulator Item List Confing
+@EQUIPMENT_PRODUCE_METHOD_CONFIG;Equipment Produce Method Confing
+@PRODUCTION_LINE_CONFIG;Production Line Confing
+@SOURCE_OF_MATERIAL_CONFIG;Source Of Material Confing
+@FACTION_TALENT_SINGLE_CONFIG;Faction Talent Single Confing
+@FACTION_TALENT_TREE_CONFIG;Faction Talent Tree Confing
+@FACTION_TARGET_CONFIG;Faction Target Confing
+@INSTANCE_STAGE_CONFIG;Instance Stage Confing
+@FACTION_PET_CONFIG;Faction Pet Confing
+@FACTION_PET_FEED_CONFIG;Faction Pet Feed Confing
+@FACTION_TILLAGE_CONFIG;Faction Tillage Confing
+@FACTION_PET_BLESS_CONFIG;Faction Pet Bless Confing
+@ITEM_USED_FOR_AREA_ESSENCE;Item Used For Area
+@CAPTURE_ITEM_ESSENCE;Capture Item
+@DRIFT_BOTTLE_DROP_CONFIG;Drift Bottle Drop Confing
+@NPC_FACTION_SELL_SERVICE;NPC Faction Sell Service
+@FACTION_INSTANCE_DROP_CONFIG;Faction Instance Drop Confing
+@NPC_PARK_ENTER_SERVICE;NPC Park Enter Service
+@FACTION_STORAGE_WHITELIST_CONFIG;Faction Storage Whitelist Confing
+@NPC_BOSSRUSH_AWARD_SERVICE;NPC Bossrush Award Service
+@PROFESSION_STATE_CONFIG;Profession State Confing
+
+@MENTAL_PARAM_ADJUST_CONFIG;Mental Param Adjust Config
+@BIBLE_REFINE_CONFIG;Bible Refine Config
+@BIBLE_REFINE_TICKET_ESSENCE;Bible Refine Ticket
+@TITLE_PROGRESS_CONFIG;Title Progress Config
+@NPC_MYSTERIOUS_SHOP_SERVICE;NPC Mysterious Shop Service
+@OFFLINEBATTLE_CONFIG;Offlinebattle Config
+@NPC_PRIDICTABLE_ENGRAVE_SERVICE;NPC Pridictable Engrave Service
+@NEW_ARMOR_MAJOR_TYPE;New Armor Type
+@NEW_ARMOR_SUB_TYPE;New Armor Sub Type
+@NEW_ARMOR_ESSENCE;New Armor
+@QIHUN_ESSENCE;Qihun
+@QILING_ESSENCE;Qiling
+@STORY_BOOK_MAJOR_TYPE;Story Book Type
+@STORY_BOOK_CONFIG;Story Book Config
+@MENTOR_LEVEL_CONFIG;Mentor Level Config
+@STUDENT_AWARD_CONFIG;Student Award Config
+@QIHUN_COVER_ESSENCE;Qihun Cover
+@GROWTH_TARGET_CONFIG;Growth Target Config
+@QUESTION_TIP_CONFIG;Question Tip Config
+@QUESTION_AWARD_CONFIG;Question Award Config
+
+
+#ALL
+ID;ID
+require_projectile;Required Projectile
+require_strength;Requisite Strength
+require_agility;Requisite Dexterity
+require_energy;Requisite Magic
+require_tili;Requisite Vitality
+character_combo_id;Required Class
+require_reputation;Requisite Reputation
+realname;Model Name
+defence_high;Defence (max)
+magic_defences_1_low;Metal Defence (min)
+magic_defences_1_high;Metal Defence (max)
+magic_defences_2_low;Wood Defence (min)
+magic_defences_2_high;Wood Defence (max)
+magic_defences_3_low;Water Defence (min)
+magic_defences_3_high;Water Defence (max)
+magic_defences_4_low;Fire Defence (min)
+magic_defences_4_high;Fire Defence (max)
+magic_defences_5_low;Earth Defence (min)
+magic_defences_5_high;Earth Defence (max)
+mp_enhance_low;MP Enhance (min)
+mp_enhance_high;MP Enhance (max)
+hp_enhance_low;HP Enhance (min)
+hp_enhance_high;HP Enhance (max)
+armor_enhance_low;Armor Enhance (min)
+armor_enhance_high;Armor Enhance (max)
+damage_low;Damage (min)
+damage_high;Damage (max)
+magic_damage_low;Magic Damage (min)
+magic_damage_high;Magic Damage (max)
+id_sub_type;Subtype
+require_player_level_min;Require Level
+time_max_min;Time max (min)
+time_max_max;Time max (max)
+max_improve_level;Max Refine Level
+num_max;Maximum Num
+weapon_desc;Weapon Description
+armor_desc;Armor Description
+decoration_desc;Decoration Description
+desc;Element Desc
+gender_id;Gender
+gather_start_action_config;Action start ID
+gather_loop_action_config;Action cycle ID
+h_min;Fixed Hue (min)
+h_max;Fixed Hue (max)
+s_min;Fixed Saturation (min)
+s_max;Fixed Saturation (max)
+v_min;Fixed Value (min)
+v_max;Fixed Value (max)
+levelup_addon;Refine Method
+material_need;Refine Mirage Stone Num
+repairfee;Repair Fee
+pile_num_max;Stack Amount
+proc_type;Protection
+
+#WEAPON_ESSENCE
+probability_hide;Hidden Addon Prob
+magic_damage_high_min;Magic Damage High (min)
+magic_damage_high_max;Magic Damage High (max)
+
+#FLYSWORD_ESSENCE
+improve_config_$_require_item_num;Refine $1 Require Item Num
+improve_config_$_speed_increase;Refine $1 Speed Increase
+improve_config_$_speed_rush_increase;Refine 1 Speed Rush Increase
+
+#FASHION_SUITE_ESSENCE
+list_$;Fashion $1
+
+#SIGN_AWARD_CONFIG
+list_$;Award $1
+list_$_num;Award $1 Num
+
+#ASTROLABE_ESSENCE
+min_inner_point_value;Point Value (min)
+max_inner_point_value;Point Value (max)
+max_init_inner_point_value;Init Point Value (min)
+init_all_inner_point_value;Total Point Value (min)
+max_all_inner_point_value;Total Point Value (max)
+rands_$_id_rand;Addon $1
+rands_$_probability_rand;Probability
+rands_$_max_appear_times_rand;Max Appear Times
+
+#NPC_SELL_SERVICE
+pages_$_page_title;Page $1
+pages_$_require_contrib;Require Contribution
+pages_$_require_force;Require Force
+pages_$_require_force_reputation;Require Force Reputation
+pages_$_goods_$_id;`Item 
+pages_$_goods_$_contrib_cost;Contribution Cost
+pages_$_goods_$_force_contribution_cost;Force Contribution Cost
+pages_$_goods_$_solo_tower_challenge_score_cost;Solo Tower Challenge Cost
+
+#NPC_MAKE_SERVICE
+pages_$_page_title;Page $1
+pages_$_id_goods_$;`Item 
+
+#NPC_RANDPROP_SERVICE
+pages_$_page_title;Page $1
+pages_$_id_recipe;Recipe
+
+#NPC_ARENA_SELL_SERVICE
+pages_$_page_title;Page $1
+pages_$_require_point;Page $1 Require Point
+pages_$_goods_$_id;`Item 
+pages_$_goods_$_point_cost;Require Point
+
+#NPC_FACTION_SELL_SERVICE
+pages_$_page_title;Page $1
+pages_$_id_goods_$;`Item 
+pages_$_goods_$_faction_money_cost;Faction Money Cost
+pages_$_goods_$_expire;Is Expire
+
+#MONSTER_ESSENCE
+attack;Acurracy
+armor;Evasion
+magic_defences_1;Metal Defence
+magic_defences_2;Wood Defence
+magic_defences_3;Water Defence
+magic_defences_4;Fire Defence
+magic_defences_5;Earth Defence
+magic_damages_ext_1_damage_min;Metal Damage (min)
+magic_damages_ext_1_damage_max;Metal Damage (max)
+magic_damages_ext_2_damage_min;Wood Damage (min)
+magic_damages_ext_2_damage_max;Wood Damage (max)
+magic_damages_ext_3_damage_min;Water Damage (min)
+magic_damages_ext_3_damage_max;Water Damage (max)
+magic_damages_ext_4_damage_min;Fire Damage (min)
+magic_damages_ext_4_damage_max;Fire Damage (max)
+magic_damages_ext_5_damage_min;Earth Damage (min)
+magic_damages_ext_5_damage_max;Earth Damage (max)
+skill_hp75_1_id_skill;Skill HP 75%-1
+skill_hp75_1_level;Skill HP 75%-1 Level
+skill_hp75_1_probability;Skill HP 75%-1 Prob
+skill_hp75_2_id_skill;Skill HP 75%-2
+skill_hp75_2_level;Skill HP 75%-2 Level
+skill_hp75_2_probability;Skill HP 75%-2 Prob
+skill_hp75_3_id_skill;Skill HP 75%-3
+skill_hp75_3_level;Skill HP 75%-3 Level
+skill_hp75_3_probability;Skill HP 75%-3 Prob
+skill_hp75_4_id_skill;Skill HP 75%-4
+skill_hp75_4_level;Skill HP 75%-4 Level
+skill_hp75_4_probability;Skill HP 75%-4 Prob
+skill_hp75_5_id_skill;Skill HP 75%-5
+skill_hp75_5_level;Skill HP 75%-5 Level
+skill_hp75_5_probability;Skill HP 75%-5 Prob
+skill_hp50_1_id_skill;Skill HP 50%-1
+skill_hp50_1_level;Skill HP 50%-1 Level
+skill_hp50_1_probability;Skill HP 50%-1 Prob
+skill_hp50_2_id_skill;Skill HP 50%-2
+skill_hp50_2_level;Skill HP 50%-2 Level
+skill_hp50_2_probability;Skill HP 50%-2 Prob
+skill_hp50_3_id_skill;Skill HP 50%-3
+skill_hp50_3_level;Skill HP 50%-3 Level
+skill_hp50_3_probability;Skill HP 50%-3 Prob
+skill_hp50_4_id_skill;Skill HP 50%-4
+skill_hp50_4_level;Skill HP 50%-4 Level
+skill_hp50_4_probability;Skill HP 50%-4 Prob
+skill_hp50_5_id_skill;Skill HP 50%-5
+skill_hp50_5_level;Skill HP 50%-5 Level
+skill_hp50_5_probability;Skill HP 50%-5 Prob
+skill_hp25_1_id_skill;Skill HP 25%-1
+skill_hp25_1_level;Skill HP 25%-1 Level
+skill_hp25_1_probability;Skill HP 25%-1 Prob
+skill_hp25_2_id_skill;Skill HP 25%-2
+skill_hp25_2_level;Skill HP 25%-2 Level
+skill_hp25_2_probability;Skill HP 25%-2 Prob
+skill_hp25_3_id_skill;Skill HP 25%-3
+skill_hp25_3_level;Skill HP 25%-3 Level
+skill_hp25_3_probability;Skill HP 25%-3 Prob
+skill_hp25_4_id_skill;Skill HP 25%-4
+skill_hp25_4_level;Skill HP 25%-4 Level
+skill_hp25_4_probability;Skill HP 25%-4 Prob
+skill_hp25_5_id_skill;Skill HP 25%-5
+skill_hp25_5_level;Skill HP 25%-5 Level
+skill_hp25_5_probability;Skill HP 25%-5 Prob
+label;Description 2

@@ -1,0 +1,138 @@
+{
+	"ADDONDETAIL_GEN_TYPE": {
+		"ADDONDETAILGEN_RANDOM": {
+			"ru": "",
+			"en": "Random",
+			"ch": "",
+			"pt": ""
+		},
+		"ADDONDETAILGEN_MIN": {
+			"ru": "",
+			"en": "Min",
+			"ch": "",
+			"pt": ""
+		},
+		"ADDONDETAILGEN_MAX": {
+			"ru": "",
+			"en": "Max",
+			"ch": "",
+			"pt": ""
+		}
+	},
+	"BEHAVLIMIT_MASK_MAIN": {
+		"BEHAVLIMIT_JUMP": {
+			"ru": "",
+			"en": "Jump",
+			"ch": "",
+			"pt": ""
+		},
+		"BEHAVLIMIT_RUN": {
+			"ru": "",
+			"en": "Run",
+			"ch": "",
+			"pt": ""
+		},
+		"BEHAVLIMIT_WALK": {
+			"ru": "",
+			"en": "Walk",
+			"ch": "",
+			"pt": ""
+		},
+		"BEHAVLIMIT_TRANSFER": {
+			"ru": "",
+			"en": "Transfer",
+			"ch": "",
+			"pt": ""
+		},
+		"BEHAVLIMIT_TEAMFOLLOW": {
+			"ru": "",
+			"en": "Teamfollow",
+			"ch": "",
+			"pt": ""
+		},
+		"BEHAVLIMIT_SERVER_MOVE": {
+			"ru": "",
+			"en": "Server Move",
+			"ch": "",
+			"pt": ""
+		}
+	},
+	"NPCESSENCE_MASK_COMBINEDSERVICES3": {
+		"STORAGE_COLD_UNDERWORLD": {
+			"ru": "",
+			"en": "Storage Cold Underworld",
+			"ch": "",
+			"pt": ""
+		},
+		"BIBLE_REFINE_TRANSMIT": {
+			"ru": "",
+			"en": "Bible Refine Transmit",
+			"ch": "",
+			"pt": ""
+		},
+		"GUILD_QUALIFICATION": {
+			"ru": "",
+			"en": "Guild Qualification",
+			"ch": "",
+			"pt": ""
+		},
+		"MASTER_AND_APPRENTICE": {
+			"ru": "",
+			"en": "Master And Apprentice",
+			"ch": "",
+			"pt": ""
+		}
+	},
+	"LIMIT_TIME_TYPE": {
+		"LIMITTIMETYPE_LIFETIME": {
+			"ru": "",
+			"en": "Lifetime",
+			"ch": "",
+			"pt": ""
+		},
+		"LIMITTIMETYPE_DAY": {
+			"ru": "",
+			"en": "Day",
+			"ch": "",
+			"pt": ""
+		},
+		"LIMITTIMETYPE_WEEK": {
+			"ru": "",
+			"en": "Week",
+			"ch": "",
+			"pt": ""
+		},
+		"LIMITTIMETYPE_MONTH": {
+			"ru": "",
+			"en": "Month",
+			"ch": "",
+			"pt": ""
+		},
+		"LIMITTIMETYPE_YEAR": {
+			"ru": "",
+			"en": "Year",
+			"ch": "",
+			"pt": ""
+		}
+	},
+	"SPECIAL_TITLE_TYPE": {
+		"SPECIALTITLE_NORMAL": {
+			"ru": "",
+			"en": " Normal",
+			"ch": "",
+			"pt": ""
+		},
+		"SPECIALTITLETYPE_COLORED": {
+			"ru": "",
+			"en": "Type Colored",
+			"ch": "",
+			"pt": ""
+		},
+		"SPECIALTITLETYPE_IMAGE": {
+			"ru": "",
+			"en": "Type Image",
+			"ch": "",
+			"pt": ""
+		}
+	}
+}
