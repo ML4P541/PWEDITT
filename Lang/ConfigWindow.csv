@@ -1,0 +1,11 @@
+﻿ConfigWindow; Configuration Editor
+label4;Conversation List Index:
+addRowToolStripMenuItem;Add Row
+deleteRowToolStripMenuItem;Delete Row
+Column1;Name
+Column2;Type
+button2;Add New
+label3;List:
+button1;Delete
+label2;Offset Bytes:
+label1;List Name:

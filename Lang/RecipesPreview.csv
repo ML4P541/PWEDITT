@@ -1,0 +1,18 @@
+﻿RecipesPreview;Universal Data Editor:: Cells Preview
+mnuUndo;Отменить;Undo;撤消;Desfazer;
+mnuRedo;Вернуть;Redo;返回;Refazer;
+lblPreview;Предпросмотр;Preview;预览;Previw;
+label8;Отмена;Cancel;取消;Cancelar;
+label9;Сделать;Craft;生产;Forjar;
+lblProfessionLvl
+lblProfession;Ремесло;Profession;当前生产技能;Forja;
+mnuGoToItem;Перейти к элементу;Go To This Item;查看项目;Ir para o item;
+mnuChangeItem;Изменить;Change Item;更改项目;Alterar item;
+mnuDeleteItem;Удалить;Remove;删除;Remover
+mnuAddItem;Добавить;Add New;添加;Add novo;
+txtSkillName;Кузнец;Skill Name;生产技能;Habilidade;
+lblCount;Кол-во:;Amount:;数量;Qntde:;
+lblSkill;Навык;Skill;技能;Habilidade;
+lblLv
+lblMatter;Предмет;Goods;物品;Materiais;
+lblIsNotRecipes

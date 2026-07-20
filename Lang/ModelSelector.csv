@@ -1,0 +1,14 @@
+﻿ModelSelector;Выбор модели;Choice Model;选择模型;Escolher model;
+cmdOk;Выбрать [Enter];OK [Enter];选择[Enter];OK [Enter]
+cmdCancel;Отмена [ESC];Cancel [ESC];取消[ESC];Cancelar [ESC]
+mnuOk;Выбрать модель;Pick Model;选择模型;Usar model;
+mnuGoToItem;Перейти к этому предмету;Go To This Item;跳转到目标;Ir para o item;
+mnuCopyPath;Копировать путь в буфер обмена;Copy Path To Clipboard;复制路径到剪贴板;Copiar caminho para área de transferência;
+mnuGoToPath;Показать путь в PCKModule;Explore In PCK Module;搜索PCK模块;Explorar no PCK Module;
+clmName;Название;Name;名称;Nome;
+clmPath;Путь;Path;路径;Caminho;
+clmID
+clmUses;Исп.;Uses;使用;Usado;
+chkOnlyFreeModels;Только неиспользуемые;Keep Only Unused;仅查看未使用;Manter apenas não usados;
+cmbGender;682
+cmdFindNext

@@ -1,0 +1,5 @@
+﻿ItemsWindow;Выберите элемент... [ESC — Отмена];Choice Item... [ESC — Cancel];选择项目...[ESC — 取消];Escolher um item... [ESC - Cancel];
+findnext;Далее;Next;下一个;Próximo;
+cmdok;Выбрать [Enter];OK [Enter];确认[Enter];OK [Enter];
+cmdcancel;Отмена [ESC];Cancel [ESC];取消 [ESC];Cancelar [ESC]
+label1;Выберите или введите ID:

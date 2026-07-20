@@ -1,0 +1,166 @@
+﻿GShopEditor_PW;Universal Data Editor:: Игровой магазин;Universal Data Editor:: Game Shop;Universal Data Editor:: 游戏商店;Universal Data Editor- GShop Editor
+mnuFile;Файл;File;文件;Arquivo;
+mnuOpen;Открыть;Open;打开;Abrir
+mnuOpenAs;Открыть как;Open As;打开版本;Abrir como;
+mnuOpenAs_1_2_6;Версию 1.2.6 (1.3.4);Version 1.2.6 (1.3.4);版本1.2.6 (v134);Versão 1.2.6 (1.3.4)
+mnuOpenAs_1_4_2_v27;Версию 1.4.2 (v27);Version 1.4.2 (V27);版本1.4.2 (v27);Versão 1.4.2 (v27);
+mnuOpenAs_1_4_2_v29;Версию 1.4.2 (v29);Version 1.4.2 (V29);版本1.4.2 (v29);Versão 1.4.2 (v29);
+mnuOpenAs_1_4_4;Версию 1.4.4 - 1.5.1;Version 1.4.4 - 1.5.1;版本1.4.4 - 1.5.1;Versão 1.4.4 - 1.5.1;
+mnuOpenAs_1_5_3;Версию 1.5.3 (v145);Version 1.5.3 (V145);版本1.5.3 (v145);Versão 1.5.3 (v145);
+mnuOpenAs_1_5_4;Версию 1.5.5 (v156);Version 1.5.5 (V156);版本1.5.5 (v156);Versão 1.5.5 (v156);
+mnuOpenAs_1_5_5;Версию 1.5.5 (v181);Version 1.5.5 (V181);版本1.5.5 (v181);Versão 1.5.5 (v181);
+mnuOpenAs_1_6_0;Версию 1.6.0;Version 1.6.0;版本1.6.0;Versão 1.6.0;
+mnuOpenAs_1_7_6;Версию 1.7.6;Version 1.7.6;版本1.6.0;Versão 1.7.6;
+mnuSave;Сохранить;Save;保存;Salvar;
+mnuSaveAs;Сохранить как;Save As;另存为;Salvar como...
+mnuSaveToGshopSev;Сохранить в gshopsev(n).data;Save To Gshopsev(N).Data;生成服务端gshopsev(n).data;Salvar como gshopsev(n).data);
+mnuExportGShop;Экспортировать;Export;转换版本为;Exportar;
+mnuExportTo1_7_6;Версию 1.7.6;Version 1.7.6;版本1.7.6;Versão 1.7.6;
+mnuExportTo1_6_0;Версию 1.6.0;Version 1.6.0;版本1.6.0;Versão 1.6.0;
+mnuExportTo1_5_5;Версию 1.5.5 (v181);Version 1.5.5 (V181);版本1.5.5 (v181);Versão 1.5.5 (v181);
+mnuExportTo1_5_4;Версию 1.5.5 (v156);Version 1.5.5 (V156);版本1.5.5 (v156);Versão 1.5.5 (v156);
+mnuExportTo1_5_3;Версию 1.5.3 (v145);Version 1.5.3 (V145);版本1.5.3 (v145);Versão 1.5.5 (v145);
+mnuExportTo1_4_4;Версию 1.4.4 - 1.5.1;Version 1.4.4 - 1.5.1;版本1.4.4 - 1.5.1;Versão 1.4.4 - 1.5.1;
+mnuExportTo1_4_2;Версию 1.4.2;Version 1.4.2;版本1.4.2;Versão 1.4.2;
+mnuExportTo1_4_2_v27;Версию 1.4.2 (v27);Version 1.4.2 (V27);版本1.4.2 (v27);Versão 1.4.2 (v27);
+mnuExportTo1_2_6;Версию 1.2.6 (1.3.4);Version 1.2.6 (1.3.4);版本1.2.6 (1.3.4);Versão 1.2.6 (1.3.4);
+mnuExit;Выход;Exit;退出;Sair;
+mnuSelectSurfacesPck;Выбрать surfaces.pck;Set Path To Surfaces.Pck;选择surfaces.pck路径;Definir caminho para surfaces.pck;
+mnuFile2;Файл 2;File 2;文件 2; Arquivo 2;
+mnuEdit;Правка;Edit;编辑;Editar;
+mnuUndo;Отменить;Undo;撤销;Desfazer;
+mnuRedo;Вернуть;Redo;返回;Refazer;
+mnuAutoFixAllBugs;Автоматически исправить все ошибки;Automatically Fix All Bugs;自动修复所有错误;Corrigir todos os bugs automaticamente;
+mnuSearch;Поиск;Search;搜索;Pesquisar;
+mnuActiveSaleOption;Текущая опция продажи;Current Sale Option;有效的销售选项;Opção de venda atual;
+mnuSaleOption0;Опция 0 (по умолчанию);Sale Option 0 (Default);选项 0（默认）;Opção de venda 0 (padrão)
+mnuSaleOption1;Опция 1;Sale Option 2;选项 1;Opção de venda 1;
+mnuSaleOption2;Опция 2;Sale Option 3;选项 2;Opção de venda 2;
+mnuSaleOption3;Опция 3;Sale Option 4;选项 3;Opção de venda 3;
+mnuExportSelectedItems;Экспортировать выбранные товары;Export Selected Items;导出选定项目;Exportar itens selecionados;
+mnuImport;Импорт элементов из файла в текущую категорию;Import Items From File Into The Current Category;从文件导入项目;Importar items de um arquivo para categoria atual;
+mnuView;Вид;View;视图;Visualizar;
+mnuShowExtraOptions;Продвинутый режим;Advanced Mode;高级模式;Modo avançado;
+mnuShowItemCountInList;Показывать количество предметов в списке товаров;Show Item Amount In List Of Goods;显示商品数量;Exibir quantidade de itens;
+mnuShowPileNumBuyCount;Показывать сколько раз надо купить предмет, чтобы заполнить ячейку (n);Show How Many Times It Is Necessary To Purchase An Item To Full Stack Amount (N);显示堆叠数量（n）/Exibir quantidade de compras necessária para comprar o item com stack máximo;
+mnuAnalysis;Анализ;Analysis;查看;Analisar;
+mnuShowJustNotFoundedItems;Показать только товары с не найденным предметом;Show Only Goods Which Item Is Not Found;查看找不到项目的商品;Mostrar apenas itens não encontrados;
+mnuShowItemsWithCount0;Показать товары, в которых кол-во предметов равно 0;Show Goods Where Item Count Is 0;查看商品数量为0的商品;Mostrar apenas items aonde a quantidade é igual a 0;
+mnuShowNotFoundIcons;Показать товары с не найденной иконкой;Show Items Which Icon Is Not Found;相差未找到商品图的商品;Mostrar ícones com ícone não encontrado;
+mnuShowFashionSubCat9;Показать стили из подкатегории № 9;Show Fashions Of Sub-Category # 9;查看时装武器;Exibir categoria de roupas da Sub Categoria #9;
+mnuShowItemsWithVeryLongName;Показать товары с названием более 16-ти символов;Show Goods With Long Name;查看名称超过16个字符的商品;Mostrar itens com nome longo;
+mnuShowItemWithFullDescription;Показать товары со 100% заполненным описанием;Show Goods With 100% Full Description;查看没有描述的商品;Mostrar itens com descrição completa;
+mnuShowItemsWithEqualsID;Показать товары с одинаковым ID предметов;Show Goods With Equals Items ID (Clones);查看重复ID的商品;Mostrar items com IDs iguais (clones);
+mnuShowItemsWithEqualsName;Показать товары с одинаковым именем;Show Goods With Equals Name;显示重名的商品;Mostrar items com nome igual;
+mnuShowItemsWithBuggedPileNum;Показать товары, превосходящие максимальное кол-во в ячейке;Show Goods That Exceed The Maximum Stack Amount;查看超过堆叠数量的商品;Mostrar itens que excedem o stack máximp;
+mnuAAutoFixAllBugs;Автоматически исправить все баги;Automatically Fix All Bugs;自动修复所有商品的错误;Corrigir todos os bugs automaticamente
+mnuSettings;Параметры;Settings;设置;Configurações;
+mnuAutoSetName;Автоматически задавать имя элемента при изменении товара;Automatically Set The Name Of Goods When Changing An Item;更换商品时自动设置商品名称;Definir nome do item automaticamente ao alterar;
+mnuAutoSetDescription;Автоматически задавать описание элемента при изменении товара;Automatically Set The Description Of Goods When Changing An Item;更换商品时自动设置商品描述;Definir descrição do item automaticamente ao alterar;
+mnuAutoRecalculatePrice;Пересчитывать цену по изменению количества предметов;Recalculate Price When Changing The Number Of Items;更改商品数量时重新计算价格;Recalcular preço do item ao modificar a quantidade;
+mnuAutoSetCatForImportedStyles;Автоматически задавать категории для импортируемых стилей;Automatically Set The Categories For The Imported Fashions;导入时装时自动添加对应类别;Definir automaticamente as categorias para roupas importadas;
+mnuHelp;Помощь;Help;帮助;Ajuda;
+mnuAbout;О программе;About;关于该程序;Sobre;
+mnuClone;Клонировать;Clone;复制添加;Clonar;
+mnuDelete;Удалить;Delete;删除;Deletar;
+mnuAddFromElements;Добавить элементы из elements.data;Add Items From Elements.Data;从elements.data中添加商品;Adicionar itens através do elements.data;
+mnuMoveItems;Переместить товары;Move Items;移动项目;Mover itens;
+mnuMoveToFirstPlace;В самое начало;Move To Top;移到顶部;Mover para o topo;
+mnuMoveToEnd;В самый конец;Move To Bottom;移到底部;Mover para baixo;
+mnuAdvancedMoving;Для ручного перемещения зажмите левую кнопку мыши;To Manually Move, Hold Down The Left Mouse Button;要手动移动，请按住鼠标左键;Para mover manualmente, segure o botão esquerdo do mouse;
+mnuChangeCat;Изменить категорию;Change Cat;更改类别;Alterar categoria;
+mnuSetDiscount10;Вычесть 10% от цены;Decrease 10% Of Price;减少价格的10％;Reduzir 10% do valor;
+mnuSetDiscount20;Вычесть 20% от цены;Decrease 20% Of Price;减少价格的20％;Reduzir 20% do valor;
+mnuSetDiscount30;Вычесть 30% от цены;Decrease 30% Of Price;减少价格的30％;Reduzir 30% do valor;
+mnuSetDiscount50;Вычесть 50% от цены;Decrease 50% Of Price;减少价格的50％;Reduzir 50% do valor;
+mnuSetDiscount90;Вычесть 90% от цены;Decrease 90% Of Price;减少价格的90％;Reduzir 90% do valor;
+mnuAdvancedPriceChanger;Расширенное изменение цены;Change Price (Advanced);更改价格（高级）;Modificar preço (avançado);
+mnuExport;Экспорт элементов;Export Selected Items;导出选定的项目;Exportar itens selecionados;
+mnuSetNamesByGoodsNames;Задать название из названия товара;Set Item Name By Goods Name;按项目名称设置商品名称;Definir nome do item;
+mnuSetNamesByGoodsNamesWithCount;Название из названия товара (c количеством);Set Names By Goods Names (With Count);按项目名称设置商品名称（含数量）;Definir nome do item com quantidade;
+mnuSetItemDescriptionByGoodsDescription;Задать описание из описания товара;Set Item Description By Goods Description;按项目描述设置商品描述;Definir nome do item pela descrição;
+mnuFixItems;Исправить ошибки в выбранных товарах;Fix Bugs In Selected Items;修复选定商品中的错误;Corrigir bugs dos itens selecionados;
+mnuGoToItemCat;Перейти в эту категорию;Go To Item Category;转到商品类别;Ir para categoria do item;
+mnuGoTo;Перейти к выбранным элементам;Select These Items In Elements Editor;转到主窗口中的这个项目;Selecionar esses itens no Editor de Elements;
+clmID;[uid];I D
+clmName;Имя;Name;名称;Nome;
+clmCount;Кол-во;Amount;数量;Quantidade;
+clmPrice;Цена;Price;价格;Preço;
+cmdAddItem;Клонировать;Add;添加新商品;Add
+cmdDeleteItem;Удалить;Delete;删除;Deletar;
+optCat0;Especial;Cat0
+mnuRenameCat;Переименовать;Rename Category;重命名类别;Renomear categoria;
+mnuRemoveAllSubCatsAndItems;Удалить все подкатегории и товары;Remove All Sub-Categories And Items;删除所有子类别和商品;Remover todas as Subs-Categorias e Itens;
+optAllSubCats;[Все];[All];全部;[Tudo];
+mnuRenameSubCat;Переименовать;Rename Sub-Category;重命名子类别;Renomear Sub-Categoria;
+mnuDeleteSubCat;Удалить только категорию;Delete Sub-Category;删除子类别;Deletar Sub-Categoria;
+mnuRemoveSubCatAndItems;Удалить категорию вместе с товарами;Remove Sub-Category And Items;删除子类别和商品;Remover Sub-Categoria e Itens;
+optSubCat6;Diversos   (24);Sub Cat6
+optSubCat5;Fogos   (32);Sub Cat5
+optSubCat4;Materiais    (20);Sub Cat4
+optSubCat3;Materiais    (20);Sub Cat3
+optSubCat2;Ornamental   (58);Sub Cat2
+optSubCat1;Aceleradores   (6);Sub Cat1
+optSubCat0;Batalha   (9);Sub Cat0
+optAllCats;[Все];[All];全部;[Tudo];
+optCat7;Diverso;Cat7
+optCat6;Auxiliar;Cat6
+optCat5;Pontos;Cat5
+optCat4;Mascotes;Cat4
+optCat3;Voo;Cat3
+optCat2;Coroa;Cat2
+optCat1;Visuais;Cat1
+grpParamsInElements;Параметры элемента в elements.data;Values Of The Item From Elements.Data;elements.data中的项目值;Valores do itens através do elements.data;
+lblSellPriceTotal;Price for 5 pcs.: 0 coins;Sell Price Total
+lblBuyPriceTotal;Price for 5 pcs.: 21.000 coins;Buy Price Total
+lblPileNumMax;Количество в ячейке:;Stack Amount:;堆叠上限:;Quantidade (stack);
+lblBuyPrice;Цена покупки:;Buy Price:;购买价格:;Preço de compra;
+lblSellPrice;Цена продажи:;Sell Price:;出售售价:;Preço de venda;
+grpCat;Категория;Category;类别;Categoria;
+cmdChangeCat;Изменить категорию;Change Category;更改类别;Alterar categoria;
+grpAdvanced;Дополнительно;Advanced;高级模式;Avançado;
+label6;Unknown 2:
+label2;[1.6.0] Unknown 1:
+lblOccupation;Доступно для классов:;For Classes:;职业限制;Classe necessária:;
+BuyTimesLimitMode;518
+lblBuyTimesLimit;Огранич. по кол-ву покупок:;Buy Times Limit;限购数量:;Limite de compras:;
+label5;День:;Day:;天数:;Dia:;
+ControlType;363
+label3;Контроль:;Control:;控制:;Controle:;
+lblSellEnd;Дата окончания продажи:;Sell End:;结束出售时间:;Fim da venda:;
+ExpireDate;quinta-feira, 1 de janeiro de 1970
+StartDate;quinta-feira, 1 de janeiro de 1970
+lblSellStart;Дата начала продажи:;Sell Start:;开始出售时间:;Ínicio da venda;
+label4;Флаги:;Flags:;标志:;Bandeiras;
+lblMinVipLevel;Мин. очков VIP:;Min Vip Level;Vip等级:;Nível mínimo de Coroa;
+grpDescription;Описание;Description;说明;Descrição;
+dataGridViewTextBoxColumn3;Name
+dataGridViewTextBoxColumn4;Цена
+cmdPasteColorTag;Вставить тег цвета;Paste Color Tag;选择颜色标签;Colar tag de cor;
+grpGoods;Товар;Goods;商品;Mercadorias;
+cmdMonth;Месяц;Month;月;Mês;
+cmdDay;Сутки;Day;日;Dia;
+cmdHour;Час;Hour;时;Hora;
+Status;285
+lblStatus;Статус:;Status:;状态：;Status:;
+lblDuration;Срок действия:;Duration:;时限:;Duração:;
+lblPrice;Цена:;Price:;价格:;Preço:;
+lblItem;Предмет:;Item:;商品ID:;ID:;
+lblAmount;Кол-во:;Amount:;数量:;Quantidade:;
+lblIcon;Иконка:;Icon:;商品图标:;Ícone:;
+grpGift;Подарок;Gift;赠品:;Presente;
+lblGiftPrice;Цена:;Price:;价格:;Preço:;
+lblGiftCount;Кол-во:;Amount:;数量:;Quantidade:;
+IsHide;Выключен;Disabled;禁用:;Desabilitado;
+grpOwnerNPCs;Активирующие НИПы;Owner Npcs;激活NPC中的隐藏商店;Owner NPCs;
+clmNpcID;Default;Default;默认;Padrão;
+clmNpcName;Name;名称;Nome;
+cmdDefault;Default;Default
+mbBack;Назад к предыдущему товару;Backward;向后;Voltar;
+mbForward;Вперед;Forward;向前;Ir
+mbOpen;Выбрать elements.data;Open;打开elements.data;Abrir elements.data;
+mbSave;Сохранить всё;Save;保存;Salvar;
+mbImport;Импорт;Import;导入;Importar;
+mbExport;Экспорт;Export;导出;Exportar;
+mbApplyOrdering;Применить сортировку;Apply Ordering;应用排序;Aplicar ordem;
+mbUndo;Отменить (Ctrl+Z);Undo (Ctrl+Z);撤消（Ctrl + Z）;Desfa

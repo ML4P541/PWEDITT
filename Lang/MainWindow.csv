@@ -1,0 +1,309 @@
+﻿MainWindow;Rody's Angelica Editor;Rody's Angelica Editor;Rody's Angelica Editor
+mnuEditors;Редакторы;Editors;编者;Editores;Người biên tập
+mnuElementsEditor;Вторая копия редактора;Another Elements Editor;打开新的EL编辑器;Outro Editor de Elements
+mnuShowGShopEditor;Редактор шопа (gshop.data);Game Shop Editor (Gshop.Data);商店编辑器（gshop.data）;Editor de GShop (gshop.data)
+mnuShowNPCGenEditor;Редактор расположения NPC и монстров (npcgen.data);Npcgen Editor (Npcgen.Data);NPC编辑器（npcgen.data）;Editor de NPCGen (npcgen.data)
+mnuShowTasksEditor;Редактор квестов (tasks.data);Quest Editor (Tasks.Data);任务编辑器（tasks.data）;Editor de Quests (tasks.data);
+mnuShowDomain2Editor;Редактор Битвы Династий (domain2.data);Realm War Editor (Domain2.Data);国战编辑器（domain2.data）;Editor de domain2.data;
+mnuPathEditor;Редактировать dynamicobjects.data или path.data;Edit Dynamicobjects.Data Or Path.Data;编辑dynamicobjects.data或path.data;Editor de dynamicobjets ou path.data;
+mnuPCKProtection;Защита клиентских файлов (PCK, CPK);Client Side Protection (PCK, CPK);客户端文件加密（PCK，CPK）;Proteção Client-Side (PCK, CPK);
+mnuSelectAndUnpacPck;Распаковать PCK архив;Open PCK File And Unpack It To Disc;打开PCK文件并将其解压缩;Abrir arquivo PCK e descompactar;
+mnuEditorsSettings;Настройки;Settings;设置;Configurações;
+mnuFile;Файл;File;文件;Arquivo;
+mnuOpenGameClient;Открыть папку с клиентом;Open Game Client Directory;打开游戏客户端;Abrir diretório do Jogo;
+mnuOpen;Открыть;Open;打开;Abrir;
+mnuOpenByCustomConfig;Открыть с собственным конфигом;Open By Custom Config
+mnuProfile;Профиль;Project;常用配置;Perfil;
+mnuOpenProfile;Открыть;Open Project;打开配置;Abrir Perfil;
+mnuSaveProfile;Сохранить;Save Project;保存配置;Salvar Perfil;
+mnuSaveProfileAs;Сохранить как;Save Project As;配置另存为;Salvar perfil Como;
+mnuOpenElements;Открыть elements.data;Open Elements.Data;打开elements.data;Abrir elements.data;
+mnuSaveAll;Сохранить всё;Save All;全部保存;Salvar tudo;
+mnuSaveClientVersion;Сохранить для клиента;Save Client Version;保存客户端版本;Salvar versão cliente;
+mnuSaveAs;Сохранить как;Save As;另存为;Salva como;
+mnuElementsProtection2;Elements Ultimate Protection;Elements Ultimate Protection;Elements.data文件加密;Proteção de Elements Ultimate;
+mnuProt2SaveForServer;Сохранить для сервера;Save For The Game Server;保存为游戏服务器;Salvar como servidor;
+mnuProt2SaveForClient;Сохранить для клиента;Save For The Game Client (The Editor Will Not Be Able To Open The File);保存为游戏客户端（编辑器将无法打开文件）;Salvar como cliente (o editor não conseguirá abrir novamente);
+mnuOpenFileLocation;Расположение файла;Open File Location;打开文件位置;Abrir localização do arquivo;
+mnuSaveItemColorAs;Сохранить item_color.txt как;Save Item_Color.Txt As;保存item_color.txt为;Salvar item_color.txt como;
+mnuSaveItemExtDescAs;Сохранить item_ext_desc.txt как;Save Item_Ext_Desc.Txt As;保存item_ext_desc.txt为;Salvar item_ext_desc como;
+mnuExportFile;Экспорт elements.data;Export File;导出文件;Exportar arquivo;
+mnuRecentProfiles;Недавние профили;Recent Projects;近期档案列表;Perfis recente;
+mnuEmptyRecentProfiles;Очистить список;Empty Recent Projects;清空近期档案;Limpar perfis recente;
+mnuLastFiles;Недавние файлы;Recent Files;近期文件列表;Arquivos recente;
+mnuCleanLastFiles;Очистить список;Empty Recent Files;清空近期文件;Limpar arquivos recente;
+mnuCloseElementsFile;Закрыть elements.data;Close Elements.Data;关闭elements.data;Fechar elements.data;
+mnuCloseProfile;Закрыть профиль;Close Project;关闭项目;Fechar perfil;
+mnuExit;Выход;Exit;退出;Sair;Đầu ra
+mnuEdit;Правка;Edit;编辑;Editar;
+mnuUndo;Отменить;Undo;撤销;Desfazer;
+mnuRedo;Вернуть;Redo;恢复;Refazer;
+mnuSearch;Поиск;Search;搜索;Pesquisar;
+mnuAdvancedSearch;Расширенный поиск;Advanced Search;高级搜索;Pesquisa avançada;
+mnuReplace;Замена значений;Replace;更换;Substituir;
+mnuMainCopy;Копировать [Ctrl+Shift+C];Copy [Ctrl+Shift+C];复制[Ctrl+Shift+C];Copiar [Ctrl+Shift+C];
+mnuCopyName;Копировать имя или имена;Copy Name;复制名称;Copiar Nome;
+mnuCopyModel;Копировать модель;Copy Model;复制模型;Copiar modelo;
+mnuCopyDrop;Копировать лут;Copy Drop;复制下降;Copiar drops;
+mnuCopySelectedValues;Копировать выбранные значения;Copy Selected Values;复制选定的值;Copiar Valor Selecionado;
+mnuCopyPage;Копировать текущую вкладку;Copy Page;复制页面;Copiar Página;
+mnuCopyAll;Копировать всё;Copy All;全部复制;Copiar Tudo;
+mnuMCopyItems;Копировать элементы;Copy Items;复制项目[Ctrl+C];Copiar items;
+mnuGlobalPaste;Вставить [Ctrl+V];Paste [Ctrl+V];粘贴项目[Ctrl+V];Colar [Ctrl+V];
+mnuPasteOptions;Опции вставки;Paste Special;插入选项;Colar Especial;
+optPasteWithDependencies;Вставлять зависимости:;Paste With Dependencies:;粘贴依赖关系：;Colar com dependências:;
+tscmbPasteDependenciesMode;815;;;;
+optPasteAutoSetUniqueID;Задавать уникальный ID вставляемым предметам при совпадении;Automatically Set Unique ID To Pasted Items;自动将唯一ID设置为粘贴的项目;Setar ID unico para os itens colados automaticamente;
+optPasteWithDesc;Вставлять с описанием и цветом;Paste With Item_Ext_Desc And Item_Color;粘贴item_ext_desc和item_color;Colar com item_ext_desc e item_color;
+mnuImportFromFile;Импорт элементов из файла;Import From File;导出项目数据;Importar arquivo de;
+mnuExportItems;Экспорт элементов;Export Items;导出项目数据;Exportar itens;
+mnuScanCurrentListForErrors;Сканировать текущий лист на ошибки;Scan Current List For Errors;扫描当前列表查找错误;Escanear lista atual por erros;
+mnuScanElementsForErrors;Сканировать весь elements.data на ошибки;Scan Whole Elements.Data;扫描整个elements.data查找错误;Escanear elements por errors;
+mnuSetQuestsIDsForNpcsFromTasks;Задать всем НИПам ID сдачи/получения квеста из tasks.data;Fix Or Set Quest In/Out ID Of Npcs From Tasks.Data;从任务数据修复或设置NPC的任务输入/输出ID;Corrigir ou setar ID quest in/out através do tasks.data;
+mnuFixMobsTypes;Исправить неверные типы мобов;Fix Invalid Mobs Types;修复错误类型的怪物;Corrigir tipos inválidos de monstros;
+probabilityVerification136OnlyToolStripMenuItem;Провека вероятностей (1.3.6)
+skillInvalidCheck136OnlyToolStripMenuItem;Skill Validation Check (1.3.6 only)
+skillReplaceToolStripMenuItem;Skill-Replace (1.3.6 only)...
+tomeInvalidCheck136OnlyToolStripMenuItem;Tome Validation Check (1.3.6 only)
+tomeReplace136OnlyToolStripMenuItem;Tome-Replace (1.3.6 only)...
+propertyInvalidChaeck136OnlyToolStripMenuItem;Property Validation Check (1.3.6 only)
+propertyReplaceToolStripMenuItem;Property-Replace (1.3.6 only)...
+taskOverflowCheck143OnlyToolStripMenuItem;Task Overflow Check (1.4.2+ only)
+mnuGlobalCopy;hКопировать;Global Copy
+mnuStartChangeValuesGlobal;hИзменить значения;Start Change Values Global
+mnuTools;Инструменты;Tools;工具;Ferramentas;
+mnuUnpackPCK;Распаковать PCK архив;Open PCK File And Unpack It To Disc;选择PCK文件并将其解;Abrir e descompactar arquivo PCK;
+mnuShowHints;Показать подсказки для элементов и квестов;Show Items And Quests Hints;显示物品和任务的工具提示;Habilitar itens e dicas na pesquisa;
+mnuElementsPermissionEditor;Контроль доступа к elements.data;Edit Elements.Data Permissions;编辑elements.data权限;Editar permissões do elements.data;
+mnuOperationsByID;Работа с элементами по ID;Change Items By ID;通过ID修改项目;Alterar items por ID;
+mnuExportList;Экспортировать весь лист;Export Whole List;导出整个列表;Exportar lista;
+mnuExportNpcFor_sNPCgen;Экспорт списка NPC для sNPCgen;Export Npcs List For Snpcgen;导出sNPCgen的NPC列表;Exportar lista de NPCs para sNPCGen;
+mnuExportMobsForAI;Экспорт списка монстров для sAIPolicy;Export Monster List For Aipolicy;为AIPolicy导出怪物列表;Exportar Lista de Monstros para AIPolicy;
+mnuJoinElements;Присоединить другой elements.data;Join Elements.Data;加入elements.data;Unificar elements.data;
+mnuJoinItemDescFile;Присоединить файл item_ext_desc.txt;Join Item_Ext_Desc.Txt File;加入item_ext_desc.txt;Unificar arquivo item_ext_desc.txt;
+mnuClassMaskGenerator;Генератор маски классов;Character Class Mask Generator;字符类掩码生成器;Gerador de 'mask' dos personagens;
+mnuProcTypeGenerator;Генератор привязки;Item Protection Mask Generator;项目保护掩码发生器;Proteção de itens (gerador de mask);
+mnuImmunitiesMaskGenerator;Генератор иммунитетов мобов;Monster Immunities Mask Generator;怪物免疫掩模发生器;Imunidades do monstro (gerador de mask);
+mnuAssocUdeProfileFiles;Ассоциировать файлы настроек (профили);Assoc RAE Project Files;Assoc RAE档案文件;Associar Perfil RAE;
+mnuAssocDataFiles;Ассоциировать data-файлы;Assoc .Data Files With RAE;将数据文件与RAE关联;Associar arquivos .data com RAE;
+mnuRegisterUdeProtocol;Зарегистрировать RAE в системе;Register RAE In The OS;注册RAE API协议;Registrar Protocolo de API (RAE);
+mnuShowQuestsWithType;Показать квесты с типами;Show Quests With Types;显示任务类型;Exibir missões com tipoe;
+mnuJoinTasks;Слияние tasks.data;Join Tasks.Data;加载tasks.data;Unificar tasks.data;
+mnuJoinTasksAddNewQuests;Добавить новые квесты;Join Tasks: Add New Quests;加入任务：添加新任务;Unificar tasks.data: Adicionar novas missões;
+mnuJoinTasksReplaceClassMask;"Заменить ""Требуемые классы""";Join Tasks: Replace Class Mask;加入任务：替换类掩码;Unificar Tasks: Substituir máscara (mask) das classes;
+mnuJoinTasksReplaceType;"Заменить ""Тип квеста""";"Join Tasks: Replace ""Quest Type""";加入任务：将“任务类型”;Unificar Tasks: Substituir tipo de missão (Quest Type);
+mnuProtectTasks;[MOD] Установить защиту для tasks.data;Protect Tasks.Data;加密保护tasks.data;Proteger tasks.data;
+mnuUnprotectTasks;[MOD] Снять защиту с tasks.data;Unprotect Tasks;取消加密tasks.data;Desproteger Tasks;
+mnuEmptyFavoriteItems;Очистить список любимых предметов;Empty Favorite Items;清楚收藏夹项目列表;Limpar lista de itens favoritos;
+mnuEmptyIconsCache;Очистить кеш иконок;Empty Icons Cache;清除缓存图标;Limpar cache de itens;
+mnuSettings;Настройки;Settings;设置;Configurações;
+mnuFavorites;Избранное;Favorites;收藏夹;Favoritos;
+mnuEditFavorites;Редактировать избранное;Edit Favorites;编辑收藏夹;Editar Favoritos;
+mnuLinks;Быстрый доступ;Shortcuts;快捷方式;Atalhos;
+mnuEmptyLink;пусто;Empty;空;vazio;
+mnuNpcGenList;;;;;
+mnuNpcGenCaptions;Выделить монстров из локации:;Select Monsters From The Instances:;从服务器中选择怪物：;Selecionar monstros das instâncias:;
+mnuNpcGenOthers;Другие;Other;其他;Outro;
+mnuHelp;Помощь;Help;帮助;Ajuda;
+mnuUpdateManually;Обновить программу вручную;Update Manually;手动更新;Atualizar manualmente;
+mnuCheckUpdate;Проверить наличие обновлений;Check For Updates;检查更新;Buscar por atualizações;
+mnuUpdateLicense;Обновить лицензию;Update The License;更新授权;Atualizar licença;
+mnuSubscriptionControl;Управление подпиской;Subscription Control;订阅管理;Gerenciar assinatura;
+mnuSuggestion;Предложить идею;Send A Suggestion;提出建议;Mande uma sugestão;
+mnuReportBug;Сообщить об ошибке;Report A Bug;报告错误;Reportar bug;
+mnuRodySoft;;;;;
+mnuShowLastChangelog;Посмотреть список нововведений;Show Changelog;更新日志;Mostrar changelog;
+mnuShowLicenseInfo;Информация о лицензии;Show My User Name And Activation Key;授权信息;Mostrar nome de usuário e chave de ativação;
+mnuCopyUsername;Копировать имя пользователя;Copy My User Name;复制账号;Copiar nome de usuário;
+mnuAboutReplaceFunction;О замене данных;About Replace Function;版本信息;Ajuda sobre função Replace;
+mnuAboutCopyPasteFunction;О копировании/вставке;About Copy Paste Function
+mnuAbout;О программе;About;关于版本;Ajuda;
+mnuUpdateProgram;Перезапустить RAE для обновления;Restart RAE To Apply Updates;更新程序并重新启动;Reiniciar RAE para aplicar atualização;
+mnuSubscribe;Оформить подписку по специальной цене;Subscribe (Special Offer);Subscribe (special offer);Assine (oferta especial);
+mbSkype;Rody66;Skype
+mbTelegramGroupChat;Telegram Chat;Telegram Group Chat
+mnuDevelopment;Development;Development
+CreatAllAdditionalFiles;CREATE ALL EXTRA FILES
+CreateNewStructureSmart;CREATE NEW STRUCTURE USING ANOTHER ELEMENTS
+mnuCreateConfigsDBNew;Angelica Editor - Create configs DB;Create Configs D B New
+mnuCreateConfigsDB;[OLD] Create configs DB ;Create Configs D B
+mnuViewCollector;View Collector;View Collector
+mnuCreateConfig;Create Config;Create Config
+mnuConfigWindow;Open Config Editor;Config Window
+mnuParseStruct;Parse Struct;Parse Struct
+mnuCreateFirstIDsFile;Create First IDs File;Create First IDs File
+mnuConfigsComparer;Configs Comparer;Configs Comparer
+mnuThrowException;Throw Exception;Throw Exception
+cPKProtectToolStripMenuItem;CPK Protect
+mnuCreateConfigLocalization;Create conf localization file;Create Config Localization
+mbQQGroup;加入QQ群;Q Q Group
+mbQQSupport;授权咨询: 693568595;Q Q Support
+mnuEditors2;Редакторы;EDITORS;关联程序;EDITORES;
+mnuCloneItems;Клонировать элементы [Ctrl+N];Clone Items [Ctrl+N];添加已选项目[Ctrl+N];Clonar itens [Ctrl+N];
+mnuDeleteSelectedItems;Удалить элементы [Del];Delete Items [Del];删除已选项目[Del];Deletar Itens [Del];
+mnuCopyItems;Копировать элементы [Ctrl+C];Copy Items [Ctrl+C];复制项目[Ctrl+C];Copiar Itens [Ctrl+C];
+mnuPasteItems;Вставить элементы [Ctrl+V];Paste Items [Ctrl+V];粘贴项目[Ctrl+V];Colar Itens [CTRL+V];
+mnuiAddShortcuts;Добавить в список быстрого доступа;Add To Shortcuts;将当前ID添加到快捷方式;Adicionar aos Favoritos;
+mnuMoveItems;Переместить элементы;Move Items;移动项目;Mover Itens;
+mnuMoveUpper;Выше;Move Up;上移;Mover pra cima;
+mnuMoveLower;Ниже;Move Down;下移;Mover pra baixo;
+mnuMoveToTop;В начало;Move To Top;顶部;Mover para o topo;
+mnuMoveToBottom;В конец;Move To Bottom;底部;Movo para o final;
+mnuSortItems;Сортировать выделенные элементы;Sort Selected Items;排序选定的项目;Ordernar Itens Selecionados;
+mnuSortItemsByID;По ID: По возрастанию (1, 2, 3, ...);By ID: Ascending (1, 2, 3, ...);按ID：升序（1，2，3，...）;por ID: Crescente (1, 2, 3, ...);
+mnuSortItemsByID_desc;По ID: По убыванию (3, 2, 1, ...);By ID: Descending (3, 2, 1, ...);按ID：降序（3，2，1，...）;por ID: Descrecente (3, 2, 1, ...);
+mnuSortItemsByName;По имени: По возрастанию (а -> я);By Name: Ascending (A -> Z);按名称：升序（a - > z）;por Nome: Crescente (A -> z);
+mnuSortItemsByName_desc;По имени: По убыванию (я -> а);By Name: Descending (A -> Z);按名称：降序（a - > z）;por Nome (Descrente (A -> Z);
+mnuSortItemsByValue;По значению: По возрастанию (0 -> 9);By Value: Ascending (0 -> 9);按值：升序（0 - > 9）;por Valor: Crescente (0 -> 9);
+mnuSortItemsByValue_desc;По значению: По убыванию (9 -> 0);By Value: Descending (9 -> 0);按值：降序（9 - > 0）;por Valor: Descrente (9 -> 0);
+mnuAdvancedChangingID;Массовое изменение ID;Multi-Edit ID;高级修改ID;Mudança de ID avançada;
+mnuRefactoringID;Рефакторинг (изменение ID с заменой во всех связях);Refactoring (Change Item ID With The Replacement In All References);重新构建（替换引用此项目的文件中ID）;Refator (Mudar ID do item e substituir e todas as entradas);
+mnuRefactoringInAllFiles;Замена во всех файлах;Replace In All Files;替换所有文件;Substituir em todos os arquivos;
+mnuRefactoringInAllFilesToUniqueID;Замена с задаванием уникального ID;Replace In All Files And Set A Unique ID;替换所有文件并设置唯一ID;Substituir em todos os arquivos e definir ID único;
+mnuRefactoringOnlyInElements;Замена только в elements.data;Replace Only In The Elements.Data;只替换elements.data;Substituir apenas no elements.data;
+mnuRefactoringOnlyInGShop;Замена только в gshop.data;Replace Only In The Gshop.Data;只替换gshop.data;Substituir apenas no gshop.data;
+mnuRefactoringOnlyInTasks;Замена только в tasks.data;Replace Only In The Tasks.Data;只替换tasks.data;Substituir apenas no tasks.data;
+mnuRefactoringOnlyInNpcgenFiles;Замена только в файлах npcgen.data;Replace Only In Npcgen.Data Files;只替换npcgen.data;Substituir apenas no npcgen.data;
+mnuCopyIDToClipboard;Копировать ID элементов в буфер обмена;Copy Selected Items ID To Clipboard;复制项目;Copiar IDs selecionados para área de transferência;
+mnuSsetUnqueID;Задать уникальный ID;Set Unique ID;设置唯一ID （即不重复的ID）;Definir ID único;
+mnuCopyData;Копировать данные [Ctrl+Shift+C];Copy Data [Ctrl+Shift+C];复制数据[Ctrl+Shift+C];Copiar Dados [Ctrl+Shit+C];
+mnuImport;Импорт;Import;导入项目数据;Importar;
+mnuExportSelectedItems;Экспортировать выделенные элементы;Export Selected Items;导出项目数据;Exportar Itens Selecionados;
+mnuSaveSelectedItemsIcons;Сохранить иконки выделенных элементов;Save Selected Items Icons;保存选定的项目图标;Salvar Itens Selecionados;
+mnuAddItemsToShop;Добавить выбранные элементы в шоп;Add Items To Game Shop;将选定的物品添加到游戏商店;Add Items no GShop;
+mnuSearchSelectedItemsInShop;Найти выбранные элементы в шопе;Find Items In Game Shop;在游戏商店种查找选定的物品;Procurar Itens no GShop;
+mnuTranslateItems;Перевод элементов [Ctrl+T];Translate Selected Items [Ctrl+T];翻译所选项目[Ctrl+T]【无用】;Traduzir Itens Selecionados [Ctrl+T];
+mnuRusificateByPWDB;Русифицировать через PWDB;Translate To English With PWDB;用PWDB翻译成英文【无用】;Traduzir para Inglês usando PWDB;
+mnuMatterDesc;Описание предметов;Items Description;项目描述;Descrição dos itens.;
+mnuMergeServerCopyright;Добавить описание (например, Copyright сервера);Append A Text To The Item Description (The Server Copyright For Example);在项目描述中添加文本（例如服务器版权）;Anexar descrição ao item (Copyright por exemplo);
+mnuChangeDescriptionAdvanced;Расширенное изменение описания;Change Selected Items Description (Advanced);修改高级选定项目描述;Mudança de descrição avançada;
+mnuAddPaintCountDesc;Добавить в описание кол-во требуемой краски;Add The Number Of Required Dye To The Description;将所需染料的数量添加到描述中;Adicionar Quantidade Item na Descrição;
+mnuSaveDescToFile;Сохранить описание выбранных предметов в файл;Save Selected Items Description To File;将选择的项目描述保存到文件;Salvar descrição dos itens selecionados;
+mnuEmptyDescription;Удалить описание;Clear Selected Items Description;清除选定的项目说明;Limpar descrição dos items selecionados;
+mnuCreateRecipes;Создать рецепты для выделенных предметов;Create Recipes For The Selected Items;为所选项目创建生产配方;Criar Recipe para os Itens selecionados;
+mnuCreateFashion;Создать стиль из выделенного снаряжения;Create The Fashions For Selected Equipments;创建选定装备的时装;Criar Roupas para os Itens selecionados;
+mnuSetRecipiesNames;Задать выбранным рецептам названия предметов;Set The Name Of The Result Items To The Selected Recipes;将结果项目的名称设置为所选配方;;
+mnuSetPetsEggsNames;Задать выбранным яйцам имена питомцев;Set The Name Of The Pets To The Selected Eggs;将宠物的名称设置为选定的蛋;Definir nome do pet para os ovos selecionados;
+mnuSetPetsEggsIcons;Задать выбранным яйцам иконки питомцев;Set The Icon Of The Pets To The Selected Eggs;将宠物的图标设置为选定的鸡蛋;Definir icone do pet para os ovos selecionados;
+mnuCreateEggs;Создать яйца для выделенных питомцев;Create Eggs For Selected Pets;为选定的宠物创建宠物蛋;Criar ovos para os pets selecionados;
+mnuCreateQuestAndGift;Создать квест и коробку с такой наградой;Create The Quest And The Gift With Selected Items;用选定的项目创建任务和礼物;Criar missão com os itens selecionados;
+mnuGenerateStonesData;Сгенерировать данные камней;Generate Stones Data;生成宝石数据;Gerar dados de Pedra;
+mnuCreateNpcs;Создать NPC из выделенного;Create NPC From Selected;将选中目标创建NPC;Criar NPC de selecionado;
+mnuCopySelectedToClipboard_i;Копировать в буфер обмена [Ctrl+C];Copy Selected To Clipboard [Ctrl+C];复制选择到剪贴板[Ctrl+C];Copiar seleção para área de transferência [Ctrl+C];
+mnuPasteFromClipboard_i;Вставить из буфера обмена [Ctrl+V];Paste From Clipboard [Ctrl+V];从剪贴板粘贴[Ctrl+V];Colar da area de transferência [Ctrl+V];
+mnuSelectAllItems;Выделить всё [Ctrl+A];Select All Items [Ctrl+A];选择所有项目[Ctrl+A];Selecionar todos os itens [Ctrl+A];
+listsb;[0]: Equipment Addon (3707)
+chkQuickSearchInCurrentList;;;;;
+cmdDeleteItem;Удалить;Delete;删除;Deletar;
+cmdAdd;Добавить;Add;添加新项目;Add;
+cmdUniqueButton;ParamType: auto;Unique Button
+cmdFieldSets;Набор значений;Field Sets;字段集;Conjuto de campos;
+tabValues;Значения;Values;属性数据;Valores;
+page0;Все значения;All Values;所有值;Todos os Valores;
+mnufshortcuts;Вставить из буфера быстрого доступа;Paste From Shortcuts;从快捷方式粘贴;Colar dos atalhos;
+mnuPasteAllShortcuts;Пусто;Paste All Shortcuts;粘贴所有快捷方式;Colar todos os atalhos;
+mnufaddshortcut;Добавить текущий ID в быстрый доступ;Add Current ID To Shortcuts;将当前ID添加到快捷方式;Adicionar ID atual para o atalho;
+mnuClearShortcuts;Очистить буфер быстрого доступа;Clear Shortcuts;清除关联;Limpar atalhos;
+mnuGoToItem;Перейти к выбранным элементам;Go To Selected Items;转到选定的项目;Ir para item selecionado;
+mnuStartChangeValue;Изменить значение [Ctrl+E];Change Values [Ctrl+E];修改值 [Ctrl+E];Alterar valor [Ctrl+E];
+mnuMoveFields;Переместить значения;Move Fields;移动字段;Mover campos;
+mnuMoveFieldsUp;Выше;Move Fields Up;将字段向上移动;Mover campos para cima;
+mnuMoveFieldsDown;Ниже;Move Fields Down;将字段向下移动;Mover campos para baixo;
+mnuExchangeFields;Поменять местами;Exchange Fields;替换字段;Alterar campos;
+mnuSelectSimilarFields;Выделить похожие поля [ср. кнопка мыши];Select Similar Fields [Middle Button];选择类似字段;Selecionar campos similares;
+mnuFindBySelectedField;Найти элементы с таким же значением поля;Find Equals;找到平等;Pesquisar iguais;
+mnuFindNotEquals;Найти элементы с противоположным значением;Find Not Equals;寻找不等于;Pesquisar não iguais;
+mnuFindItemsWithThisID;Найти элементы с таким ID;Find Items With This ID;使用此ID查找物品;Pesquisar itens com esse ID;
+mnuSearchOriginals;Найти только оригиналы;Find Originals;找到原件;Pesquisar originals;
+mnuFindNotFoundedItems;Найти поля, элементы в которых не найдены;Find Not Found Items;找到未建立的项目;Pesquisar Itens Não Encontrados;
+mnuReplaceValues_fields;Замена в выбранных полях;Replace In Selected Fields;在选定的字段中替换;Substituir nos campos selecionados;
+mnufcopy;Копировать [Ctrl+Shift+C];Copy [Ctrl+Shift+C];复制[Ctrl+Shift+C];Copiar [Ctrl+Shift+C];
+mnupaste;Вставить [Ctrl+Shift+V];Paste [Ctrl+Shift+V];粘贴[Ctrl+Shift+V];Colar [Ctrl+Shift+V];
+mnuCopySelectedToClipboard_f;Копировать [Ctrl+C];Copy [Ctrl+C];复制[Ctrl+C];Copiar [Ctrl+C];
+mnuPasteFromClipboard_f;Вставить из буфера обмена [Ctrl+V];Paste [Ctrl+V];粘贴[Ctrl+V];Colar [Ctrl+V];
+mnuCut;Вырезать [Ctrl+X];Cut [Ctrl+X];剪切[Ctrl+X];Recortar [Ctrl+X];
+mnuClearSelected;Очистить выбранное [Del];Clear Selected Fields [Del];清除选定的字段[Del];Limpar Campos Selecionados [Del];
+mnuClearPage;Очистить вкладку;Clear The Page;清空选定的页面;Limpar Página;
+mnuSetFieldTypes;Задать тип полей;Set Field Types;设置字段类型;Definir tipo dos campos;
+mnuSetFieldBindedList;Задать привязанный лист;Set Field Binded List;设置字段绑定列表;Definir lista de campos vinculados;
+mnuSetBindedListAutomatically;Задать привязанный лист автоматически;Set Binded List Automatically;自动设置绑定列表;Definir lista de campos vinculados automaticamente;
+mnuSaveFieldTypes;Сохранить типы в файл;Save Field Types;保存字段类型;Salvar tipo do campo;
+mnuSaveFieldLang;Сохранить названия полей в файл;Save Field Language;保存字段语言;Salvar linguagem do campo;
+column_fieldname;Название;列字段名称;Title;Título;
+column_fieldvalue;Значение;数值;Meaning;Significado;
+cmdStartChange;;;;;
+numSetSummTo1;;;;;
+num20;;;;;
+tabEntries;Связи;References;参考;Referências;
+cmdGoToEntrie;Перейти к выбранным связям (двойной клик);Go To Selected References (Double Click);转到选定的参考（双击）;Ir para as referências selecionadas (duplo-clique);
+tabSearch;Поиск;Search;搜索;PeSQUISAR;
+mnuGoToFindedField;Перейти к выбранным значениям;Go To Selected Matches;去选择数值;Ir para os resultados selecionados;
+mnuFixBugsInSelectedMatches;Исправить ошибки;Fix Bugs In Selected Matches;修复所选匹配中的错误;Corrigir bugs nos resultados selecionados;
+mnuChangeFindedValues;Изменить выбранные значения;Change Selected Matches;修改所选匹配项;Alterar resultado selecionados;
+mnuClearFindedValues;Очистить выбранные значения;Clear Selected Matches;清除所选匹配项;Limpar resultado selecionados;
+mnuExportFindedItems;Экспорт выделенных элементов;Export Selected Items;导出选定的项目;Exportar itens selecionados;
+mnuCopySelectedMatches;Скопировать значения;Copy To Clipboard;复制到剪贴板;Copiar para area de transferência;
+mnuRefactorMatches;Рефакторинг выбранных ID;[Refactoring] Replace Selected Ids;[重构]替换选定的ID;[Refatoração] Substituir IDs selecionados;
+mnuSaveMatchesIcons;Сохранить иконки;Save Matches Icons;保存匹配图标;Salvar ícone dos resultados;
+mnuRemoveFindedValues;Убрать из результатов поиска;Remove From The Results;从结果中删除;Remover dos resultados;
+mnuAddFoundedResultsToShop;Добавить выделенные элементы в шоп;Add Selected Matches To Game Shop;将选定的数值添加到游戏商店;Adicionar resultados selecionados ao GShop;
+mnuSearchSelectedFindedItemsInShop;Найти выделенные элементы в шопе;Search Selected Matches Items In Game Shop;搜索所选内容与游戏商店中的商品匹配;Adicionar itens selecionados ao GShop;
+clmList;Лист;List;名单;Lista;
+clmName;Имя;Name;名称;Nome;
+clmFieldName;Название поля;Field Name;字段名称;Nome do Campo;
+clmValue;Значение;Value;数值;Valor;
+chkKeepPrevMatches;Не очищать результаты поиска;Keep Matches;保持匹配;Manter resultados;
+cmdChangeFindedValues;Изменить выбранные значения;Change Selected Matches;修改所选匹配项;Alterar resultados selecionados;
+cmdFixSelectedBugs;Исправить выбранные ошибки;Fix Selected Bugs;修复选定的错误;Corrigir bugs selecionados;
+cmdGoToFindedField;Перейти к выбранным значениям;Go To Selected Matches;转到选定的数值;Ir para resultado selecionado;
+grpSearchBy;Источники поиска;Sources Search;搜索来源;Pesquisar fonte;
+cmbSourceSearch;393;;;;
+cmbSearchDest;727;;;;
+cmbCompVariantes;2;;;;
+lblSearchedValue;{Значение};{Value Is};价值;[Valor];
+mnuCopyNameN;Копировать имя или имена;Copy Name(S);复制名称或名称;Copiar Nome(s);
+mnuPasteNames;Вставить имя или список имен;Paste Name(S);粘贴名称;Colar Nome(s);
+mnuClearNameN;Очистить имя;Clear Name;清除名称;Limpar Nome(s);
+mnuChangeNamesN;Расширенное изменение значений;Change Name(S) (Advanced);先进的名字转换器;Alterar nomes (avançado);
+mnuSetColorTagN;Изменить тег цвета;Set Color Tag;设置颜色标签;Definir Tag de Cor;
+mnuFindSimilarName;Найти элементы с похожим названием;Find Items With Similar Name;查找具有类似名称的项目;Encontrar Itens com nome similar;
+mbNavigateBackwardList;Перейти к предыдущему листу;Navigate Backward List;转到上一页;Voltar;
+mbBack;Назад к предыдущему элементу;Navigate Backward;返回到前一个项目;Voltar;
+mbForward;Вперед;Navigate Forward;前进;Ir;
+mbNavigateForwardList;Вперед (к следующему листу);Navigate Forward List;转到下一页;Ir;
+mbOpen;Выбрать файл;Open File;打开文件;Abrir Arquivo;
+mbSave;Сохранить всё;Save All;全部保存;Salvar Tudo;
+mbSaveClientVersion;Сохранить версию для клиента;Save Client Version;保存客户端版本;Salvar versão cliente;
+mbImport;Импорт;Import;导入;Importar;
+mbExport;Экспорт;Export;导出;Exportar;
+mbExportItems;Экспорт выбранных элементов;Export Items;导出项目;Exportar itens;
+mbExportList;Экспорт листа;Export The List;导出列表;Exportar lista;
+mnuExportToTable;Экспорт всех элементов в таблицу (RAE_Exported_Table.tab);Export To Table (RAE_Exported_Table.Tab);导出到表格（RAE_Exported_Table.tab）;Exportar para tabela (RAE_Exported_Table);
+mbExportAddons;Экспорт бонусов;Export Addons;导出属性;Exportar addons;
+mbExportAllIconsToJpg;Экспорт всех иконок в .jpg;Export All Item Icons To .Jpg;将所有项目图标导出为.jpg;Exportar todos os ícones para .jpg;
+mbSync;Синхронизация;Join Elements.Data;加入elements.data;Unificar elements.data;
+mbJoinElements;Открыть окно присоединения elements.data;Join Elements;导入elements.data;Unificar Elements;
+mbLocalization;Локализация;Localization (Translate Current File Using Another Elements.Data);本地化（使用另一个elements.data转换当前文件）;Tradução (traduzir elements.data atual com outro elements);
+mbActionsHistory;Показать историю изменений elements.data;Action History;显示历史修改记录elements.data;Histórico de ações;
+mbUndo;Отменить (Ctrl+Z);Undo (Ctrl+Z);撤销 (Ctrl+Z);Desfazer (Ctrl+Z);
+mbRedo;Вернуть (Ctrl+Y);Redo (Ctrl+Y);返回 (Ctrl+Y);Refazer (Ctrl+Y);
+mbProtectElements;Защитить файл;Protect Elements.Data;加密elements.data;Proteger elements.data;
+mbUnProtectElements;Снять защиту;Unlock Elements.Data;解锁elements.data;Desbloquear elements.data;
+mbOctetGenerator;Октеты;Octet Builder;查看XML;Gerador de Octets;
+mbEnableModelsWindow;Показывать модели;Enable / Disable Models Preview;启用/禁用模型预览;Habilitar/Desabilitar Preview;
+mbEnableRecipesWindow;Показывать котлы;Enable / Disable Recipes Preview;启用/禁用可视化编辑工具【目前只能编辑出售列表和生产服务】;Habilitar/Desabilitar Preview (Recipes);
+mbEnableTabs;Показывать вкладки;Enable Tabs;显示标签;Habilitar separadores;
+mbEnableHints;Показывать подсказки для элементов и квестов;Enable Items And Quests Hints;显示物品和任务的工具提示;Habilitar itens e dicas na pesquisa;
+mbSettings;Настройки;Settings;设置;Configurações;
+mbReload;Переоткрыть elements.data;Reload Elements.Data;重新加载elements.data;Recarregar elements.data;
+mbReloadTasks;Переоткрыть tasks.data;Reload Tasks.Data;重新加载tasks.data;Recarregar tasks.data;
+mbServer;Сервер;Server;服务器;Servidor;
+mbSendElements;Сохранить и отправить elements.data;Save And Send Elements.Data To Server;保存并上传elements.data到服务器;Salvar e enviar elements.data para o servidor;
+mbRestartServer;Перезапустить gs (данжи и мир);Restart GS (Instances);重新启动GS（实例）;Reiniciar GS (DGs);
+mbSendAndRestart;Отправить и перезагрузить;Send Elements.Data And Restart GS;发送elements.data并重新启动GS;Enviar elements e reiniciar GS;
+mbServerCustomCommand;Пользовательская команда;Custom Command;自定义命令;Comando custom;
+mbOpenPutty;Открыть консоль (Putty);Open Console (Putty);打开控制台（Putty）;Abrir Console (Putty);
+mbSendTasks;Отправить tasks.data;Send Tasks.Data;上传tasks.data;Enviar tasks.data;
+mbSendGshopSev;Отправить gshopsev.data;Send Gshopsev.Data;上传gshopsev.data;Enviar gshopsev.data;
+mnuSendGshopSev1;Отправить gshopsev1.data;Send Gshopsev1.Data;上传gshopsev1.data;Enviar gshopsev1.data;
+mnuSendGshopSev2;Отправить gshopsev2.data;Send Gshopsev2.Data;上传gshopsev2.data;Enviar gshopsev2.data;

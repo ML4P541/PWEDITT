@@ -1,0 +1,23 @@
+﻿PathEditor;Universal Data Editor:: Path;Universal Data Editor:: Пути: Path;Universal Data Editor:: 路径;Universal Data Editor:: Editor de path.sev;
+toolStripMenuItem1;Файл
+mnuOpen;Открыть;Open;文件;Abrir;
+mnuSave;Сохранить;Save;保存;Salvar;
+mnuExit;Выход;Exit;退出;Sair;
+cmdExport;Экспорт;Export;导出;Exportar;
+cmdImport;Импорт;Import;导入;Importar;
+lblSearch;Поиск:;Find:;搜索:;Encontrar:;
+cmdFindNext;Найти далее;Find Next;查找下一个;Buscar próximo;
+TimeStamp;quinta-feira, 13 de fevereiro de 2014
+cmdClose;Закрыть;Close;关闭;Fechar;
+mnuAdd;Добавить;Add;添加;Add;
+mnuAdvancedChanging;Массовое изменение путей;Changing Path (Advanced);更改路径（高级）;Alterar caminho (avançado);
+mnuAdvancedChangingID;Массовое изменение ID;Changing ID (Advanced);更改ID（高级）;Alterar ID (avançado);
+mnuDelete;Удалить;Delete;删除;Deletar;
+mnuExport;Экспорт;Export;导出;Exportar;
+clmPath;Путь;Path;路径;Caminho;
+lblTimeStamp;Time Stamp;Врем. Метка:;时间标志:;Timestamp:;
+cmdDelete;Удалить;Delete;删除;Deletar;
+cmdAdd;Добавить;Add;添加;Add;
+lblPath
+cmdOpen;Открыть;Open;打开;Abrir
+cmdSave;Сохранить;Save;保存;Salvar

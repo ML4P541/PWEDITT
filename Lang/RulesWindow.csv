@@ -1,0 +1,22 @@
+﻿RulesWindow;Element Structure Diff (Rules GUI)
+button_view;View Rules...
+button_import;Import Rules...
+button_export;Export Rules...
+groupBox2;Lists
+Column7;Base Values
+Column8;Recent Values
+Column1;Base Fields
+Column2;Recent Fields
+Column3;Value Mismatches
+Column4;DEL
+Column6;Analyze
+radioButton_recentOffset;Keep Recent Offset
+radioButton_baseOffset;Use Base Offset
+checkBox_removeList;Remove List
+groupBox1;Files
+button_browseRecent;Browse...
+button_browseBase;Browse...
+label4;Version:
+label3;Version:
+label2;Recent File:
+label1;Base File:

@@ -1,0 +1,71 @@
+﻿NPCGenEditor;Universal Data Editor:: NPCGen;Universal Data Editor:: Npcgen;Universal Data Editor:: NPC;Editor de NPCGen - Rody's Angelica Editor;
+toolStripMenuItem1;Файл
+mnuOpen;Открыть;Open;打开;Abrir;
+mnuSave;Сохранить;Save;保存;Salvar;
+mnuExit;Выход;Exit;退出;Sair;
+tabNpcsAndMobs;Монстры и NPC;Npcs And Monsters;NPC和怪物;NPCs e monstros;
+cmdDefault;;;;;
+cmdDeleteGroup;Удалить;Delete;删除;Deletar;
+grpGetCoordinatesByTarget;Получение координат таргета;Get Coordinates By Target;获取坐标;Pegar coordenadas do target;
+grpMobsAndNpcs;Мобы/NPC в группе;Mobs And Npcs;组中的NPC/怪物;Monstros e NPCs;
+grpNpcName;Имя;Name;名称;Nome;
+chkDefFacAccept;Прием в группу:;Def Fac Accept:;入场人数：;Def Fac Accept:;
+lblPathID;ID Пути:;Path ID:;路径iD:;Path ID:;
+lblLoopType;Тип цикла:;Loop Type:;循环类型：;Tipo de Loop:;
+chkDefFaction;Группа:;Faction:;阵营：;Facção:;
+lblSpeedFlag;Флаг скорости:;Speed Flag:;速度标志：;Velocidade:;
+lblDeadTime;Время смерти:;Dead Time:;死亡时间：;Mortes:;
+chkDefFacHelper;Помощь группе:;Def Fac Helper:;帮助组:;Def Fac Helper;
+chkNeedHelp;Нужна помощь;Need Help;需要帮助;Need help:;
+lblIDMobOrNPC;ID Моба/NPC:;Mob/NPC ID:;NPC/怪物 ID：;Mob/NPC ID:;
+lblRefresh;Респаун:;Refresh:;刷新：;Atualizar:;
+lblDiedTimes;Смертей:;Died Times:;死亡时间：;Died times:;
+lblAggressive;Агрессия:;Is Aggressive:;主动攻击:;Agressivo:;
+lblNum;Количество:;Num:;数量：;Quantidade:;
+lblOffsetWater;Смещ. воды:;Offset Water:;水平偏移:;Offset água:;
+lblOffsetTrn;Смещ. поворота:;Offset Trn:;旋转偏移:;Offset terreno;
+cmdDeleteNPC;Удалить;Delete;删除;Deletar;
+cmdAddNPC;Добавить;Add;添加;Add;
+clmName2;Имя;Name;名称;Nome;
+grpGroupParams;Настройки группы;Params;组设置;Params;
+grpAttaches;Прикрепления;Attaches;附件;Anexos;
+cmdDeleteAttach;Удалить;Delete;删除;Deletar;
+cmdAddAttach;Добавить;Add;添加;Add;
+clmAttachID;;;;;
+grpParametrs;Параметры;Parameters;参数;Parâmetros;
+chkInitGen;Активировать генератор;Init Gen;激活触发器;Init Gen;
+chkAutoRevive;Мгновенный респ;Auto Revive;自动恢复;Auto Revive;
+chkValidOnce;;;;;
+cmbType;467;;;;
+cmbGroupType;468;;;;
+lblidBufRegion;idBufRegion:;ID Buf Region:;ID Buf地区：;ID Buf Region:;
+lblType2;Тип:;Type:;类型：;Tipo:;
+lblBehavior;Расположение:;Behavior:;地点：;Comportamento:;
+lblType;Тип:;Type:;类型:;Tipo:;
+lblGenID;Генератор (ID):;Gen ID:;发电机（ID）：;Gen ID:;
+lblidCtrl;Триггер:;ID Ctrl:;触发器：;ID Ctrl:;
+lblLifeTime;Время жизни:;Lifetime:;生活时间：;Tempo de vida:
+lblMaxNum;Макс кол-во:;Max Num:;最大数量:;Número máximo;
+lblExportID;Экспорт (ID):;Export ID:;导出ID:;Exportar ID;
+grpExts;Разброс;Exts;分散;Exts;
+label26;;;;;
+label27;;;;;
+label28;;;;;
+grpDirection;Поворот;Direction;方向;Direção;
+label4;;;;;
+label5;;;;;
+label6;;;;;
+grpPosition;Расположение;Position;位置;Posição;
+label3;;;;;
+label2;;;;;
+label1;;;;;
+cmdAddGroup;Добавить;Add;添加;Add;
+clmName;Имя;Name;名称;Nome;
+tabTriggers;Триггеры;Controllers;触发器;Controllers;
+cmdAddTrigger;Добавить;Add Trigger
+cmdDeleteTrigger;Удалить;Delete Trigger
+dataGridViewTextBoxColumn5;Name
+TriggerProperties;PropertyGrid
+lblNpcGenData;;;;;
+cmdOpen;Открыть;Open;打开;Abrir;
+cmdSave;Сохранить;Save;保存;Salvar;

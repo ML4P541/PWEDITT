@@ -1,0 +1,27 @@
+﻿Domain2Editor;Universal Data Editor:: domain2.data;Universal Data Editor:: Domain2.Data;Universal Data Editor:: 国战配置器Domain2.data;Editor Domain2.data - Rody's Angelica Editor
+toolStripMenuItem1;Файл;文件
+mnuOpen;Открыть;Open;打开;Abrir;
+mnuSave;Сохранить;Save;保存;Salvar
+mnuExit;Выход;Exit;退出;Sair;
+lblTimeNeighbours;Время перехода между картами (сек):;Transition Time Between Maps (Sec):;地图之间的过渡时间（秒）:;Tempo de transição entre territórios (seg)
+clmName;Название;Name;名称;Nome;
+clmPoints;Очки;Points;点;Pontos;
+clmBattleType;Тип битвы;Battle Type;战斗类型;Tipo de batalha;
+clmDynasty;Династия;Dynasty;阵营;Dinastia;
+clmIsBase;База;Is Base;基地;Base;
+clmPoint_1XYZ;Точка 1 (X | Y | Z);Point 1 (X | Y | Z);坐标1(X | Y | Z);Ponto 1 (X | Y | Z);
+clmPoint_2XYZ;Точка 2 (X | Y | Z);Point 2 (X | Y | Z);坐标2(X | Y | Z);Ponto 2 (X | Y | Z);
+clmPoint_3XYZ;Точка 3 (X | Y | Z);Point 3 (X | Y | Z);坐标3(X | Y | Z);Ponto 3 (X | Y | Z);
+clmPoint_4XYZ;Точка 4 (X | Y | Z);Point 4 (X | Y | Z);坐标4(X | Y | Z);Ponto 4 (X | Y | Z);
+propertyDomain;PropertyGrid
+cmdAddZone;Добавить зону;Add Zone;添加区域;Add zona;
+cmdDeleteZone;Удалить выбранную зону;Delete Zone;删除区域;Deletar zona;
+grpBattleTime;Время битвы;Battle Time;战斗时间;Tempo batalha;
+clmDayOfTheWeek;День недели;Day Of The Week;星期;Dia da semana;
+clmHours;Часы;Hours;小时;Hora;
+clmMinutes;Минуты;Minutes;分钟;Minutos;
+lblMaxTimeOfTheBattle;Максимальное время битвы:;Max Time Of The Battle:;最大战斗时间：;Tempo máximo batalha:;
+cmdExportToSev;Экспорт в .sev;Export To .Sev;导出到 .sev;Exportar .sev;
+lblDomain2
+cmdOpen;Открыть;Open;打开;Abrir;
+cmdSave;Сохранить;Save;保存;Salvar;
